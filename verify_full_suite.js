@@ -535,6 +535,13 @@ evalInCtx("document.getElementById('trunkBikeSelect').value = 'S80';");
 evalInCtx('runTrunkSimulator()');
 const s80TrunkHtml = elements['trunkSimOutput'].innerHTML;
 assert(s80TrunkHtml.includes('不可折疊小徑車'), 'S80 must trigger nonfold warning in trunk simulator');
+
+// Test newly added Ford Focus 5D preset
+evalInCtx("document.getElementById('trunkCarSelect').value = 'focus';");
+evalInCtx("document.getElementById('trunkBikeSelect').value = 'S01';");
+evalInCtx('runTrunkSimulator()');
+const focusTrunkHtml = elements['trunkSimOutput'].innerHTML;
+assert(focusTrunkHtml.includes('Ford Focus'), 'Trunk sim must display Ford Focus 5D preset');
 console.log('[PASS] Test 21: Trunk Fit Simulator handles Sedan/CUV/SUV presets, derailleur rule, and nonfold warnings');
 
 // Test 22: Quiz Wizard Recommendation Engine Verification

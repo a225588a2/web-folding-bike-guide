@@ -103,6 +103,7 @@
     // Trunk Fit Simulator
     const TRUNK_MODELS = {
         "altis": { name: "Toyota Altis 12代 (國民轎車 470L)", type: "Sedan", L: 95, W: 105, H: 50, foldL: 170 },
+        "focus": { name: "2020 Ford Focus 5D (Mk4 掀背 375L)", type: "Hatchback", L: 84, W: 102, H: 70, foldL: 162 },
         "cross": { name: "Toyota Corolla Cross (跨界休旅 487L)", type: "CUV", L: 82, W: 100, H: 75, foldL: 155 },
         "rav4": { name: "Toyota RAV4 5代 (中型休旅 580L)", type: "SUV", L: 95, W: 102, H: 85, foldL: 175 },
         "fit": { name: "Honda Fit 4代 (五門掀背 304L)", type: "Hatchback", L: 65, W: 98, H: 80, foldL: 145 }
