@@ -108,7 +108,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.brompton.com",
+      "https://www.jeslerbike.com",
+      "https://thermaltake.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S02",
@@ -220,7 +226,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.brompton.com",
+      "https://www.thebromptonman.com",
+      "https://thermaltake.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S03",
@@ -331,7 +343,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.pacific-cycles.com",
+      "https://www.jeslerbike.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S04",
@@ -434,7 +451,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.pacific-cycles.com",
+      "https://www.jeslerbike.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S05",
@@ -540,7 +562,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.pacific-cycles.com",
+      "https://www.pacificcarryme.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S06",
@@ -638,7 +665,11 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.pacific-cycles.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S07",
@@ -737,7 +768,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.tyrellbike.com",
+      "https://thermaltake.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S08",
@@ -842,7 +878,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.tyrellbike.com",
+      "https://thermaltake.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S09",
@@ -947,7 +988,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.caracle.co.jp"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S10",
@@ -977,11 +1022,11 @@
       100
     ],
     "foldedSizeCm": [
-      79,
-      70,
-      33
+      88.5,
+      71.0,
+      35.0
     ],
-    "foldedVolumeL": 182.5,
+    "foldedVolumeL": 219.9,
     "transportRating": "羽量6.7kg單手兩指提行/高鐵台鐵極限輕盈",
     "foldingType": "全碳纖維三件式縱折公路跑車",
     "foldSeconds": 30,
@@ -1051,7 +1096,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.caracle.co.jp"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S11",
@@ -1140,8 +1189,8 @@
     "imageUrl": "images/S11.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S11.jpg\" \n             alt=\"STRiDA LT / SX 系列 (三角單速皮帶都會折疊)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f59e0b; font-weight: 700;\">📷 STRiDA 實拍</span>\n            <span class=\"photo-tech-badge\">16\"~18\" · 專利</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S11.jpg\" \n             alt=\"STRiDA LT / SX 系列 (三角單速皮帶都會折疊)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f59e0b; font-weight: 700;\">📷 STRiDA 實拍</span>\n            <span class=\"photo-tech-badge\">16\"~18\" · 專利</span>\n        </div>\n    </div>",
-    "productionStatus": "DISCONTINUED_CLASSIC",
-    "firstReleaseYear": 2000,
+    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "firstReleaseYear": 1987,
     "latestModelYear": 2022,
     "twDistributor": "台灣經銷門市或授權車行",
     "twChannelAuthority": "專門小徑工作室",
@@ -1149,7 +1198,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.strida.com",
+      "https://www.strida.tw",
+      "https://www.mingcycle.com.tw"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S12",
@@ -1238,8 +1293,8 @@
     "imageUrl": "images/S12.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S12.jpg\" \n             alt=\"STRiDA EVO 系列 (腳踢內三速皮帶旗艦)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f59e0b; font-weight: 700;\">📷 STRiDA 實拍</span>\n            <span class=\"photo-tech-badge\">18\" (355) · A-Frame</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S12.jpg\" \n             alt=\"STRiDA EVO 系列 (腳踢內三速皮帶旗艦)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f59e0b; font-weight: 700;\">📷 STRiDA 實拍</span>\n            <span class=\"photo-tech-badge\">18\" (355) · A-Frame</span>\n        </div>\n    </div>",
-    "productionStatus": "DISCONTINUED_CLASSIC",
-    "firstReleaseYear": 2000,
+    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "firstReleaseYear": 2012,
     "latestModelYear": 2022,
     "twDistributor": "台灣經銷門市或授權車行",
     "twChannelAuthority": "專門小徑工作室",
@@ -1247,7 +1302,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.strida.com",
+      "https://www.strida.tw",
+      "https://www.mingcycle.com.tw"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S13",
@@ -1335,7 +1396,7 @@
       }
     ],
     "twChannel": "台北小哲居單車 (Bikehome) 台灣獨家正規總代理 / 保固後勤",
-    "officialUrl": "https://www.bikehome.com.tw",
+    "officialUrl": "https://www.lidropbike.com",
     "svgType": "carbon3",
     "foldingCategory": "trifold",
     "aliases": [
@@ -1351,7 +1412,7 @@
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S13.jpg\" \n             alt=\"LIDROP 一丁點 H.01 / H6 全碳極速三折系列\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f59e0b; font-weight: 700;\">📷 LIDROP 實拍</span>\n            <span class=\"photo-tech-badge\">16\" (305) · 前後四連桿同動立體極速三折</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S13.jpg\" \n             alt=\"LIDROP 一丁點 H.01 / H6 全碳極速三折系列\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f59e0b; font-weight: 700;\">📷 LIDROP 實拍</span>\n            <span class=\"photo-tech-badge\">16\" (305) · 前後四連桿同動立體極速三折</span>\n        </div>\n    </div>",
     "productionStatus": "ACTIVE_IN_PRODUCTION",
-    "firstReleaseYear": 2000,
+    "firstReleaseYear": 2023,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
     "twChannelAuthority": "總代理公司貨",
@@ -1359,7 +1420,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.lidropbike.com",
+      "https://www.bikehome.com.tw"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S14",
@@ -1455,7 +1521,7 @@
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S14.jpg\" \n             alt=\"Bike Friday New World Tourist (NWT) 旅行系列\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406) · 4130</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S14.jpg\" \n             alt=\"Bike Friday New World Tourist (NWT) 旅行系列\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406) · 4130</span>\n        </div>\n    </div>",
     "productionStatus": "ACTIVE_IN_PRODUCTION",
-    "firstReleaseYear": 2000,
+    "firstReleaseYear": 1992,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
     "twChannelAuthority": "總代理公司貨",
@@ -1463,7 +1529,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://bikefriday.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S15",
@@ -1553,7 +1623,7 @@
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S15.jpg\" \n             alt=\"Bike Friday Pocket Rocket / Pro 公路火箭系列\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (451) · 下翻縱折</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S15.jpg\" \n             alt=\"Bike Friday Pocket Rocket / Pro 公路火箭系列\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (451) · 下翻縱折</span>\n        </div>\n    </div>",
     "productionStatus": "ACTIVE_IN_PRODUCTION",
-    "firstReleaseYear": 2000,
+    "firstReleaseYear": 1994,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
     "twChannelAuthority": "總代理公司貨",
@@ -1561,7 +1631,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://bikefriday.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S16",
@@ -1656,7 +1730,7 @@
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S16.jpg\" \n             alt=\"Bike Friday pakiT 系列 (羽量後背包小折)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">16\" (349) · 雙向垂直縱折</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S16.jpg\" \n             alt=\"Bike Friday pakiT 系列 (羽量後背包小折)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">16\" (349) · 雙向垂直縱折</span>\n        </div>\n    </div>",
     "productionStatus": "ACTIVE_IN_PRODUCTION",
-    "firstReleaseYear": 2000,
+    "firstReleaseYear": 2016,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
     "twChannelAuthority": "總代理公司貨",
@@ -1664,7 +1738,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://bikefriday.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S17",
@@ -1753,7 +1831,7 @@
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S17.jpg\" \n             alt=\"Bike Friday All-Packa 系列 (全地形礫石探險)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406) · 重裝縱向下折</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S17.jpg\" \n             alt=\"Bike Friday All-Packa 系列 (全地形礫石探險)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #10b981; font-weight: 700;\">📷 Bike Friday 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406) · 重裝縱向下折</span>\n        </div>\n    </div>",
     "productionStatus": "ACTIVE_IN_PRODUCTION",
-    "firstReleaseYear": 2000,
+    "firstReleaseYear": 2022,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
     "twChannelAuthority": "總代理公司貨",
@@ -1761,7 +1839,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://bikefriday.com",
+      "https://bikepacking.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S18",
@@ -1867,7 +1950,11 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S19",
@@ -1973,7 +2060,11 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S20",
@@ -2078,7 +2169,11 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S21",
@@ -2093,10 +2188,10 @@
     ],
     "medianPrice": 25800,
     "tcoEstimate": 27000,
-    "weightKg": 11.8,
+    "weightKg": 12.3,
     "weightRange": [
-      11.6,
-      12.0
+      12.0,
+      12.6
     ],
     "wheelSize": "20\" (406)",
     "wheelSizeCat": "20",
@@ -2171,7 +2266,11 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S22",
@@ -2186,10 +2285,10 @@
     ],
     "medianPrice": 34000,
     "tcoEstimate": 36000,
-    "weightKg": 12.5,
+    "weightKg": 12.8,
     "weightRange": [
       12.2,
-      12.9
+      13.8
     ],
     "wheelSize": "16\" (349)",
     "wheelSizeCat": "16",
@@ -2277,7 +2376,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com",
+      "https://bikefolded.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S23",
@@ -2375,7 +2479,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com",
+      "https://usa.dahon.com/products/briza-d8-2",
+      "https://www.bikefolded.com/dahon-espresso-d24-folding-bike-review/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S24",
@@ -2480,7 +2590,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期檢視 OCL+ 專利接頭鎖扣張力與關節防護，確認 Physis 3D 立管閉合無虛位。",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/472/verge-p10",
+      "https://www.ternbicycles.com/en/bikes/472/verge-x11",
+      "https://www.ternbicycles.com/en/bikes/472/verge-d9"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S25",
@@ -2584,7 +2700,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期檢視 OCL+ 專利接頭鎖扣張力與關節防護，確認 Physis 3D 立管閉合無虛位。",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/473/link-d8",
+      "https://www.ternbicycles.com/en/bikes/473/link-b8",
+      "https://www.ternbicycles.com/en/bikes/473/link-a7"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S26",
@@ -2601,8 +2723,8 @@
     "tcoEstimate": 51000,
     "weightKg": 13.2,
     "weightRange": [
-      13.0,
-      13.5
+      12.7,
+      14.3
     ],
     "wheelSize": "20\" (406)",
     "wheelSizeCat": "20",
@@ -2682,7 +2804,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期檢視 OCL+ 專利接頭鎖扣張力與關節防護，確認 Physis 3D 立管閉合無虛位。",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/471/byb-p8",
+      "https://www.ternbicycles.com/en/bikes/471/byb-s11",
+      "https://www.bikefolded.com/tern-byb-p8-folding-bike-review/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S27",
@@ -2775,7 +2903,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期檢視 OCL+ 專利接頭鎖扣張力與關節防護，確認 Physis 3D 立管閉合無虛位。",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/471/vektron-s10"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S28",
@@ -2873,7 +3005,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.javabikes.com",
+      "https://cycleomania.com/bikes/java-fit-18-speed-folding-bike/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S29",
@@ -2971,7 +3108,14 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://bikefun.com.tw",
+      "https://www.javabikes.com",
+      "https://cheungkee.co",
+      "https://thebikeatrium.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S30",
@@ -3067,7 +3211,7 @@
     "imageUrl": "images/S30.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S30.jpg\" \n             alt=\"Montague Paratrooper 系列 (傘兵越野大折)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f97316; font-weight: 700;\">📷 Montague 實拍</span>\n            <span class=\"photo-tech-badge\">26\"~27.5\" · F.I.T.</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S30.jpg\" \n             alt=\"Montague Paratrooper 系列 (傘兵越野大折)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f97316; font-weight: 700;\">📷 Montague 實拍</span>\n            <span class=\"photo-tech-badge\">26\"~27.5\" · F.I.T.</span>\n        </div>\n    </div>",
-    "productionStatus": "DISCONTINUED_CLASSIC",
+    "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2000,
     "latestModelYear": 2022,
     "twDistributor": "台灣經銷門市或授權車行",
@@ -3076,7 +3220,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.montaguebikes.com/product/paratrooper/",
+      "https://www.montaguebikes.com/product/paratrooper-pro/",
+      "https://www.montaguebikes.com/product/paratrooper-express/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S31",
@@ -3181,7 +3331,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.montaguebikes.com/product/urban/",
+      "https://www.montaguebikes.com/product/fit/",
+      "https://www.montaguebikes.com/product/boston/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S32",
@@ -3279,7 +3435,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.changebike.com",
+      "https://www.changebike.com.tw"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S33",
@@ -3377,7 +3538,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.changebike.com",
+      "https://www.changebike.com.tw/gf-gravel.html"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S34",
@@ -3392,7 +3558,7 @@
     ],
     "medianPrice": 62000,
     "tcoEstimate": 66000,
-    "weightKg": 12.8,
+    "weightKg": 12.2,
     "weightRange": [
       10.7,
       12.5
@@ -3466,7 +3632,7 @@
     "imageUrl": "images/S34.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S34.jpg\" \n             alt=\"Tern Eclipse 系列 (26吋 超速跑格大折)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f97316; font-weight: 700;\">📷 Tern 實拍</span>\n            <span class=\"photo-tech-badge\">26\" (559) · OCL</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S34.jpg\" \n             alt=\"Tern Eclipse 系列 (26吋 超速跑格大折)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #f97316; font-weight: 700;\">📷 Tern 實拍</span>\n            <span class=\"photo-tech-badge\">26\" (559) · OCL</span>\n        </div>\n    </div>",
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 2000,
     "latestModelYear": 2026,
     "twDistributor": "Tern 台灣總代理授權經銷網",
@@ -3475,7 +3641,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期檢視 OCL+ 專利接頭鎖扣張力與關節防護，確認 Physis 3D 立管閉合無虛位。",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/472/eclipse-x22",
+      "https://www.ternbicycles.com/en/bikes/472/eclipse-p20"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S35",
@@ -3566,7 +3737,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期檢視 OCL+ 專利接頭鎖扣張力與關節防護，確認 Physis 3D 立管閉合無虛位。",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/473/node-d8"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S36",
@@ -3672,7 +3847,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f-20t3f-451/",
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f20-rc-2022/",
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f20-jj/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S37",
@@ -3769,7 +3950,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f16-d/",
+      "https://jeslerbike.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S38",
@@ -3870,7 +4056,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.giant-bicycles.com/us/expressway-1",
+      "https://www.giant-bicycles.com/us/expressway-2"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S39",
@@ -3968,7 +4159,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.giant-bicycles.com/tw",
+      "https://www.momentum-biking.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S40",
@@ -4067,7 +4263,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.giant-bicycles.com/tw",
+      "https://www.mobile01.com/topicdetail.php?f=317&t=587848"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S41",
@@ -4157,7 +4358,7 @@
     "imageUrl": "images/S41.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S41.png\" \n             alt=\"GIANT MR4 經典氣壓縱折 24吋跑車傳奇\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 GIANT 實拍</span>\n            <span class=\"photo-tech-badge\">24\" (520 特規跑車輪徑) · 五通培林轉點向上翻折</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S41.png\" \n             alt=\"GIANT MR4 經典氣壓縱折 24吋跑車傳奇\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 GIANT 實拍</span>\n            <span class=\"photo-tech-badge\">24\" (520 特規跑車輪徑) · 五通培林轉點向上翻折</span>\n        </div>\n    </div>",
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 2000,
     "latestModelYear": 2026,
     "twDistributor": "GIANT 台灣直營門市與特約經銷",
@@ -4166,7 +4367,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.giant-bicycles.com/tw",
+      "https://www.mobile01.com/topicdetail.php?f=317&t=5179040"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S42",
@@ -4265,7 +4471,7 @@
     "imageUrl": "images/S42.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S42.png\" \n             alt=\"Merida 飛翔系列 (Flyer / FB-S050 / FB-220)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 Merida 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406) · 鋁合金/高碳鋼水平中折</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S42.png\" \n             alt=\"Merida 飛翔系列 (Flyer / FB-S050 / FB-220)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 Merida 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406) · 鋁合金/高碳鋼水平中折</span>\n        </div>\n    </div>",
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 2000,
     "latestModelYear": 2026,
     "twDistributor": "Merida 台灣直營門市與特約經銷",
@@ -4274,7 +4480,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.merida-bikes.com/zh-tw",
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1530221"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S43",
@@ -4364,7 +4575,7 @@
     "imageUrl": "images/S43.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S43.jpg\" \n             alt=\"Oyama Skyline 天際系列 (A200/A300/M500)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 Oyama 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406/451) · 專利</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S43.jpg\" \n             alt=\"Oyama Skyline 天際系列 (A200/A300/M500)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 Oyama 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406/451) · 專利</span>\n        </div>\n    </div>",
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 2000,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
@@ -4373,7 +4584,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1067332",
+      "http://www.oyama.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S44",
@@ -4461,7 +4677,7 @@
     "imageUrl": "images/S44.jpg",
     "photoHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S44.jpg\" \n             alt=\"Oyama Dolphin 海豚車系 (CR16 一體弧形)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 Oyama 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406/451) · 弧形海豚背一體液壓抽管車架</span>\n        </div>\n    </div>",
     "svgHtml": "<div class=\"bike-photo-container\">\n        <img src=\"images/S44.jpg\" \n             alt=\"Oyama Dolphin 海豚車系 (CR16 一體弧形)\" \n             class=\"bike-real-photo\" \n             loading=\"lazy\" \n             onerror=\"this.onerror=null; this.src='images/S01.jpg';\" />\n        <div class=\"photo-floating-badge\">\n            <span style=\"color: #a855f7; font-weight: 700;\">📷 Oyama 實拍</span>\n            <span class=\"photo-tech-badge\">20\" (406/451) · 弧形海豚背一體液壓抽管車架</span>\n        </div>\n    </div>",
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 2000,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
@@ -4470,7 +4686,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=619623",
+      "http://www.oyama.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S45",
@@ -4569,7 +4790,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "http://www.fnhon.com",
+      "https://www.decathlon.com.hk",
+      "https://www.mobile01.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S46",
@@ -4671,7 +4898,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "http://www.fnhon.com",
+      "https://fnhon.sg",
+      "https://www.decathlon.com.hk"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S47",
@@ -4769,7 +5002,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "http://www.fnhon.com",
+      "https://superbiker.hk",
+      "https://liteprobicycle.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S48",
@@ -4845,7 +5084,7 @@
       }
     ],
     "twChannel": "露天/蝦皮自組工坊 / 城市綠洲改裝特約店",
-    "officialUrl": "https://www.criusbike.com",
+    "officialUrl": "http://www.liteprobike.com/",
     "svgType": "midfold",
     "foldingCategory": "midfold",
     "aliases": [
@@ -4867,7 +5106,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "http://www.liteprobike.com/",
+      "https://liteprobicycle.com/",
+      "https://fnhon.sg"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S49",
@@ -4943,7 +5188,7 @@
       }
     ],
     "twChannel": "蝦皮各大改裝工作室 / 小徑單車自組社團",
-    "officialUrl": "https://www.criusbike.com",
+    "officialUrl": "http://www.liteprobike.com/",
     "svgType": "midfold",
     "foldingCategory": "midfold",
     "aliases": [
@@ -4965,7 +5210,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "http://www.liteprobike.com/",
+      "https://liteprobicycle.com/",
+      "https://bikeforums.net"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S50",
@@ -5062,7 +5313,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.bikefun.com.tw",
+      "https://www.bikehome.com.tw",
+      "https://chriscyclehk.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S51",
@@ -5160,7 +5417,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com",
+      "http://dahon.com.hk",
+      "http://www.77bike.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S52",
@@ -5257,7 +5520,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.mobile01.com",
+      "http://www.77bike.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S53",
@@ -5354,7 +5622,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.bikeforums.net",
+      "https://www.mobile01.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S54",
@@ -5470,7 +5743,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.decathlon.tw",
+      "https://manuals.plus/btwin/tilt-500-900-folding-bike-manual"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S55",
@@ -5501,11 +5779,11 @@
       112
     ],
     "foldedSizeCm": [
-      84,
-      44,
-      77
+      84.0,
+      34.0,
+      77.0
     ],
-    "foldedVolumeL": 284.6,
+    "foldedVolumeL": 219.9,
     "transportRating": "整合推行輔助輪/折疊後高鐵台鐵捷運攜車袋可上車",
     "foldingType": "縱向翻折 (專利後三角縱向下折避震機構)",
     "foldSeconds": 15,
@@ -5571,7 +5849,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.besv.com.tw",
+      "https://www.momoshop.com.tw",
+      "https://www.jeslerbike.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S56",
@@ -5682,7 +5966,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 2.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限"
+    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限",
+    "sources": [
+      "https://www.mobile01.com",
+      "https://shopee.tw"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S57",
@@ -5764,7 +6053,7 @@
       }
     ],
     "twChannel": "蝦皮購物台灣 / 露天市集 / 台灣中壢老把家單車 / 彰化實體經銷展示店",
-    "officialUrl": "https://www.irlandbikes.com.tw",
+    "officialUrl": "http://www.irland.com.tw",
     "svgType": "midfold",
     "foldingCategory": "midfold",
     "aliases": [
@@ -5790,7 +6079,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "http://www.irland.com.tw",
+      "https://shopee.tw",
+      "https://www.mobile01.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S58",
@@ -5807,7 +6102,7 @@
     "tcoEstimate": 16500,
     "weightKg": 11.5,
     "weightRange": [
-      7.9,
+      10.8,
       13.5
     ],
     "wheelSize": "16\"~20\" (406)",
@@ -5898,7 +6193,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.hasa.com.tw",
+      "https://www.mobile01.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S59",
@@ -6005,7 +6305,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://solorock.us"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S60",
@@ -6107,7 +6411,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.e-otomo.co.jp",
+      "https://item.rakuten.co.jp"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S61",
@@ -6213,7 +6522,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://shopee.tw",
+      "https://www.ruten.com.tw"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S62",
@@ -6316,7 +6630,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.dahon.com",
+      "http://dahon.com.hk",
+      "http://www.dahon.bj.cn"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S63",
@@ -6419,7 +6739,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.qicycle.com",
+      "https://www.momoshop.com.tw",
+      "https://www.pchome.com.tw"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S64",
@@ -6478,7 +6804,7 @@
       }
     ],
     "twChannel": "Moulton 台灣授權經銷通路",
-    "officialUrl": "https://www.foldingbike.guide",
+    "officialUrl": "https://www.moultonbicycles.co.uk",
     "svgType": "coaxial",
     "aliases": [
       "Alex Moulton",
@@ -6508,7 +6834,7 @@
       10.5,
       11.6
     ],
-    "productionStatus": "COLLECTIBLE_VINTAGE",
+    "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2012,
     "latestModelYear": 2018,
     "twDistributor": "台灣代理/專業工作室",
@@ -6517,7 +6843,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化"
+    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化",
+    "sources": [
+      "https://www.moultonbicycles.co.uk/",
+      "https://www.jeslerbike.com",
+      "https://www.mobile01.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S65",
@@ -6591,11 +6923,11 @@
     ],
     "imageUrl": "images/S65.jpg",
     "priceRange": [
-      58000,
-      145000
+      22000,
+      45000
     ],
-    "medianPrice": 92000,
-    "tcoEstimate": 98000,
+    "medianPrice": 33500,
+    "tcoEstimate": 36000,
     "foldedSizeCm": [
       78.0,
       35.0,
@@ -6607,7 +6939,7 @@
       10.0,
       11.1
     ],
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 2012,
     "latestModelYear": 2026,
     "twDistributor": "台灣授權代理經銷",
@@ -6616,7 +6948,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.bikefun.com.tw",
+      "https://www.jeslerbike.com",
+      "https://www.neighborrider.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S66",
@@ -6626,7 +6964,7 @@
     "camp": "歐美客製與頂級工藝",
     "campCode": "boutique",
     "wheelSize": "24\" (520)",
-    "wheelSizeCat": "20",
+    "wheelSizeCat": "24",
     "tireClearance": "相容 1.25 ~ 1.75 寬胎",
     "wheelbaseMm": 1020,
     "unfoldedSizeCm": [
@@ -6675,7 +7013,7 @@
       }
     ],
     "twChannel": "Airnimal 台灣授權經銷通路",
-    "officialUrl": "https://www.foldingbike.guide",
+    "officialUrl": "https://airnimal.co.uk",
     "svgType": "vertical",
     "aliases": [
       "變色龍",
@@ -6694,12 +7032,12 @@
     "medianPrice": 92000,
     "tcoEstimate": 98000,
     "foldedSizeCm": [
-      78.0,
-      35.0,
-      68.0
+      90.0,
+      30.0,
+      85.0
     ],
     "weightKg": 10.5,
-    "foldedVolumeL": 185.6,
+    "foldedVolumeL": 229.5,
     "weightRange": [
       10.0,
       11.1
@@ -6713,7 +7051,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://airnimal.co/",
+      "https://www.spacycles.co.uk",
+      "https://www.bikeradar.com"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S67",
@@ -6810,7 +7154,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=751411",
+      "https://www.imb2b.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S68",
@@ -6907,7 +7256,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 2.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限"
+    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限",
+    "sources": [
+      "https://bikerumor.com/interbike-2009-jango-flik-folding-bikes/",
+      "https://www.avonvalleycyclery.co.uk/",
+      "https://cyclowired.jp/news/node/14848"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S69",
@@ -6991,11 +7346,11 @@
       36.0,
       66.0
     ],
-    "weightKg": 11.5,
+    "weightKg": 9.8,
     "foldedVolumeL": 190.1,
     "weightRange": [
-      11.0,
-      12.1
+      9.5,
+      10.2
     ],
     "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2012,
@@ -7006,7 +7361,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度"
+    "buyingTraps": "檢查碳纖維折疊關節金屬嵌入處有無膠裂，頭管碗組定期預壓檢查。",
+    "sources": [
+      "https://savabicycle.com/",
+      "https://www.biketo.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S70",
@@ -7087,11 +7447,11 @@
       36.0,
       66.0
     ],
-    "weightKg": 11.5,
+    "weightKg": 9.8,
     "foldedVolumeL": 190.1,
     "weightRange": [
-      11.0,
-      12.1
+      9.5,
+      10.2
     ],
     "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2012,
@@ -7102,7 +7462,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度"
+    "buyingTraps": "檢查碳纖維折疊關節金屬嵌入處有無膠裂，頭管碗組定期預壓檢查。",
+    "sources": [
+      "https://www.twitter-bikes.com/",
+      "https://www.dcfever.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S71",
@@ -7199,7 +7564,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 2.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限"
+    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限",
+    "sources": [
+      "https://dahon.com/",
+      "https://cyclingindustry.news/dahon-nouveau-flat-fold-technology/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S72",
@@ -7296,7 +7666,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://bikerumor.com/eurobike-2014-dahon-clinches-it-with-lockjaw-road-mountain-and-folding-bikes/",
+      "https://dahon.com/bikes/clinch-d10/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S73",
@@ -7393,7 +7768,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意專利高張力鋼索拉力疲勞、玻璃纖維板龜裂、轉點防鬆螺絲滑動"
+    "buyingTraps": "注意專利高張力鋼索拉力疲勞、玻璃纖維板龜裂、轉點防鬆螺絲滑動",
+    "sources": [
+      "https://www.slingshotbikes.com/",
+      "https://www.outsideonline.com/outdoor-gear/gear-news/cable-guy/",
+      "https://www.mombatbicycles.com/MOMBAT/BikeLists/Slingshot.html"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S74",
@@ -7466,11 +7847,11 @@
     ],
     "imageUrl": "images/S74.jpg",
     "priceRange": [
-      58000,
-      145000
+      43000,
+      52000
     ],
-    "medianPrice": 92000,
-    "tcoEstimate": 98000,
+    "medianPrice": 47500,
+    "tcoEstimate": 51000,
     "foldedSizeCm": [
       78.0,
       35.0,
@@ -7482,7 +7863,7 @@
       10.0,
       11.1
     ],
-    "productionStatus": "COLLECTIBLE_VINTAGE",
+    "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 1995,
     "latestModelYear": 2018,
     "twDistributor": "台灣代理/專業工作室",
@@ -7491,7 +7872,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化"
+    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化",
+    "sources": [
+      "https://www.pacific-cycles.com/birdy/classic",
+      "https://birdybicycle.com/pages/birdy-classic"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S75",
@@ -7588,7 +7974,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 2,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意滑軌伸縮伸縮銷卡死磨損、特規雙鏈條拉伸跳齒、內走線外管破裂"
+    "buyingTraps": "注意滑軌伸縮伸縮銷卡死磨損、特規雙鏈條拉伸跳齒、內走線外管破裂",
+    "sources": [
+      "https://manuals.plus/mobiky/genius-folding-bike-manual"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S76",
@@ -7685,7 +8075,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 2.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限"
+    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限",
+    "sources": [
+      "https://www.doppelganger.jp/product/202/",
+      "https://www.doppelganger.jp/product/211/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S77",
@@ -7781,7 +8176,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1018944"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S78",
@@ -7791,7 +8190,7 @@
     "camp": "全尺寸大輪徑折疊",
     "campCode": "fullsize",
     "wheelSize": "700C (622)",
-    "wheelSizeCat": "18",
+    "wheelSizeCat": "24+",
     "tireClearance": "相容 1.25 ~ 1.75 寬胎",
     "wheelbaseMm": 1020,
     "unfoldedSizeCm": [
@@ -7878,7 +8277,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.montaguebikes.com/boston-folding-bike/",
+      "https://www.montaguebikes.com/navigator-folding-bike/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S79",
@@ -7956,15 +8360,15 @@
     "medianPrice": 92000,
     "tcoEstimate": 98000,
     "foldedSizeCm": [
-      35.0,
-      28.0,
-      88.0
+      102.0,
+      27.0,
+      66.0
     ],
-    "weightKg": 9.5,
-    "foldedVolumeL": 86.2,
+    "weightKg": 14.9,
+    "foldedVolumeL": 181.8,
     "weightRange": [
-      9.0,
-      10.1
+      14.5,
+      15.2
     ],
     "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 1995,
@@ -7975,7 +8379,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.pacific-cycles.com/IF-Mode",
+      "https://newatlas.com/if-mode-full-sized-folding-commuter-bike/11181/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S80",
@@ -8073,7 +8482,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.tyrellbike.com/products/csi/",
+      "https://itami-kanzaki.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S81",
@@ -8170,7 +8584,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1067215",
+      "https://www.biketo.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S82",
@@ -8268,7 +8687,11 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化"
+    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=410012"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S83",
@@ -8365,7 +8788,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://hummingbirdbike.com/",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/hummingbird-folding-bike-review"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S84",
@@ -8443,12 +8871,12 @@
     "medianPrice": 92000,
     "tcoEstimate": 98000,
     "foldedSizeCm": [
-      78.0,
-      35.0,
-      68.0
+      79.0,
+      57.0,
+      29.0
     ],
     "weightKg": 10.5,
-    "foldedVolumeL": 185.6,
+    "foldedVolumeL": 130.6,
     "weightRange": [
       10.0,
       11.1
@@ -8462,7 +8890,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://vello.bike/",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/vello-rocky-review"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S85",
@@ -8539,12 +8972,12 @@
     "medianPrice": 92000,
     "tcoEstimate": 98000,
     "foldedSizeCm": [
-      82.0,
-      36.0,
-      72.0
+      71.1,
+      26.7,
+      63.5
     ],
     "weightKg": 11.0,
-    "foldedVolumeL": 212.5,
+    "foldedVolumeL": 120.5,
     "weightRange": [
       10.5,
       11.6
@@ -8558,7 +8991,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://helix.ca/",
+      "https://www.thermaltake.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S86",
@@ -8637,15 +9075,15 @@
     "medianPrice": 92000,
     "tcoEstimate": 98000,
     "foldedSizeCm": [
-      35.0,
-      28.0,
-      88.0
+      88.0,
+      39.0,
+      61.5
     ],
-    "weightKg": 9.5,
-    "foldedVolumeL": 86.2,
+    "weightKg": 16.6,
+    "foldedVolumeL": 210.8,
     "weightRange": [
-      9.0,
-      10.1
+      16.0,
+      17.6
     ],
     "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2012,
@@ -8656,7 +9094,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://gocycle.com/",
+      "https://fullycharged.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S87",
@@ -8666,7 +9109,7 @@
     "camp": "經典工藝與極限收折",
     "campCode": "classic",
     "wheelSize": "6\" / 8\"",
-    "wheelSizeCat": "18",
+    "wheelSizeCat": "8-14",
     "tireClearance": "相容 1.25 ~ 1.75 寬胎",
     "wheelbaseMm": 1020,
     "unfoldedSizeCm": [
@@ -8753,7 +9196,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化"
+    "buyingTraps": "注意老車原廠特規備品短缺、漆面氧化、膠塊老化",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A-bike",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/sinclair-a-bike-review"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S88",
@@ -8763,7 +9211,7 @@
     "camp": "歐美客製與頂級工藝",
     "campCode": "boutique",
     "wheelSize": "12\" (203)",
-    "wheelSizeCat": "20",
+    "wheelSizeCat": "8-14",
     "tireClearance": "相容 1.25 ~ 1.75 寬胎",
     "wheelbaseMm": 1020,
     "unfoldedSizeCm": [
@@ -8849,7 +9297,11 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.kwigglebike.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S89",
@@ -8945,7 +9397,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "http://www.bickertonportables.co.uk/",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/bickerton-junction-1707-city-review",
+      "https://www.planet-bike.co.uk/bikes/folding-bikes/bickerton-junction-1707-city-folding-bike__2825"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S90",
@@ -8955,7 +9413,7 @@
     "camp": "經典工藝與極限收折",
     "campCode": "classic",
     "wheelSize": "12\" (203)",
-    "wheelSizeCat": "20",
+    "wheelSizeCat": "8-14",
     "tireClearance": "相容 1.25 ~ 1.75 寬胎",
     "wheelbaseMm": 1020,
     "unfoldedSizeCm": [
@@ -9024,18 +9482,18 @@
     "medianPrice": 92000,
     "tcoEstimate": 98000,
     "foldedSizeCm": [
-      78.0,
-      35.0,
-      68.0
+      63.0,
+      29.0,
+      48.0
     ],
     "weightKg": 10.5,
-    "foldedVolumeL": 185.6,
+    "foldedVolumeL": 87.7,
     "weightRange": [
       10.0,
       11.1
     ],
     "productionStatus": "DISCONTINUED_CLASSIC",
-    "firstReleaseYear": 2012,
+    "firstReleaseYear": 2000,
     "latestModelYear": 2022,
     "twDistributor": "台灣經銷門市或授權車行",
     "twChannelAuthority": "專門小徑工作室",
@@ -9043,7 +9501,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.taiwan-panorama.com/Articles/Details?Guid=9305041008034",
+      "https://www.atob.org.uk/folding-bikes/frog-review/",
+      "https://www.pacific-cycles.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S91",
@@ -9131,7 +9595,7 @@
       10.0,
       11.1
     ],
-    "productionStatus": "DISCONTINUED_CLASSIC",
+    "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2012,
     "latestModelYear": 2022,
     "twDistributor": "台灣經銷門市或授權車行",
@@ -9140,7 +9604,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://tartaruga-ew.com/",
+      "https://tartaruga-ew.com/en/lineup/type-sport/",
+      "https://www.cycleshibuya.com/products/detail.php?product_id=4084"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S92",
@@ -9227,7 +9697,7 @@
       10.0,
       11.1
     ],
-    "productionStatus": "DISCONTINUED_CLASSIC",
+    "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2012,
     "latestModelYear": 2022,
     "twDistributor": "台灣經銷門市或授權車行",
@@ -9236,7 +9706,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://bernds.de/",
+      "https://bernds.de/faltrad/",
+      "https://www.rohloff.de/en/experience/bike-finder/bernds-faltrad"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S93",
@@ -9335,7 +9811,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.dahon.com/",
+      "https://dahon.com.hk/products/dahon-mu-slx-pka015-folding-bike",
+      "https://www.hkbicycle.com/products/dahon-mu-slx-pka015"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S94",
@@ -9414,12 +9896,12 @@
     "medianPrice": 24800,
     "tcoEstimate": 30800,
     "foldedSizeCm": [
-      80.0,
-      36.0,
-      66.0
+      67.0,
+      34.0,
+      64.0
     ],
     "weightKg": 11.5,
-    "foldedVolumeL": 190.1,
+    "foldedVolumeL": 145.8,
     "weightRange": [
       11.0,
       12.1
@@ -9433,7 +9915,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.dahon.com/",
+      "https://www.bikefolded.com/dahon-curve-d3-folding-bike-review/",
+      "https://bikeroar.com/products/dahon/curve-d3-2015/specs"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S95",
@@ -9531,7 +10019,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://www.dahon.com/",
+      "https://www.cyclemotion.co.uk/helios.htm",
+      "https://www.atob.org.uk/folding-bikes/dahon-helios-sl-review/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S96",
@@ -9609,15 +10103,15 @@
     "medianPrice": 29800,
     "tcoEstimate": 35800,
     "foldedSizeCm": [
-      80.0,
-      36.0,
-      66.0
+      73.0,
+      31.0,
+      62.0
     ],
-    "weightKg": 11.5,
-    "foldedVolumeL": 190.1,
+    "weightKg": 8.1,
+    "foldedVolumeL": 140.3,
     "weightRange": [
-      11.0,
-      12.1
+      8.1,
+      8.5
     ],
     "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 1982,
@@ -9628,7 +10122,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://vs-ticket.com/?p=23067",
+      "https://jitensha-biyori.jp/smallbike/2330/",
+      "https://www.dahon.com/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S97",
@@ -9726,7 +10226,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙"
+    "buyingTraps": "二手市場車況不一，購車務必詳查大樑轉點間隙",
+    "sources": [
+      "https://dahon.com.hk/products/dahon-dash-altena-nda063m-folding-bike",
+      "https://www.dahon.com/",
+      "https://www.hkbicycle.com/products/dahon-dash-altena-2021-m-nda063m"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S98",
@@ -9824,7 +10330,13 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 2.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限"
+    "buyingTraps": "注意特規鉸鏈零件斷料、改裝公規相容性受限",
+    "sources": [
+      "https://www.giant-bicycles.com/",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=586221",
+      "https://www.bikefun.com.tw/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S99",
@@ -9897,11 +10409,11 @@
     ],
     "imageUrl": "images/S99.jpg",
     "priceRange": [
-      15000,
-      36000
+      85000,
+      98000
     ],
-    "medianPrice": 24800,
-    "tcoEstimate": 30800,
+    "medianPrice": 92800,
+    "tcoEstimate": 95000,
     "foldedSizeCm": [
       80.0,
       36.0,
@@ -9922,7 +10434,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/471/verge-x11",
+      "https://www.bikehome.com.tw/product_detail.php?id=823",
+      "https://www.cyclingweekly.com/reviews/folding-bikes/tern-verge-x11"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S100",
@@ -9995,11 +10513,11 @@
     ],
     "imageUrl": "images/S100.jpg",
     "priceRange": [
-      38000,
-      85000
+      150000,
+      300000
     ],
-    "medianPrice": 56000,
-    "tcoEstimate": 62000,
+    "medianPrice": 220000,
+    "tcoEstimate": 230000,
     "foldedSizeCm": [
       170.0,
       45.0,
@@ -10009,8 +10527,8 @@
     "isEbike": true,
     "foldedVolumeL": 650.3,
     "weightRange": [
-      33.0,
-      34.1
+      32.0,
+      35.0
     ],
     "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2000,
@@ -10021,7 +10539,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 4.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套"
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/472/gsd",
+      "https://www.ternbicycles.com/en/bikes/471/hsd",
+      "https://www.currentebikes.com/product/tern-gsd-s10/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S101",
@@ -10109,7 +10633,7 @@
       11.0,
       12.1
     ],
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
+    "productionStatus": "DISCONTINUED_CLASSIC",
     "firstReleaseYear": 2000,
     "latestModelYear": 2026,
     "twDistributor": "KHS 台灣直營門市與特約經銷",
@@ -10118,7 +10642,12 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定"
+    "buyingTraps": "注意折疊立管防誤開快拆安全銷是否正常彈出鎖定",
+    "sources": [
+      "https://www.khsbicycles.com.tw/",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=1043224"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S102",
@@ -10216,7 +10745,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙"
+    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙",
+    "sources": [
+      "http://www.fnhon.com/",
+      "https://www.decathlon.com.hk/zh/p/fnhon-zephyr-16-18s-ka1618-folding-bike/_/R-p-X8846383"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S103",
@@ -10313,7 +10847,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙"
+    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙",
+    "sources": [
+      "http://www.fnhon.com/",
+      "https://fnhon.asia/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S104",
@@ -10410,7 +10949,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙"
+    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙",
+    "sources": [
+      "https://passiongadgets.com/products/crius-velocity-folding-bike",
+      "https://www.carousell.sg/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S105",
@@ -10508,7 +11052,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持"
+    "buyingTraps": "注意日常騎乘折疊關節螺絲磅數維持",
+    "sources": [
+      "https://www.dcfever.com/trading/view.php?id=8923485",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=1004128"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S106",
@@ -10606,7 +11155,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度"
+    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度",
+    "sources": [
+      "https://kaicycle.sg/products/java-aria-carbon-folding-bike",
+      "https://www.28goods.com/products/java-aria-20",
+      "https://www.decathlon.com.hk/zh/p/java-aria-20-18s-carbon-folding-bike/_/R-p-X8846381"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S107",
@@ -10678,21 +11233,21 @@
     ],
     "imageUrl": "images/S107.jpg",
     "priceRange": [
-      38000,
-      85000
+      28000,
+      35000
     ],
-    "medianPrice": 56000,
-    "tcoEstimate": 62000,
+    "medianPrice": 31500,
+    "tcoEstimate": 33000,
     "foldedSizeCm": [
       80.0,
       36.0,
       66.0
     ],
-    "weightKg": 11.5,
+    "weightKg": 17.5,
     "foldedVolumeL": 190.1,
     "weightRange": [
-      11.0,
-      12.1
+      17.5,
+      18.5
     ],
     "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2000,
@@ -10703,7 +11258,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度"
+    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度",
+    "sources": [
+      "https://fiido.com/products/fiido-d11-folding-electric-bike",
+      "https://fiido.com/products/fiido-d21-folding-electric-bike",
+      "https://www.cnet.com/roadshow/reviews/fiido-d11-ebike-review/"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S108",
@@ -10776,21 +11337,21 @@
     ],
     "imageUrl": "images/S108.jpg",
     "priceRange": [
-      38000,
-      85000
+      15000,
+      22000
     ],
-    "medianPrice": 56000,
-    "tcoEstimate": 62000,
+    "medianPrice": 18500,
+    "tcoEstimate": 20000,
     "foldedSizeCm": [
       80.0,
       36.0,
       66.0
     ],
-    "weightKg": 11.5,
+    "weightKg": 21.6,
     "foldedVolumeL": 190.1,
     "weightRange": [
-      11.0,
-      12.1
+      21.6,
+      22.5
     ],
     "productionStatus": "ACTIVE_IN_PRODUCTION",
     "firstReleaseYear": 2000,
@@ -10801,7 +11362,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度"
+    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度",
+    "sources": [
+      "https://www.autoevolution.com/news/xiaomi-himo-z20-folding-ebike-review-147321.html",
+      "https://www.himoebike.com/",
+      "https://www.youtube.com/watch?v=kYJ56N7jRjQ"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S109",
@@ -10873,11 +11440,11 @@
     ],
     "imageUrl": "images/S109.jpg",
     "priceRange": [
-      15000,
-      36000
+      4500,
+      8500
     ],
-    "medianPrice": 24800,
-    "tcoEstimate": 30800,
+    "medianPrice": 6500,
+    "tcoEstimate": 7500,
     "foldedSizeCm": [
       80.0,
       36.0,
@@ -10898,7 +11465,13 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.0,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度"
+    "buyingTraps": "注意鋰電池保固期效、電控訊號線抗拉扯程度",
+    "sources": [
+      "http://www.trinx.com/",
+      "https://strigabikes.com/products/trinx-dolphin-4-0-folding-bike",
+      "https://www.youtube.com/watch?v=8Vz9X_9pG1U"
+    ],
+    "specConfidence": "HIGH"
   },
   {
     "id": "S110",
@@ -10995,6 +11568,12 @@
     "partsFriction": "特規零件需由代理商或改裝工作室提供",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙"
+    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙",
+    "sources": [
+      "http://www.biketo.com/",
+      "https://xbike.idv.tw/",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=1004128"
+    ],
+    "specConfidence": "HIGH"
   }
 ]

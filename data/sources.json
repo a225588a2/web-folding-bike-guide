@@ -1,0 +1,1021 @@
+{
+  "S01": {
+    "brand": "Brompton",
+    "seriesName": "C Line / A Line 經典鋼管三折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.brompton.com",
+      "https://www.jeslerbike.com",
+      "https://thermaltake.com"
+    ]
+  },
+  "S02": {
+    "brand": "Brompton",
+    "seriesName": "P Line / T Line 輕量鈦碳旗艦系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.brompton.com",
+      "https://www.thebromptonman.com",
+      "https://thermaltake.com"
+    ]
+  },
+  "S03": {
+    "brand": "Pacific Cycles",
+    "seriesName": "New Birdy 3 經典縱折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.pacific-cycles.com",
+      "https://www.jeslerbike.com"
+    ]
+  },
+  "S04": {
+    "brand": "Pacific Cycles",
+    "seriesName": "Reach 性能跑旅系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.pacific-cycles.com",
+      "https://www.jeslerbike.com"
+    ]
+  },
+  "S05": {
+    "brand": "Pacific Cycles",
+    "seriesName": "CarryMe 微型通勤系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.pacific-cycles.com",
+      "https://www.pacificcarryme.com"
+    ]
+  },
+  "S06": {
+    "brand": "Pacific Cycles",
+    "seriesName": "IF 系列 (IF Move 專利一秒磁吸)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.pacific-cycles.com"
+    ]
+  },
+  "S07": {
+    "brand": "Tyrell",
+    "seriesName": "IVE 系列 (18吋日系都會縱折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.tyrellbike.com",
+      "https://thermaltake.com"
+    ]
+  },
+  "S08": {
+    "brand": "Tyrell",
+    "seriesName": "FX / FSX 系列 (20吋Slant斜向跑格)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.tyrellbike.com",
+      "https://thermaltake.com"
+    ]
+  },
+  "S09": {
+    "brand": "CARACLE",
+    "seriesName": "CARACLE-S 系列 (Rev.4 世界最小三折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.caracle.co.jp"
+    ]
+  },
+  "S10": {
+    "brand": "CARACLE",
+    "seriesName": "CARACLE-COZ 系列 (6.7kg 全碳跑折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.caracle.co.jp"
+    ]
+  },
+  "S11": {
+    "brand": "STRiDA",
+    "seriesName": "LT / SX 系列 (三角單速皮帶都會折疊)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.strida.com",
+      "https://www.strida.tw",
+      "https://www.mingcycle.com.tw"
+    ]
+  },
+  "S12": {
+    "brand": "STRiDA",
+    "seriesName": "EVO 系列 (腳踢內三速皮帶旗艦)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.strida.com",
+      "https://www.strida.tw",
+      "https://www.mingcycle.com.tw"
+    ]
+  },
+  "S13": {
+    "brand": "LIDROP",
+    "seriesName": "一丁點 H.01 / H6 全碳極速三折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.lidropbike.com",
+      "https://www.bikehome.com.tw"
+    ]
+  },
+  "S14": {
+    "brand": "Bike Friday",
+    "seriesName": "New World Tourist (NWT) 旅行系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bikefriday.com"
+    ]
+  },
+  "S15": {
+    "brand": "Bike Friday",
+    "seriesName": "Pocket Rocket / Pro 公路火箭系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bikefriday.com"
+    ]
+  },
+  "S16": {
+    "brand": "Bike Friday",
+    "seriesName": "pakiT 系列 (羽量後背包小折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bikefriday.com"
+    ]
+  },
+  "S17": {
+    "brand": "Bike Friday",
+    "seriesName": "All-Packa 系列 (全地形礫石探險)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bikefriday.com",
+      "https://bikepacking.com"
+    ]
+  },
+  "S18": {
+    "brand": "DAHON",
+    "seriesName": "Mariner / Vybe 鋁合金實用中折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com"
+    ]
+  },
+  "S19": {
+    "brand": "DAHON",
+    "seriesName": "Speed / Boardwalk 4130 鋼管經典系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com"
+    ]
+  },
+  "S20": {
+    "brand": "DAHON",
+    "seriesName": "輕量小輪徑 K 系列 (K3/K3 Plus/K9X)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com"
+    ]
+  },
+  "S21": {
+    "brand": "DAHON",
+    "seriesName": "Launch 系列 (Jaws 隱形咬合鉸鏈)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com"
+    ]
+  },
+  "S22": {
+    "brand": "DAHON",
+    "seriesName": "Curl 系列 (Curl i4/i8/D9 捲折三折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com",
+      "https://bikefolded.com"
+    ]
+  },
+  "S23": {
+    "brand": "DAHON",
+    "seriesName": "大輪徑休旅系列 (Espresso/Briza)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com",
+      "https://usa.dahon.com/products/briza-d8-2",
+      "https://www.bikefolded.com/dahon-espresso-d24-folding-bike-review/"
+    ]
+  },
+  "S24": {
+    "brand": "Tern",
+    "seriesName": "Verge 系列 (20吋 451 運動跑格)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/472/verge-p10",
+      "https://www.ternbicycles.com/en/bikes/472/verge-x11",
+      "https://www.ternbicycles.com/en/bikes/472/verge-d9"
+    ]
+  },
+  "S25": {
+    "brand": "Tern",
+    "seriesName": "Link 系列 (20吋 406 都會生活休旅)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/473/link-d8",
+      "https://www.ternbicycles.com/en/bikes/473/link-b8",
+      "https://www.ternbicycles.com/en/bikes/473/link-a7"
+    ]
+  },
+  "S26": {
+    "brand": "Tern",
+    "seriesName": "BYB 系列 (20吋 雙關節三折高緊湊)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/471/byb-p8",
+      "https://www.ternbicycles.com/en/bikes/471/byb-s11",
+      "https://www.bikefolded.com/tern-byb-p8-folding-bike-review/"
+    ]
+  },
+  "S27": {
+    "brand": "Tern",
+    "seriesName": "Vektron 系列 (Bosch 中置旗艦電輔)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/471/vektron-s10"
+    ]
+  },
+  "S28": {
+    "brand": "JAVA",
+    "seriesName": "Fit 破風運動碟煞中折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.javabikes.com",
+      "https://cycleomania.com/bikes/java-fit-18-speed-folding-bike/"
+    ]
+  },
+  "S29": {
+    "brand": "JAVA",
+    "seriesName": "Neo 弧形一體隱形折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bikefun.com.tw",
+      "https://www.javabikes.com",
+      "https://cheungkee.co",
+      "https://thebikeatrium.com"
+    ]
+  },
+  "S30": {
+    "brand": "Montague",
+    "seriesName": "Paratrooper 系列 (傘兵越野大折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.montaguebikes.com/product/paratrooper/",
+      "https://www.montaguebikes.com/product/paratrooper-pro/",
+      "https://www.montaguebikes.com/product/paratrooper-express/"
+    ]
+  },
+  "S31": {
+    "brand": "Montague",
+    "seriesName": "Urban / Boston / FIT 系列 (700C大折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.montaguebikes.com/product/urban/",
+      "https://www.montaguebikes.com/product/fit/",
+      "https://www.montaguebikes.com/product/boston/"
+    ]
+  },
+  "S32": {
+    "brand": "Change Bike",
+    "seriesName": "DF 登山全尺寸專利大折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.changebike.com",
+      "https://www.changebike.com.tw"
+    ]
+  },
+  "S33": {
+    "brand": "Change Bike",
+    "seriesName": "GF / DF-702 700C 公路/礫石大折",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.changebike.com",
+      "https://www.changebike.com.tw/gf-gravel.html"
+    ]
+  },
+  "S34": {
+    "brand": "Tern",
+    "seriesName": "Eclipse 系列 (26吋 超速跑格大折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/472/eclipse-x22",
+      "https://www.ternbicycles.com/en/bikes/472/eclipse-p20"
+    ]
+  },
+  "S35": {
+    "brand": "Tern",
+    "seriesName": "Node 系列 (24吋 都會舒適休旅大折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/473/node-d8"
+    ]
+  },
+  "S36": {
+    "brand": "KHS",
+    "seriesName": "F-20 軟尾巴長途旅跑系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f-20t3f-451/",
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f20-rc-2022/",
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f20-jj/"
+    ]
+  },
+  "S37": {
+    "brand": "KHS",
+    "seriesName": "F-16 / F-18 都會小徑系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.khsbicycles.com.tw/products/folding-bikes/f16-d/",
+      "https://jeslerbike.com"
+    ]
+  },
+  "S38": {
+    "brand": "GIANT",
+    "seriesName": "Expressway 鋁合金運動系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.giant-bicycles.com/us/expressway-1",
+      "https://www.giant-bicycles.com/us/expressway-2"
+    ]
+  },
+  "S39": {
+    "brand": "GIANT",
+    "seriesName": "Momentum PakAway 都會通勤系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.giant-bicycles.com/tw",
+      "https://www.momentum-biking.com"
+    ]
+  },
+  "S40": {
+    "brand": "GIANT",
+    "seriesName": "FD 國民神車系列 (FD-806/FD-817)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.giant-bicycles.com/tw",
+      "https://www.mobile01.com/topicdetail.php?f=317&t=587848"
+    ]
+  },
+  "S41": {
+    "brand": "GIANT",
+    "seriesName": "MR4 經典氣壓縱折 24吋跑車傳奇",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.giant-bicycles.com/tw",
+      "https://www.mobile01.com/topicdetail.php?f=317&t=5179040"
+    ]
+  },
+  "S42": {
+    "brand": "Merida",
+    "seriesName": "飛翔系列 (Flyer / FB-S050 / FB-220)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.merida-bikes.com/zh-tw",
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1530221"
+    ]
+  },
+  "S43": {
+    "brand": "Oyama",
+    "seriesName": "Skyline 天際系列 (A200/A300/M500)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1067332",
+      "http://www.oyama.com"
+    ]
+  },
+  "S44": {
+    "brand": "Oyama",
+    "seriesName": "Dolphin 海豚車系 (CR16 一體弧形)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=619623",
+      "http://www.oyama.com"
+    ]
+  },
+  "S45": {
+    "brand": "Fnhon",
+    "seriesName": "Gust 風行 4130 鋼管改裝系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.fnhon.com",
+      "https://www.decathlon.com.hk",
+      "https://www.mobile01.com"
+    ]
+  },
+  "S46": {
+    "brand": "Fnhon",
+    "seriesName": "Blast 20 吋鋁合金破風跑旅系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.fnhon.com",
+      "https://fnhon.sg",
+      "https://www.decathlon.com.hk"
+    ]
+  },
+  "S47": {
+    "brand": "Fnhon",
+    "seriesName": "Freedom 14 吋羽量自組系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.fnhon.com",
+      "https://superbiker.hk",
+      "https://liteprobicycle.com"
+    ]
+  },
+  "S48": {
+    "brand": "Crius",
+    "seriesName": "Master 20 吋全鋁旗艦改裝系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.liteprobike.com/",
+      "https://liteprobicycle.com/",
+      "https://fnhon.sg"
+    ]
+  },
+  "S49": {
+    "brand": "Crius",
+    "seriesName": "Shadow / Smart 輕量小輪徑系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.liteprobike.com/",
+      "https://liteprobicycle.com/",
+      "https://bikeforums.net"
+    ]
+  },
+  "S50": {
+    "brand": "Mint",
+    "seriesName": "Bobix 外變三折小布幾何系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.bikefun.com.tw",
+      "https://www.bikehome.com.tw",
+      "https://chriscyclehk.com"
+    ]
+  },
+  "S51": {
+    "brand": "DAHON",
+    "seriesName": "Dove / BYA412 系列 (改裝老祖宗)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com",
+      "http://dahon.com.hk",
+      "http://www.77bike.com"
+    ]
+  },
+  "S52": {
+    "brand": "Anemos",
+    "seriesName": "Wind / Yacht 縱折三折小輪徑系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com",
+      "http://www.77bike.com"
+    ]
+  },
+  "S53": {
+    "brand": "Fsir",
+    "seriesName": "Spin 旋轉無扣具折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.bikeforums.net",
+      "https://www.mobile01.com"
+    ]
+  },
+  "S54": {
+    "brand": "Decathlon",
+    "seriesName": "Fold / Tilt 500 全方位都會折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.decathlon.tw",
+      "https://manuals.plus/btwin/tilt-500-900-folding-bike-manual"
+    ]
+  },
+  "S55": {
+    "brand": "BESV",
+    "seriesName": "PSF1 智慧動能折疊旗艦系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.besv.com.tw",
+      "https://www.momoshop.com.tw",
+      "https://www.jeslerbike.com"
+    ]
+  },
+  "S56": {
+    "brand": "StepDragon",
+    "seriesName": "SS / SM 國民經典高 CP 折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com",
+      "https://shopee.tw"
+    ]
+  },
+  "S57": {
+    "brand": "IRLAND",
+    "seriesName": "20吋 451 鋁合金多速跑旅折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.irland.com.tw",
+      "https://shopee.tw",
+      "https://www.mobile01.com"
+    ]
+  },
+  "S58": {
+    "brand": "HASA",
+    "seriesName": "F 系列 (F1 / F2 / F3) 台灣精緻跑旅系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.hasa.com.tw",
+      "https://www.mobile01.com"
+    ]
+  },
+  "S59": {
+    "brand": "SOLOROCK",
+    "seriesName": "鋁合金都會休閒折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://solorock.us"
+    ]
+  },
+  "S60": {
+    "brand": "Raych",
+    "seriesName": "日系復古文青菜籃折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.e-otomo.co.jp",
+      "https://item.rakuten.co.jp"
+    ]
+  },
+  "S61": {
+    "brand": "BAOLI",
+    "seriesName": "國民超值代步折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://shopee.tw",
+      "https://www.ruten.com.tw"
+    ]
+  },
+  "S62": {
+    "brand": "DAHON",
+    "seriesName": "Route / Dream D6 (HAT060) 國民入手級系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com",
+      "http://dahon.com.hk",
+      "http://www.dahon.bj.cn"
+    ]
+  },
+  "S63": {
+    "brand": "QiCYCLE",
+    "seriesName": "EF1 / C2 智慧電輔折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.qicycle.com",
+      "https://www.momoshop.com.tw",
+      "https://www.pchome.com.tw"
+    ]
+  },
+  "S64": {
+    "brand": "Moulton",
+    "seriesName": "TSR / SST 經典桁架分離式小徑系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.moultonbicycles.co.uk/",
+      "https://www.jeslerbike.com",
+      "https://www.mobile01.com"
+    ]
+  },
+  "S65": {
+    "brand": "Ori",
+    "seriesName": "Mezzo / Ori (CR8 / M9 / AR9) 四連桿無鉸鏈系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.bikefun.com.tw",
+      "https://www.jeslerbike.com",
+      "https://www.neighborrider.com"
+    ]
+  },
+  "S66": {
+    "brand": "Airnimal",
+    "seriesName": "Chameleon (變色龍) / Joey 24吋全尺寸跑折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://airnimal.co/",
+      "https://www.spacycles.co.uk",
+      "https://www.bikeradar.com"
+    ]
+  },
+  "S67": {
+    "brand": "Flamingo",
+    "seriesName": "FL-BP01 經典三折系列 (火烈鳥)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=751411",
+      "https://www.imb2b.com/"
+    ]
+  },
+  "S68": {
+    "brand": "Jango",
+    "seriesName": "Flik 系列 (VertiLink 6連桿一秒垂直快折)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bikerumor.com/interbike-2009-jango-flik-folding-bikes/",
+      "https://www.avonvalleycyclery.co.uk/",
+      "https://cyclowired.jp/news/node/14848"
+    ]
+  },
+  "S69": {
+    "brand": "SAVA",
+    "seriesName": "碳纖維折疊系列 (Z0 / Z1 / Z2)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://savabicycle.com/",
+      "https://www.biketo.com/"
+    ]
+  },
+  "S70": {
+    "brand": "Twitter",
+    "seriesName": "追風碳纖折疊系列 (Carbon Aero Fold)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.twitter-bikes.com/",
+      "https://www.dcfever.com/"
+    ]
+  },
+  "S71": {
+    "brand": "DAHON",
+    "seriesName": "NuWave 垂直扁平化極限折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://dahon.com/",
+      "https://cyclingindustry.news/dahon-nouveau-flat-fold-technology/"
+    ]
+  },
+  "S72": {
+    "brand": "DAHON",
+    "seriesName": "Clinch 旗艦公路跑折系列 (LockJaw)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bikerumor.com/eurobike-2014-dahon-clinches-it-with-lockjaw-road-mountain-and-folding-bikes/",
+      "https://dahon.com/bikes/clinch-d10/"
+    ]
+  },
+  "S73": {
+    "brand": "Slingshot",
+    "seriesName": "Fold-Tech 鋼索拉力折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.slingshotbikes.com/",
+      "https://www.outsideonline.com/outdoor-gear/gear-news/cable-guy/",
+      "https://www.mombatbicycles.com/MOMBAT/BikeLists/Slingshot.html"
+    ]
+  },
+  "S74": {
+    "brand": "Pacific Cycles",
+    "seriesName": "Birdy 1代 Classic 經典圓管復刻系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.pacific-cycles.com/birdy/classic",
+      "https://birdybicycle.com/pages/birdy-classic"
+    ]
+  },
+  "S75": {
+    "brand": "Mobiky",
+    "seriesName": "滑軌立體折疊系列 (Mobiky Genius / Steve)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://manuals.plus/mobiky/genius-folding-bike-manual"
+    ]
+  },
+  "S76": {
+    "brand": "Doppelganger",
+    "seriesName": "營火露營折疊系列 (DOP 202 / 211)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.doppelganger.jp/product/202/",
+      "https://www.doppelganger.jp/product/211/"
+    ]
+  },
+  "S77": {
+    "brand": "Oyama",
+    "seriesName": "Micro 系列 (16吋 Micro Dolphin 迷你海豚)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1018944"
+    ]
+  },
+  "S78": {
+    "brand": "Montague",
+    "seriesName": "Boston / Navigator 700C 公路休旅折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.montaguebikes.com/boston-folding-bike/",
+      "https://www.montaguebikes.com/navigator-folding-bike/"
+    ]
+  },
+  "S79": {
+    "brand": "Pacific Cycles",
+    "seriesName": "IF Mode 26吋極簡單臂折疊精品",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.pacific-cycles.com/IF-Mode",
+      "https://newatlas.com/if-mode-full-sized-folding-commuter-bike/11181/"
+    ]
+  },
+  "S80": {
+    "brand": "Tyrell",
+    "seriesName": "CSI / PK1 頂級鈦合金/碳纖輕量跑車系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.tyrellbike.com/products/csi/",
+      "https://itami-kanzaki.com/"
+    ]
+  },
+  "S81": {
+    "brand": "Oyama",
+    "seriesName": "CR16 451 鉻鉬鋼流線海豚跑折經典",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=1067215",
+      "https://www.biketo.com/"
+    ]
+  },
+  "S82": {
+    "brand": "DAHON",
+    "seriesName": "Speed TT / Pro TT 羊角把公路神駒系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.mobile01.com/topicdetail.php?f=317&t=410012"
+    ]
+  },
+  "S83": {
+    "brand": "Hummingbird",
+    "seriesName": "蜂鳥極輕碳纖/亞麻折疊車系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://hummingbirdbike.com/",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/hummingbird-folding-bike-review"
+    ]
+  },
+  "S84": {
+    "brand": "Vello Bike",
+    "seriesName": "Vello 專利磁吸縱折鋼管與鈦合金系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://vello.bike/",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/vello-rocky-review"
+    ]
+  },
+  "S85": {
+    "brand": "Helix",
+    "seriesName": "Helix 全鈦合金螺旋側折極限小折",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://helix.ca/",
+      "https://www.thermaltake.com/"
+    ]
+  },
+  "S86": {
+    "brand": "Gocycle",
+    "seriesName": "Gocycle G4 / G4i 碳鎂合金單臂電輔跑折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://gocycle.com/",
+      "https://fullycharged.com/"
+    ]
+  },
+  "S87": {
+    "brand": "Sinclair",
+    "seriesName": "Sinclair A-bike 極限超微型折疊車系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A-bike",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/sinclair-a-bike-review"
+    ]
+  },
+  "S88": {
+    "brand": "Kwiggle",
+    "seriesName": "Kwiggle 德系全球最微型立騎折疊車系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.kwigglebike.com/"
+    ]
+  },
+  "S89": {
+    "brand": "Bickerton",
+    "seriesName": "Bickerton Junction / Argent 經典英倫復刻中折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.bickertonportables.co.uk/",
+      "https://www.bikeradar.com/reviews/bikes/folding-bikes/bickerton-junction-1707-city-review",
+      "https://www.planet-bike.co.uk/bikes/folding-bikes/bickerton-junction-1707-city-folding-bike__2825"
+    ]
+  },
+  "S90": {
+    "brand": "Riese & Müller",
+    "seriesName": "R&M Birdy Frog 12吋四連桿避震迷你鳥系列 (青蛙車)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.taiwan-panorama.com/Articles/Details?Guid=9305041008034",
+      "https://www.atob.org.uk/folding-bikes/frog-review/",
+      "https://www.pacific-cycles.com/"
+    ]
+  },
+  "S91": {
+    "brand": "Tartaruga",
+    "seriesName": "Tartaruga Type Sport 跑旅避震小徑折疊車系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://tartaruga-ew.com/",
+      "https://tartaruga-ew.com/en/lineup/type-sport/",
+      "https://www.cycleshibuya.com/products/detail.php?product_id=4084"
+    ]
+  },
+  "S92": {
+    "brand": "Bernds",
+    "seriesName": "Bernds 德系手工鋼管皮帶內變縱折旅行車系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://bernds.de/",
+      "https://bernds.de/faltrad/",
+      "https://www.rohloff.de/en/experience/bike-finder/bernds-faltrad"
+    ]
+  },
+  "S93": {
+    "brand": "DAHON",
+    "seriesName": "Mu 液壓雙弧樑系列 (Mu Uno / SLX / D8 / EX)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com/",
+      "https://dahon.com.hk/products/dahon-mu-slx-pka015-folding-bike",
+      "https://www.hkbicycle.com/products/dahon-mu-slx-pka015"
+    ]
+  },
+  "S94": {
+    "brand": "DAHON",
+    "seriesName": "Curve 16吋緊湊弧樑系列 (Curve D3 / i3 / D7 / SL)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com/",
+      "https://www.bikefolded.com/dahon-curve-d3-folding-bike-review/",
+      "https://bikeroar.com/products/dahon/curve-d3-2015/specs"
+    ]
+  },
+  "S95": {
+    "brand": "DAHON",
+    "seriesName": "Helios 輕量平把跑折系列 (Helios P8 / SL / TT)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dahon.com/",
+      "https://www.cyclemotion.co.uk/helios.htm",
+      "https://www.atob.org.uk/folding-bikes/dahon-helios-sl-review/"
+    ]
+  },
+  "S96": {
+    "brand": "DAHON",
+    "seriesName": "Presto SL 16吋極限羽量單速系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://vs-ticket.com/?p=23067",
+      "https://jitensha-biyori.jp/smallbike/2330/",
+      "https://www.dahon.com/"
+    ]
+  },
+  "S97": {
+    "brand": "DAHON",
+    "seriesName": "Dash / Smooth Hound 菱形雙管 LockJaw 系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://dahon.com.hk/products/dahon-dash-altena-nda063m-folding-bike",
+      "https://www.dahon.com/",
+      "https://www.hkbicycle.com/products/dahon-dash-altena-2021-m-nda063m"
+    ]
+  },
+  "S98": {
+    "brand": "GIANT",
+    "seriesName": "Halfway 單側單臂專利系列 (FD-17S / 7S / RS)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.giant-bicycles.com/",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=586221",
+      "https://www.bikefun.com.tw/"
+    ]
+  },
+  "S99": {
+    "brand": "Tern",
+    "seriesName": "Verge X 空力旗艦超跑系列 (X11 / X20 / X30h)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/471/verge-x11",
+      "https://www.bikehome.com.tw/product_detail.php?id=823",
+      "https://www.cyclingweekly.com/reviews/folding-bikes/tern-verge-x11"
+    ]
+  },
+  "S100": {
+    "brand": "Tern",
+    "seriesName": "GSD / HSD 載貨休旅電輔系列 (GSD S10 / HSD P9 / R14)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.ternbicycles.com/en/bikes/472/gsd",
+      "https://www.ternbicycles.com/en/bikes/471/hsd",
+      "https://www.currentebikes.com/product/tern-gsd-s10/"
+    ]
+  },
+  "S101": {
+    "brand": "KHS",
+    "seriesName": "F-20 WestWood / Club 越野林道軟尾巴系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.khsbicycles.com.tw/",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=1043224"
+    ]
+  },
+  "S102": {
+    "brand": "Fnhon",
+    "seriesName": "Zephyr 16吋 305/349 鋁合金超輕架系列 (KA1618 / KAD1618)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.fnhon.com/",
+      "https://www.decathlon.com.hk/zh/p/fnhon-zephyr-16-18s-ka1618-folding-bike/_/R-p-X8846383"
+    ]
+  },
+  "S103": {
+    "brand": "Fnhon",
+    "seriesName": "Tornado / Monsoon 20吋破風粗水滴管跑折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.fnhon.com/",
+      "https://fnhon.asia/"
+    ]
+  },
+  "S104": {
+    "brand": "Crius",
+    "seriesName": "Velocity 20吋 406/451 輕量鋁合金海豚架系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://passiongadgets.com/products/crius-velocity-folding-bike",
+      "https://www.carousell.sg/"
+    ]
+  },
+  "S105": {
+    "brand": "Banian",
+    "seriesName": "班尼安 經典三折 / 超輕雙折系列 (Banian 349 B9-M / Smart)",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.dcfever.com/trading/view.php?id=8923485",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=1004128"
+    ]
+  },
+  "S106": {
+    "brand": "Java",
+    "seriesName": "Aria / X1 / Zelo 獨立小輪徑碟煞與隱藏折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://kaicycle.sg/products/java-aria-carbon-folding-bike",
+      "https://www.28goods.com/products/java-aria-20",
+      "https://www.decathlon.com.hk/zh/p/java-aria-20-18s-carbon-folding-bike/_/R-p-X8846381"
+    ]
+  },
+  "S107": {
+    "brand": "Fiido",
+    "seriesName": "D11 / D21 座管抽換鋰電池極簡電輔折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://fiido.com/products/fiido-d11-folding-electric-bike",
+      "https://fiido.com/products/fiido-d21-folding-electric-bike",
+      "https://www.cnet.com/roadshow/reviews/fiido-d11-ebike-review/"
+    ]
+  },
+  "S108": {
+    "brand": "HIMO",
+    "seriesName": "Himo Z20 / C20 都會智慧電輔折疊與座管打氣筒系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "https://www.autoevolution.com/news/xiaomi-himo-z20-folding-ebike-review-147321.html",
+      "https://www.himoebike.com/",
+      "https://www.youtube.com/watch?v=kYJ56N7jRjQ"
+    ]
+  },
+  "S109": {
+    "brand": "Trinx",
+    "seriesName": "Dolphin / WARWOLF 國民平價高銷量折疊系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.trinx.com/",
+      "https://strigabikes.com/products/trinx-dolphin-4-0-folding-bike",
+      "https://www.youtube.com/watch?v=8Vz9X_9pG1U"
+    ]
+  },
+  "S110": {
+    "brand": "Windspeed",
+    "seriesName": "風速 4130 鉻鉬鋼管小折與長途改裝底盤系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.biketo.com/",
+      "https://xbike.idv.tw/",
+      "https://m.mobile01.com/topicdetail.php?f=317&t=1004128"
+    ]
+  }
+}
