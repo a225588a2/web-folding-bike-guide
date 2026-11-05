@@ -250,8 +250,8 @@
   },
   "S29": {
     "brand": "JAVA",
-    "seriesName": "Neo 弧形一體隱形折疊系列",
-    "specConfidence": "HIGH",
+    "seriesName": "Neo 16吋 349 碟煞三折系列 (國布幾何)",
+    "specConfidence": "ESTIMATED",
     "sources": [
       "https://bikefun.com.tw",
       "https://www.javabikes.com",
@@ -724,15 +724,6 @@
       "https://newatlas.com/if-mode-full-sized-folding-commuter-bike/11181/"
     ]
   },
-  "S80": {
-    "brand": "Tyrell",
-    "seriesName": "CSI / PK1 頂級鈦合金/碳纖輕量跑車系列",
-    "specConfidence": "HIGH",
-    "sources": [
-      "https://www.tyrellbike.com/products/csi/",
-      "https://itami-kanzaki.com/"
-    ]
-  },
   "S81": {
     "brand": "Oyama",
     "seriesName": "CR16 451 鉻鉬鋼流線海豚跑折經典",
@@ -1006,16 +997,6 @@
       "http://www.trinx.com/",
       "https://strigabikes.com/products/trinx-dolphin-4-0-folding-bike",
       "https://www.youtube.com/watch?v=8Vz9X_9pG1U"
-    ]
-  },
-  "S110": {
-    "brand": "Windspeed",
-    "seriesName": "風速 4130 鉻鉬鋼管小折與長途改裝底盤系列",
-    "specConfidence": "HIGH",
-    "sources": [
-      "http://www.biketo.com/",
-      "https://xbike.idv.tw/",
-      "https://m.mobile01.com/topicdetail.php?f=317&t=1004128"
     ]
   }
 }

@@ -88,7 +88,7 @@
         "price": "NT$ 78,000"
       }
     ],
-    "twChannel": "輪粹生活 (LaneTrip) 台灣總代理 / 全台授權經銷特約門市",
+    "twChannel": "原總代理輪粹生活 (LaneTrip) 實體門市已歇業 / 現由特約經銷與小布工作室支援售後與維修",
     "officialUrl": "https://www.brompton.com",
     "svgType": "trifold",
     "foldingCategory": "trifold",
@@ -112,13 +112,14 @@
     "partsFriction": "耗材原廠與副廠充裕",
     "resaleRetention": 4.5,
     "publicTransitFit": "高鐵北捷裝入攜車袋完全合規，經典三折推行友善",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
+    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套（註：原實體總代理輪粹生活已歇業，售後保固與維修轉由各特約車店及獨立工作室支援。）",
     "sources": [
       "https://www.brompton.com",
       "https://www.jeslerbike.com",
       "https://thermaltake.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "AGENCY_CLOSED"
   },
   {
     "id": "S02",
@@ -240,7 +241,8 @@
       "https://www.thebromptonman.com",
       "https://thermaltake.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S03",
@@ -360,7 +362,8 @@
       "https://www.pacific-cycles.com",
       "https://www.jeslerbike.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S04",
@@ -472,7 +475,8 @@
       "https://www.pacific-cycles.com",
       "https://www.jeslerbike.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S05",
@@ -587,7 +591,8 @@
       "https://www.pacific-cycles.com",
       "https://www.pacificcarryme.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S06",
@@ -693,7 +698,8 @@
     "sources": [
       "https://www.pacific-cycles.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S07",
@@ -801,7 +807,8 @@
       "https://www.tyrellbike.com",
       "https://thermaltake.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S08",
@@ -915,7 +922,8 @@
       "https://www.tyrellbike.com",
       "https://thermaltake.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S09",
@@ -1028,7 +1036,8 @@
     "sources": [
       "https://www.caracle.co.jp"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S10",
@@ -1140,7 +1149,8 @@
     "sources": [
       "https://www.caracle.co.jp"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S11",
@@ -1248,7 +1258,8 @@
       "https://www.strida.tw",
       "https://www.mingcycle.com.tw"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S12",
@@ -1356,7 +1367,8 @@
       "https://www.strida.tw",
       "https://www.mingcycle.com.tw"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S13",
@@ -1477,7 +1489,8 @@
       "https://www.lidropbike.com",
       "https://www.bikehome.com.tw"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S14",
@@ -1589,7 +1602,8 @@
     "sources": [
       "https://bikefriday.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S15",
@@ -1695,7 +1709,8 @@
     "sources": [
       "https://bikefriday.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S16",
@@ -1806,7 +1821,8 @@
     "sources": [
       "https://bikefriday.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S17",
@@ -1912,7 +1928,8 @@
       "https://bikefriday.com",
       "https://bikepacking.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S18",
@@ -2026,7 +2043,8 @@
     "sources": [
       "https://www.dahon.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S19",
@@ -2140,7 +2158,8 @@
     "sources": [
       "https://www.dahon.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S20",
@@ -2253,7 +2272,8 @@
     "sources": [
       "https://www.dahon.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S21",
@@ -2354,7 +2374,8 @@
     "sources": [
       "https://www.dahon.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S22",
@@ -2469,7 +2490,8 @@
       "https://www.dahon.com",
       "https://bikefolded.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S23",
@@ -2577,7 +2599,8 @@
       "https://usa.dahon.com/products/briza-d8-2",
       "https://www.bikefolded.com/dahon-espresso-d24-folding-bike-review/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S24",
@@ -2692,7 +2715,8 @@
       "https://www.ternbicycles.com/en/bikes/472/verge-x11",
       "https://www.ternbicycles.com/en/bikes/472/verge-d9"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S25",
@@ -2806,7 +2830,8 @@
       "https://www.ternbicycles.com/en/bikes/473/link-b8",
       "https://www.ternbicycles.com/en/bikes/473/link-a7"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S26",
@@ -2914,7 +2939,8 @@
       "https://www.ternbicycles.com/en/bikes/471/byb-s11",
       "https://www.bikefolded.com/tern-byb-p8-folding-bike-review/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S27",
@@ -3015,7 +3041,8 @@
     "sources": [
       "https://www.ternbicycles.com/en/bikes/471/vektron-s10"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S28",
@@ -3122,44 +3149,45 @@
       "https://www.javabikes.com",
       "https://cycleomania.com/bikes/java-fit-18-speed-folding-bike/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S29",
     "brand": "JAVA",
-    "seriesName": "Neo 弧形一體隱形折疊系列",
-    "englishName": "JAVA Neo Seamless Hidden-Joint Series",
+    "seriesName": "Neo 16吋 349 碟煞三折系列 (國布幾何)",
+    "englishName": "JAVA Neo 16\" (349) Disc Trifold Series",
     "camp": "主流專業折疊大廠",
     "campCode": "mainstream",
     "priceRange": [
-      14800,
-      25800
+      16800,
+      38800
     ],
-    "medianPrice": 19800,
-    "tcoEstimate": 21000,
-    "weightKg": 10.9,
+    "medianPrice": 24800,
+    "tcoEstimate": 28000,
+    "weightKg": 10.2,
     "weightRange": [
-      10.6,
-      11.2
+      9.5,
+      10.8
     ],
-    "wheelSize": "20\" (406/451)",
-    "wheelSizeCat": "20",
-    "tireClearance": "20×1.50 或 20×1-1/8",
-    "wheelbaseMm": 1015,
+    "wheelSize": "16\" (349)",
+    "wheelSizeCat": "16",
+    "tireClearance": "16×1-3/8 (35-349)",
+    "wheelbaseMm": 1020,
     "unfoldedSizeCm": [
       147,
       56,
       100
     ],
     "foldedSizeCm": [
-      80,
-      67,
-      35
+      63.0,
+      32.0,
+      58.0
     ],
-    "foldedVolumeL": 187.6,
-    "transportRating": "無突兀鉸鏈平滑便攜/雙鐵車袋標準",
-    "foldingType": "專利一體弧形流線主樑 (無橫樑斷口) + 隱藏折疊鉸鏈",
-    "foldSeconds": 15,
+    "foldedVolumeL": 116.9,
+    "transportRating": "捷運免袋平穩四輪推行/高鐵台鐵完全合規",
+    "foldingType": "專利五通同軸轉點後三角前翻 + 主樑對折 (Trifold)",
+    "foldSeconds": 12,
     "ucsScore": 4.2,
     "ucsRatingText": "4.2★ 高度公規",
     "specs": {
@@ -3171,45 +3199,52 @@
       "brakes": "平裝式油壓碟煞"
     },
     "scores": {
-      "weight": 7.4,
-      "volume": 5.0,
+      "weight": 7.9,
+      "volume": 7.9,
       "rigidity": 7.0,
       "moddability": 8.4,
       "resale": 7.0,
       "cp": 7.0,
-      "portability": 6.1,
-      "commute": 6.7,
-      "sport": 7.5
+      "portability": 7.9,
+      "commute": 7.8,
+      "sport": 7.6
     },
     "keyFeatures": [
-      "跳脫傳統折疊車中間粗糙斷口鉸鏈，專利弧形一體流線車身",
-      "隱藏式下翻折疊關節，收折後平整美觀，完全杜絕刮腿煩惱",
-      "液壓管形如海豚躍水，視覺張力極具未來科技感",
-      "標配油壓碟煞與隱藏內走線，整車乾淨俐落"
+      "創立後三角與五通同軸轉軸一體結構，兼具三折緊湊與踩踏剛性",
+      "標配全油壓碟煞制動系統 (140mm 碟盤)，雨天與長下坡制動超群",
+      "改良型易行輪與車輪四點接地，收折後可直立平穩推行不傾倒",
+      "原生 16\" (349) 規格，相容小布鼻輪豬鼻子快拆扣具與前包"
     ],
     "subModels": [
       {
-        "name": "Neo 2 (9速碟煞)",
-        "spec": "406輪組 / 9速外變 / 油壓碟煞 / 10.9kg",
-        "weight": "10.9 kg",
-        "price": "NT$ 16,800"
+        "name": "Neo 9S 機械版",
+        "spec": "16\"(349) / Shimano 9速 / 油壓碟煞 / 10.2kg",
+        "weight": "10.2 kg",
+        "price": "NT$ 18,800"
       },
       {
-        "name": "Neo 451 18S",
-        "spec": "451跑車輪組 / 18速外變 / 競速幾何",
-        "weight": "10.6 kg",
-        "price": "NT$ 21,800"
+        "name": "Neo 碳叉特仕版",
+        "spec": "16\"(349) / 碳纖前叉 / 外變9速 / 9.5kg",
+        "weight": "9.5 kg",
+        "price": "NT$ 24,800"
+      },
+      {
+        "name": "Neo EX12 電變版",
+        "spec": "16\"(349) / 無線電子變速 12速 / 油壓碟煞",
+        "weight": "10.3 kg",
+        "price": "NT$ 36,800"
       }
     ],
     "twChannel": "JAVA 台灣特約門市 / 網購電商平台",
     "officialUrl": "https://www.javabikes.com",
-    "svgType": "dolphin",
-    "foldingCategory": "midfold",
+    "svgType": "trifold",
+    "foldingCategory": "trifold",
     "aliases": [
       "JAVA Neo",
-      "佳沃",
-      "弧形隱折",
-      "無斷口",
+      "佳沃Neo",
+      "國布",
+      "JAVA三折",
+      "349三折",
       "Neo 2"
     ],
     "imageUrl": "images/S29.jpg",
@@ -3231,7 +3266,9 @@
       "https://cheungkee.co",
       "https://thebikeatrium.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "ESTIMATED",
+    "channelStatus": "ACTIVE",
+    "foldedVolumeNote": "估算值 (依官方16吋三折規格)"
   },
   {
     "id": "S30",
@@ -3346,7 +3383,8 @@
       "https://www.montaguebikes.com/product/paratrooper-pro/",
       "https://www.montaguebikes.com/product/paratrooper-express/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S31",
@@ -3461,7 +3499,8 @@
       "https://www.montaguebikes.com/product/fit/",
       "https://www.montaguebikes.com/product/boston/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S32",
@@ -3491,11 +3530,11 @@
       105
     ],
     "foldedSizeCm": [
-      75,
-      65,
-      33
+      75.0,
+      65.0,
+      20.0
     ],
-    "foldedVolumeL": 160.9,
+    "foldedVolumeL": 97.5,
     "transportRating": "全尺寸大折中體積最小/完全合規高鐵行李規範",
     "foldingType": "台灣專利中管鎖定菱形雙三角折疊",
     "foldSeconds": 20,
@@ -3511,13 +3550,13 @@
     },
     "scores": {
       "weight": 5.5,
-      "volume": 6.1,
+      "volume": 8.7,
       "rigidity": 8.8,
       "moddability": 10.0,
       "resale": 7.0,
-      "cp": 6.1,
-      "portability": 5.8,
-      "commute": 7.3,
+      "cp": 6.4,
+      "portability": 7.3,
+      "commute": 8.2,
       "sport": 8.3
     },
     "keyFeatures": [
@@ -3568,7 +3607,9 @@
       "https://www.changebike.com",
       "https://www.changebike.com.tw"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE",
+    "foldedVolumeNote": "雙輪全拆 (不含拆下之輪組)"
   },
   {
     "id": "S33",
@@ -3598,11 +3639,11 @@
       102
     ],
     "foldedSizeCm": [
-      75,
-      65,
-      33
+      75.0,
+      65.0,
+      20.0
     ],
-    "foldedVolumeL": 160.9,
+    "foldedVolumeL": 97.5,
     "transportRating": "拆前輪後可直接塞入一般房車後車廂",
     "foldingType": "專利中管旋轉隱藏鎖定 (雙三角公路鑽石車架幾何)",
     "foldSeconds": 20,
@@ -3618,13 +3659,13 @@
     },
     "scores": {
       "weight": 7.7,
-      "volume": 6.1,
+      "volume": 8.7,
       "rigidity": 8.8,
       "moddability": 10.0,
       "resale": 7.0,
-      "cp": 6.3,
-      "portability": 6.8,
-      "commute": 7.8,
+      "cp": 6.6,
+      "portability": 8.2,
+      "commute": 8.7,
       "sport": 8.9
     },
     "keyFeatures": [
@@ -3675,7 +3716,9 @@
       "https://www.changebike.com",
       "https://www.changebike.com.tw/gf-gravel.html"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE",
+    "foldedVolumeNote": "雙輪全拆 (不含拆下之輪組)"
   },
   {
     "id": "S34",
@@ -3782,7 +3825,8 @@
       "https://www.ternbicycles.com/en/bikes/472/eclipse-x22",
       "https://www.ternbicycles.com/en/bikes/472/eclipse-p20"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S35",
@@ -3881,7 +3925,8 @@
     "sources": [
       "https://www.ternbicycles.com/en/bikes/473/node-d8"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S36",
@@ -3997,7 +4042,8 @@
       "https://www.khsbicycles.com.tw/products/folding-bikes/f20-rc-2022/",
       "https://www.khsbicycles.com.tw/products/folding-bikes/f20-jj/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S37",
@@ -4103,7 +4149,8 @@
       "https://www.khsbicycles.com.tw/products/folding-bikes/f16-d/",
       "https://jeslerbike.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S38",
@@ -4213,7 +4260,8 @@
       "https://www.giant-bicycles.com/us/expressway-1",
       "https://www.giant-bicycles.com/us/expressway-2"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S39",
@@ -4320,7 +4368,8 @@
       "https://www.giant-bicycles.com/tw",
       "https://www.momentum-biking.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S40",
@@ -4428,7 +4477,8 @@
       "https://www.giant-bicycles.com/tw",
       "https://www.mobile01.com/topicdetail.php?f=317&t=587848"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S41",
@@ -4536,7 +4586,8 @@
       "https://www.giant-bicycles.com/tw",
       "https://www.mobile01.com/topicdetail.php?f=317&t=5179040"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S42",
@@ -4653,7 +4704,8 @@
       "https://www.merida-bikes.com/zh-tw",
       "https://www.mobile01.com/topicdetail.php?f=317&t=1530221"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S43",
@@ -4761,7 +4813,8 @@
       "https://www.mobile01.com/topicdetail.php?f=317&t=1067332",
       "http://www.oyama.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S44",
@@ -4867,7 +4920,8 @@
       "https://www.mobile01.com/topicdetail.php?f=317&t=619623",
       "http://www.oyama.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S45",
@@ -4976,7 +5030,8 @@
       "https://www.decathlon.com.hk",
       "https://www.mobile01.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S46",
@@ -5088,7 +5143,8 @@
       "https://fnhon.sg",
       "https://www.decathlon.com.hk"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S47",
@@ -5196,7 +5252,8 @@
       "https://superbiker.hk",
       "https://liteprobicycle.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S48",
@@ -5304,7 +5361,8 @@
       "https://liteprobicycle.com/",
       "https://fnhon.sg"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S49",
@@ -5412,7 +5470,8 @@
       "https://liteprobicycle.com/",
       "https://bikeforums.net"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S50",
@@ -5519,7 +5578,8 @@
       "https://www.bikehome.com.tw",
       "https://chriscyclehk.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S51",
@@ -5627,7 +5687,8 @@
       "http://dahon.com.hk",
       "http://www.77bike.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S52",
@@ -5733,7 +5794,8 @@
       "https://www.mobile01.com",
       "http://www.77bike.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S53",
@@ -5839,7 +5901,8 @@
       "https://www.bikeforums.net",
       "https://www.mobile01.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S54",
@@ -5964,7 +6027,8 @@
       "https://www.decathlon.tw",
       "https://manuals.plus/btwin/tilt-500-900-folding-bike-manual"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S55",
@@ -6075,7 +6139,8 @@
       "https://www.momoshop.com.tw",
       "https://www.jeslerbike.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S56",
@@ -6195,7 +6260,8 @@
       "https://www.mobile01.com",
       "https://shopee.tw"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S57",
@@ -6313,7 +6379,8 @@
       "https://shopee.tw",
       "https://www.mobile01.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S58",
@@ -6430,7 +6497,8 @@
       "https://www.hasa.com.tw",
       "https://www.mobile01.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S59",
@@ -6545,7 +6613,8 @@
     "sources": [
       "https://solorock.us"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S60",
@@ -6656,7 +6725,8 @@
       "https://www.e-otomo.co.jp",
       "https://item.rakuten.co.jp"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S61",
@@ -6771,7 +6841,8 @@
       "https://shopee.tw",
       "https://www.ruten.com.tw"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S62",
@@ -6884,7 +6955,8 @@
       "http://dahon.com.hk",
       "http://www.dahon.bj.cn"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S63",
@@ -6997,7 +7069,8 @@
       "https://www.momoshop.com.tw",
       "https://www.pchome.com.tw"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S64",
@@ -7105,7 +7178,8 @@
       "https://www.jeslerbike.com",
       "https://www.mobile01.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S65",
@@ -7214,7 +7288,8 @@
       "https://www.jeslerbike.com",
       "https://www.neighborrider.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S66",
@@ -7321,7 +7396,8 @@
       "https://www.spacycles.co.uk",
       "https://www.bikeradar.com"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S67",
@@ -7427,7 +7503,8 @@
       "https://www.mobile01.com/topicdetail.php?f=317&t=751411",
       "https://www.imb2b.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S68",
@@ -7534,7 +7611,8 @@
       "https://www.avonvalleycyclery.co.uk/",
       "https://cyclowired.jp/news/node/14848"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S69",
@@ -7642,7 +7720,8 @@
       "https://savabicycle.com/",
       "https://www.biketo.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S70",
@@ -7747,7 +7826,8 @@
       "https://www.twitter-bikes.com/",
       "https://www.dcfever.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S71",
@@ -7853,7 +7933,8 @@
       "https://dahon.com/",
       "https://cyclingindustry.news/dahon-nouveau-flat-fold-technology/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S72",
@@ -7959,7 +8040,8 @@
       "https://bikerumor.com/eurobike-2014-dahon-clinches-it-with-lockjaw-road-mountain-and-folding-bikes/",
       "https://dahon.com/bikes/clinch-d10/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S73",
@@ -8066,7 +8148,8 @@
       "https://www.outsideonline.com/outdoor-gear/gear-news/cable-guy/",
       "https://www.mombatbicycles.com/MOMBAT/BikeLists/Slingshot.html"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S74",
@@ -8173,7 +8256,8 @@
       "https://www.pacific-cycles.com/birdy/classic",
       "https://birdybicycle.com/pages/birdy-classic"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S75",
@@ -8278,7 +8362,8 @@
     "sources": [
       "https://manuals.plus/mobiky/genius-folding-bike-manual"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S76",
@@ -8384,7 +8469,8 @@
       "https://www.doppelganger.jp/product/202/",
       "https://www.doppelganger.jp/product/211/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S77",
@@ -8488,7 +8574,8 @@
     "sources": [
       "https://www.mobile01.com/topicdetail.php?f=317&t=1018944"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S78",
@@ -8594,7 +8681,8 @@
       "https://www.montaguebikes.com/boston-folding-bike/",
       "https://www.montaguebikes.com/navigator-folding-bike/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S79",
@@ -8700,114 +8788,8 @@
       "https://www.pacific-cycles.com/IF-Mode",
       "https://newatlas.com/if-mode-full-sized-folding-commuter-bike/11181/"
     ],
-    "specConfidence": "HIGH"
-  },
-  {
-    "id": "S80",
-    "brand": "Tyrell",
-    "seriesName": "CSI / PK1 頂級鈦合金/碳纖輕量跑車系列",
-    "englishName": "Tyrell CSI / PK1 Titanium & Carbon Lightweight",
-    "camp": "經典工藝與極限收折",
-    "campCode": "classic",
-    "wheelSize": "20\" (451)",
-    "wheelSizeCat": "20",
-    "tireClearance": "相容 1.25 ~ 1.75 寬胎",
-    "wheelbaseMm": 1020,
-    "unfoldedSizeCm": [
-      150,
-      56,
-      105
-    ],
-    "transportRating": "大眾運輸攜車袋合規",
-    "foldingType": "不可折疊 (Slant 經典斜桁架純跑車幾何)",
-    "foldingCategory": "nonfold",
-    "foldSeconds": 15,
-    "ucsScore": 3.5,
-    "ucsRatingText": "3.5★ 兼顧原廠與副廠相容",
-    "specs": {
-      "frontOld": "100mm",
-      "rearOld": "130mm",
-      "seatpost": "31.8mm 輕量座管",
-      "headsetStem": "快拆一體式鍛造立管",
-      "drivetrain": "Shimano / S-Ride 9~11速跑格傳動",
-      "brakes": "輕量 CNC 雙軸 V 夾"
-    },
-    "scores": {
-      "weight": 10.0,
-      "volume": 1.0,
-      "rigidity": 10.0,
-      "moddability": 7.0,
-      "resale": 9.0,
-      "cp": 4.6,
-      "portability": 5.0,
-      "commute": 6.2,
-      "sport": 9.1
-    },
-    "keyFeatures": [
-      "Tyrell 代表性底盤幾何設計",
-      "不可折疊 (Slant 經典斜桁架純跑車幾何) 獨家收折機構",
-      "全方位都會通勤與運動跑旅雙棲設定"
-    ],
-    "subModels": [
-      {
-        "name": "Tyrell Standard",
-        "spec": "9速公路傳動",
-        "weight": "10.5kg",
-        "price": "NT$ 32,800"
-      },
-      {
-        "name": "Tyrell Pro Edition",
-        "spec": "11速碳輪旗艦",
-        "weight": "9.2kg",
-        "price": "NT$ 56,800"
-      }
-    ],
-    "twChannel": "Tyrell 台灣授權經銷通路",
-    "officialUrl": "https://www.foldingbike.guide",
-    "svgType": "nonfold",
-    "aliases": [
-      "Tyrell CSI",
-      "PK1",
-      "泰勒CSI",
-      "鈦合金小折",
-      "碳纖後三角",
-      "日本手工",
-      "小徑之王",
-      "頂級跑格"
-    ],
-    "imageUrl": "images/S80.jpg",
-    "priceRange": [
-      58000,
-      145000
-    ],
-    "medianPrice": 92000,
-    "tcoEstimate": 98000,
-    "foldedSizeCm": [
-      0,
-      0,
-      0
-    ],
-    "weightKg": 7.2,
-    "foldedVolumeL": 0.0,
-    "weightRange": [
-      6.7,
-      7.8
-    ],
-    "productionStatus": "ACTIVE_IN_PRODUCTION",
-    "firstReleaseYear": 2012,
-    "latestModelYear": 2026,
-    "twDistributor": "Tyrell 台灣總代理授權經銷網",
-    "twChannelAuthority": "總代理公司貨",
-    "twWarrantyCoverage": "原廠車架 5~7 年保固",
-    "partsFriction": "特規零件需由代理商或改裝工作室提供",
-    "resaleRetention": 4.5,
-    "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "注意定期更換原廠後避震優力膠與轉點銅襯套",
-    "sources": [
-      "https://www.tyrellbike.com/products/csi/",
-      "https://itami-kanzaki.com/"
-    ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S81",
@@ -8913,7 +8895,8 @@
       "https://www.mobile01.com/topicdetail.php?f=317&t=1067215",
       "https://www.biketo.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S82",
@@ -9019,7 +9002,8 @@
     "sources": [
       "https://www.mobile01.com/topicdetail.php?f=317&t=410012"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S83",
@@ -9125,7 +9109,8 @@
       "https://hummingbirdbike.com/",
       "https://www.bikeradar.com/reviews/bikes/folding-bikes/hummingbird-folding-bike-review"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S84",
@@ -9231,7 +9216,8 @@
       "https://vello.bike/",
       "https://www.bikeradar.com/reviews/bikes/folding-bikes/vello-rocky-review"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S85",
@@ -9336,7 +9322,8 @@
       "https://helix.ca/",
       "https://www.thermaltake.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S86",
@@ -9443,7 +9430,8 @@
       "https://gocycle.com/",
       "https://fullycharged.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S87",
@@ -9549,7 +9537,8 @@
       "https://en.wikipedia.org/wiki/A-bike",
       "https://www.bikeradar.com/reviews/bikes/folding-bikes/sinclair-a-bike-review"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S88",
@@ -9653,7 +9642,8 @@
     "sources": [
       "https://www.kwigglebike.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S89",
@@ -9759,7 +9749,8 @@
       "https://www.bikeradar.com/reviews/bikes/folding-bikes/bickerton-junction-1707-city-review",
       "https://www.planet-bike.co.uk/bikes/folding-bikes/bickerton-junction-1707-city-folding-bike__2825"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S90",
@@ -9867,7 +9858,8 @@
       "https://www.atob.org.uk/folding-bikes/frog-review/",
       "https://www.pacific-cycles.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S91",
@@ -9974,7 +9966,8 @@
       "https://tartaruga-ew.com/en/lineup/type-sport/",
       "https://www.cycleshibuya.com/products/detail.php?product_id=4084"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S92",
@@ -10080,7 +10073,8 @@
       "https://bernds.de/faltrad/",
       "https://www.rohloff.de/en/experience/bike-finder/bernds-faltrad"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S93",
@@ -10189,7 +10183,8 @@
       "https://dahon.com.hk/products/dahon-mu-slx-pka015-folding-bike",
       "https://www.hkbicycle.com/products/dahon-mu-slx-pka015"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S94",
@@ -10297,7 +10292,8 @@
       "https://www.bikefolded.com/dahon-curve-d3-folding-bike-review/",
       "https://bikeroar.com/products/dahon/curve-d3-2015/specs"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S95",
@@ -10405,7 +10401,8 @@
       "https://www.cyclemotion.co.uk/helios.htm",
       "https://www.atob.org.uk/folding-bikes/dahon-helios-sl-review/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S96",
@@ -10512,7 +10509,8 @@
       "https://jitensha-biyori.jp/smallbike/2330/",
       "https://www.dahon.com/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S97",
@@ -10620,7 +10618,8 @@
       "https://www.dahon.com/",
       "https://www.hkbicycle.com/products/dahon-dash-altena-2021-m-nda063m"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S98",
@@ -10728,7 +10727,8 @@
       "https://m.mobile01.com/topicdetail.php?f=317&t=586221",
       "https://www.bikefun.com.tw/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S99",
@@ -10836,7 +10836,8 @@
       "https://www.bikehome.com.tw/product_detail.php?id=823",
       "https://www.cyclingweekly.com/reviews/folding-bikes/tern-verge-x11"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S100",
@@ -10945,7 +10946,8 @@
       "https://www.ternbicycles.com/en/bikes/471/hsd",
       "https://www.currentebikes.com/product/tern-gsd-s10/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S101",
@@ -11051,7 +11053,8 @@
       "https://www.khsbicycles.com.tw/",
       "https://m.mobile01.com/topicdetail.php?f=317&t=1043224"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S102",
@@ -11158,7 +11161,8 @@
       "http://www.fnhon.com/",
       "https://www.decathlon.com.hk/zh/p/fnhon-zephyr-16-18s-ka1618-folding-bike/_/R-p-X8846383"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S103",
@@ -11264,7 +11268,8 @@
       "http://www.fnhon.com/",
       "https://fnhon.asia/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S104",
@@ -11370,7 +11375,8 @@
       "https://passiongadgets.com/products/crius-velocity-folding-bike",
       "https://www.carousell.sg/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S105",
@@ -11477,7 +11483,8 @@
       "https://www.dcfever.com/trading/view.php?id=8923485",
       "https://m.mobile01.com/topicdetail.php?f=317&t=1004128"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S106",
@@ -11585,7 +11592,8 @@
       "https://www.28goods.com/products/java-aria-20",
       "https://www.decathlon.com.hk/zh/p/java-aria-20-18s-carbon-folding-bike/_/R-p-X8846381"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S107",
@@ -11692,7 +11700,8 @@
       "https://fiido.com/products/fiido-d21-folding-electric-bike",
       "https://www.cnet.com/roadshow/reviews/fiido-d11-ebike-review/"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S108",
@@ -11800,7 +11809,8 @@
       "https://www.himoebike.com/",
       "https://www.youtube.com/watch?v=kYJ56N7jRjQ"
     ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   },
   {
     "id": "S109",
@@ -11907,113 +11917,7 @@
       "https://strigabikes.com/products/trinx-dolphin-4-0-folding-bike",
       "https://www.youtube.com/watch?v=8Vz9X_9pG1U"
     ],
-    "specConfidence": "HIGH"
-  },
-  {
-    "id": "S110",
-    "brand": "Windspeed",
-    "seriesName": "風速 4130 鉻鉬鋼管小折與長途改裝底盤系列",
-    "englishName": "Windspeed Custom 4130 Chromoly Folding Platform",
-    "camp": "個性改裝與模組自組",
-    "campCode": "custom",
-    "wheelSize": "20\" (406 / 451 雙輪徑相容)",
-    "wheelSizeCat": "20",
-    "tireClearance": "相容 1.25 ~ 1.75 寬胎",
-    "wheelbaseMm": 1020,
-    "unfoldedSizeCm": [
-      150,
-      56,
-      105
-    ],
-    "transportRating": "大眾運輸攜車袋合規",
-    "foldingType": "水平鍛造鋼管中折 (Midfold)",
-    "foldingCategory": "midfold",
-    "foldSeconds": 15,
-    "ucsScore": 4.0,
-    "ucsRatingText": "4.0★ 公規改裝自由度高",
-    "specs": {
-      "frontOld": "100mm",
-      "rearOld": "130mm",
-      "seatpost": "31.8mm 輕量座管",
-      "headsetStem": "快拆一體式鍛造立管",
-      "drivetrain": "Shimano / S-Ride 9~11速跑格傳動",
-      "brakes": "輕量 CNC 雙軸 V 夾"
-    },
-    "scores": {
-      "weight": 6.9,
-      "volume": 4.9,
-      "rigidity": 7.0,
-      "moddability": 8.0,
-      "resale": 7.0,
-      "cp": 6.3,
-      "portability": 5.8,
-      "commute": 6.4,
-      "sport": 7.3
-    },
-    "keyFeatures": [
-      "Windspeed 代表性底盤幾何設計",
-      "水平鍛造鋼管中折 (Midfold) 獨家收折機構",
-      "全方位都會通勤與運動跑旅雙棲設定"
-    ],
-    "subModels": [
-      {
-        "name": "Windspeed Standard",
-        "spec": "9速公路傳動",
-        "weight": "10.5kg",
-        "price": "NT$ 32,800"
-      },
-      {
-        "name": "Windspeed Pro Edition",
-        "spec": "11速碳輪旗艦",
-        "weight": "9.2kg",
-        "price": "NT$ 56,800"
-      }
-    ],
-    "twChannel": "Windspeed 台灣授權經銷通路",
-    "officialUrl": "https://www.foldingbike.guide",
-    "svgType": "midfold",
-    "aliases": [
-      "風速小折",
-      "4130鋼管折疊",
-      "黑岩",
-      "Darkrock",
-      "長途旅行鋼架",
-      "復古小折",
-      "騰縱"
-    ],
-    "imageUrl": "images/S110.jpg",
-    "priceRange": [
-      18000,
-      48000
-    ],
-    "medianPrice": 29800,
-    "tcoEstimate": 35800,
-    "foldedSizeCm": [
-      80.0,
-      36.0,
-      66.0
-    ],
-    "weightKg": 11.5,
-    "foldedVolumeL": 190.1,
-    "weightRange": [
-      11.0,
-      12.1
-    ],
-    "productionStatus": "ACTIVE_IN_STOCK",
-    "firstReleaseYear": 2000,
-    "latestModelYear": 2026,
-    "twDistributor": "風行/克魯斯/黑岩改裝工作室",
-    "twChannelAuthority": "專門小徑工作室",
-    "twWarrantyCoverage": "車架經銷商 1 年保固",
-    "partsFriction": "特規零件需由代理商或改裝工作室提供",
-    "resaleRetention": 3.5,
-    "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
-    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙",
-    "sources": [
-      "http://www.biketo.com/",
-      "https://xbike.idv.tw/",
-      "https://m.mobile01.com/topicdetail.php?f=317&t=1004128"
-    ],
-    "specConfidence": "HIGH"
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
   }
 ]

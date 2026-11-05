@@ -5,7 +5,7 @@ Enforces ADR 20261104-folding-bike-slimming-rebuild-plan Contracts:
 - Tier 1: Strict Physical Envelope & Volumetric Math Verification
 - Tier 2: Business Semantic, Schema v2.0 & Taiwan Distribution Channel Contracts
 Exit Code Contract:
-- 0: All 110 series 100% compliant with physics, schema and ground truth anchors.
+- 0: All 108 series 100% compliant with physics, schema and ground truth anchors.
 - 1: Verification failed with violation details.
 """
 import sys
@@ -28,17 +28,17 @@ def validate():
     with open(target_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Rule 0: Exactly 110 series with strict sequential IDs S01~S110
-    if len(data) != 110:
-        print(f"[FAIL] Expected exactly 110 series, got {len(data)}")
+    # Rule 0: Exactly 108 series with strict sequential IDs S01~S110 (excluding S80, S110)
+    if len(data) != 108:
+        print(f"[FAIL] Expected exactly 108 series, got {len(data)}")
         sys.exit(1)
 
-    expected_ids = [f"S{i:02d}" if i < 100 else f"S{i}" for i in range(1, 111)]
+    expected_ids = [f"S{i:02d}" if i < 100 else f"S{i}" for i in range(1, 111) if i not in (80, 110)]
     actual_ids = [d.get("id") for d in data]
     if expected_ids != actual_ids:
         print(f"[FAIL] Series ID mismatch. Diff: {set(expected_ids) ^ set(actual_ids)}")
         sys.exit(1)
-    print(f"[PASS] Rule 0: 110 Series sequential IDs (S01~S110) strictly verified.")
+    print(f"[PASS] Rule 0: 108 Series sequential IDs (S01~S110 excluding S80, S110) strictly verified.")
 
     # 8 Core Anchor Truth Targets
     ANCHOR_TRUTHS = {
@@ -88,7 +88,7 @@ def validate():
                 tier1_violations.append(f"{sid} ({brand}): Regular bike weight {weight}kg outside [5.0, 22.0]kg")
 
         # 2. Folded volume and dimensional math formula tolerance (<= 5%)
-        if cat == "nonfold" or sid == "S80":
+        if cat == "nonfold":
             if vol != 0.0 or fsize != [0, 0, 0]:
                 tier1_violations.append(f"{sid}: Nonfold bike must have foldedVolumeL=0.0 and foldedSizeCm=[0,0,0]")
         else:
@@ -178,7 +178,7 @@ def validate():
         expected_w = max(1.0, min(10.0, expected_w))
 
         v = vol if vol is not None else 150.0
-        expected_v = 1.0 if (cat == "nonfold" or sid == "S80") else (10.0 if v <= 60.0 else (10.0 - ((v - 60.0) / 30.0) * 1.0 if v <= 90.0 else (9.0 - ((v - 90.0) / 50.0) * 2.0 if v <= 140.0 else (7.0 - ((v - 140.0) / 60.0) * 2.5 if v <= 200.0 else (4.5 - ((v - 200.0) / 100.0) * 2.5 if v <= 300.0 else max(1.0, 2.0 - ((v - 300.0) / 350.0) * 1.0))))))
+        expected_v = 1.0 if cat == "nonfold" else (10.0 if v <= 60.0 else (10.0 - ((v - 60.0) / 30.0) * 1.0 if v <= 90.0 else (9.0 - ((v - 90.0) / 50.0) * 2.0 if v <= 140.0 else (7.0 - ((v - 140.0) / 60.0) * 2.5 if v <= 200.0 else (4.5 - ((v - 200.0) / 100.0) * 2.5 if v <= 300.0 else max(1.0, 2.0 - ((v - 300.0) / 350.0) * 1.0))))))
         expected_v = max(1.0, min(10.0, expected_v))
 
         # Check deviations with override governance
@@ -212,7 +212,7 @@ def validate():
         print("\n[VERDICT: FAILED] Exit code 1.")
         sys.exit(1)
 
-    print("\n[VERDICT: 100% PASS] All 110 series strictly adhere to physics bounds, Schema v2.0 contracts, and Tier 3 Objective Rubric!")
+    print("\n[VERDICT: 100% PASS] All 108 series strictly adhere to physics bounds, Schema v2.0 contracts, and Tier 3 Objective Rubric!")
     sys.exit(0)
 
 if __name__ == "__main__":

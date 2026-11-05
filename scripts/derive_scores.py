@@ -5,7 +5,7 @@ Implements Council Decision 20261105-bike-scoring-rubric:
 - 6 Closed-form continuous rubric splines (weight, volume, rigidity, moddability, resale, cp)
 - 3 Dual-track backward-compatible closed-form derivations (portability, commute, sport)
 - Override governance support (scoreOverrides + overrideReason min 10 chars)
-- Outputs 9-key unified scores object for all 110 series
+- Outputs 9-key unified scores object for all 108 series
 """
 import os
 import sys
@@ -34,7 +34,7 @@ def calc_weight_score(w):
 
 def calc_volume_score(cat, vol, sid=None):
     """Spline 2: Volume score in [1.0, 10.0] with <=60L saturation"""
-    if cat == "nonfold" or sid == "S80":
+    if cat == "nonfold":
         return 1.0
     if vol <= 60.0:
         score = 10.0
@@ -163,7 +163,7 @@ def main():
 
     updated_data = derive_scores(data)
 
-    # Compute statistics across all 110 series
+    # Compute statistics across all 108 series
     keys = ["weight", "volume", "rigidity", "moddability", "resale", "cp", "portability", "commute", "sport"]
     stats = {}
     for k in keys:
