@@ -1,0 +1,399 @@
+[
+  {
+    "id": "SHOP_N01",
+    "name": "輪粹單車 (LaneTrip)",
+    "region": "北部",
+    "area": "台北市松山區",
+    "address": "台北市松山區富錦街 425 號 1 樓",
+    "phone": "(02) 2768-3003",
+    "brands": [
+      "Brompton",
+      "Chpt3"
+    ],
+    "skills": [
+      "原廠技術認證",
+      "折疊扣具校正",
+      "原廠保固登錄",
+      "英倫精品"
+    ],
+    "badge": "⭐ 總代理旗艦",
+    "target": "小布原廠控、英系精品信仰者、原廠保固首選",
+    "gmap": "https://maps.google.com/?q=台北市松山區富錦街425號"
+  },
+  {
+    "id": "SHOP_N02",
+    "name": "永和 小哲居單車",
+    "region": "北部",
+    "area": "新北市永和區",
+    "address": "新北市永和區永貞路 249 號",
+    "phone": "(02) 2928-8686",
+    "brands": [
+      "Mint",
+      "Fnhon",
+      "Crius",
+      "Brompton",
+      "Banian"
+    ],
+    "skills": [
+      "魔改自組輕量化",
+      "碳纖三折改裝",
+      "異音排除",
+      "副廠升級"
+    ],
+    "badge": "🛠️ 自組魔改大本營",
+    "target": "追求極限輕量、老手魔改、副廠改裝狂熱者",
+    "gmap": "https://maps.google.com/?q=新北市永和區永貞路249號"
+  },
+  {
+    "id": "SHOP_N03",
+    "name": "拜訪單車 (Bikfun)",
+    "region": "北部",
+    "area": "台北市內湖區",
+    "address": "台北市內湖區新湖二路 251 號",
+    "phone": "(02) 2792-9006",
+    "brands": [
+      "CARACLE",
+      "Birdy",
+      "Reach",
+      "Tyrell",
+      "Pacific"
+    ],
+    "skills": [
+      "四連桿避震升級",
+      "CARACLE總代理",
+      "走線美化",
+      "油壓碟煞優化"
+    ],
+    "badge": "🚴♂️ 頂級跑折工坊",
+    "target": "高預算精品玩家、鳥車頂級避震、出國旅行族",
+    "gmap": "https://maps.google.com/?q=台北市內湖區新湖二路251號"
+  },
+  {
+    "id": "SHOP_N04",
+    "name": "弘達單車 (HonDa Bike)",
+    "region": "北部",
+    "area": "新北市新店區",
+    "address": "新北市新店區中正路 542 號",
+    "phone": "(02) 8667-1777",
+    "brands": [
+      "Bike Friday",
+      "Moulton",
+      "Alex Moulton"
+    ],
+    "skills": [
+      "BF長途旅行車客製",
+      "旅行箱打包Fitting",
+      "特殊鋼管調校"
+    ],
+    "badge": "✈️ 長途旅行聖地",
+    "target": "重度單車旅行者、雙塔環島挑戰者、BF訂製車主",
+    "gmap": "https://maps.google.com/?q=新北市新店區中正路542號"
+  },
+  {
+    "id": "SHOP_N05",
+    "name": "魔術方塊單車",
+    "region": "北部",
+    "area": "新北市新莊區",
+    "address": "新北市新莊區思源路 177 巷 2 號",
+    "phone": "(02) 2993-8555",
+    "brands": [
+      "DAHON",
+      "Fnhon",
+      "Crius"
+    ],
+    "skills": [
+      "系統性變速魔改",
+      "大齒盤特殊齒比",
+      "扣具調校",
+      "老貂翻新"
+    ],
+    "badge": "🔧 DAHON 魔改權威",
+    "target": "DAHON老車升級雙盤、平價換檔、日常通勤族",
+    "gmap": "https://maps.google.com/?q=新北市新莊區思源路177巷2號"
+  },
+  {
+    "id": "SHOP_N06",
+    "name": "太平洋自行車官方直營館",
+    "region": "北部",
+    "area": "桃園新屋/台北",
+    "address": "桃園市新屋區永安里 永福路 686 號 / 台北服務處",
+    "phone": "(03) 486-1231",
+    "brands": [
+      "Birdy",
+      "Reach",
+      "CarryMe",
+      "IF",
+      "Pacific"
+    ],
+    "skills": [
+      "原廠母廠支援",
+      "轉點襯套更換",
+      "特規料件現貨",
+      "車身幾何校正"
+    ],
+    "badge": "🏭 原廠母廠直營",
+    "target": "太平洋車系車主、特規耗材購買(84T/襯套)",
+    "gmap": "https://maps.google.com/?q=桃園市新屋區永福路686號"
+  },
+  {
+    "id": "SHOP_N07",
+    "name": "捷世樂單車休閒 (雙北連鎖)",
+    "region": "北部",
+    "area": "雙北/桃竹連鎖",
+    "address": "新北市永和區林森路 39 號 (內湖/永和/桃園/竹北)",
+    "phone": "(02) 8921-2555",
+    "brands": [
+      "Birdy",
+      "Brompton",
+      "DAHON",
+      "Tern",
+      "Tyrell"
+    ],
+    "skills": [
+      "鳥車改裝軍火庫",
+      "跨品牌現貨",
+      "精品改裝",
+      "定期健檢"
+    ],
+    "badge": "🌟 鳥車/改裝第一連鎖",
+    "target": "鳥車改裝新手到老手、高階精品改裝",
+    "gmap": "https://maps.google.com/?q=新北市永和區林森路39號"
+  },
+  {
+    "id": "SHOP_N08",
+    "name": "城市綠洲 (大稻埕旗艦店)",
+    "region": "北部",
+    "area": "台北大同/全台",
+    "address": "台北市大同區重慶北路三段 18 號",
+    "phone": "(02) 2595-8855",
+    "brands": [
+      "Montague",
+      "DAHON",
+      "Tern"
+    ],
+    "skills": [
+      "傘兵大折認證展售",
+      "都會休閒小折",
+      "露營打包配件",
+      "快速調校"
+    ],
+    "badge": "🪖 傘兵大折認證旗艦",
+    "target": "傘兵車越野車主、長途裝載露營族",
+    "gmap": "https://maps.google.com/?q=台北市大同區重慶北路三段18號"
+  },
+  {
+    "id": "SHOP_C01",
+    "name": "巡揚單車 (S-Cycles)",
+    "region": "中部",
+    "area": "台中市西屯區",
+    "address": "台中市西屯區朝馬路 103 號",
+    "phone": "(04) 2259-2580",
+    "brands": [
+      "Tyrell",
+      "Alex Moulton",
+      "Moulton",
+      "Birdy"
+    ],
+    "skills": [
+      "日系匠人小徑展售",
+      "公路電變調校",
+      "碳輪升級",
+      "高階小折Fitting"
+    ],
+    "badge": "🏆 中台灣小徑跑車指標",
+    "target": "高預算跑折玩家、Tyrell跑旅車友、頂級工藝藏家",
+    "gmap": "https://maps.google.com/?q=台中市西屯區朝馬路103號"
+  },
+  {
+    "id": "SHOP_C02",
+    "name": "詮巨 ChangeBike 旗艦處",
+    "region": "中部",
+    "area": "台中市大甲區",
+    "address": "台中市大甲區中山路一段 1007 號",
+    "phone": "(04) 2688-6677",
+    "brands": [
+      "Change Bike",
+      "ChangeBike",
+      "Montague"
+    ],
+    "skills": [
+      "專利鎖扣原廠檢修",
+      "登山/公路大折改裝",
+      "碟煞卡鉗定位"
+    ],
+    "badge": "📐 全尺寸大折原廠專責",
+    "target": "拒絕小輪徑之全尺寸大折擁護者、越野林道玩家",
+    "gmap": "https://maps.google.com/?q=台中市大甲區中山路一段1007號"
+  },
+  {
+    "id": "SHOP_C03",
+    "name": "功學社 KHS 大甲直營",
+    "region": "中部",
+    "area": "台中大甲/全台",
+    "address": "台中市大甲區經國路 123 號",
+    "phone": "(04) 2686-2211",
+    "brands": [
+      "KHS"
+    ],
+    "skills": [
+      "軟尾巴後避震阻尼維護",
+      "前叉Power Band更換",
+      "鉻鉬鋼車架檢修"
+    ],
+    "badge": "🚲 軟尾巴原廠基地",
+    "target": "KHS校長車友、長途環島長青族、鉻鉬鋼愛好者",
+    "gmap": "https://maps.google.com/?q=台中市大甲區經國路123號"
+  },
+  {
+    "id": "SHOP_C04",
+    "name": "鐵馬休閒單車",
+    "region": "中部",
+    "area": "台中市南屯區",
+    "address": "台中市南屯區文心南路 280 號",
+    "phone": "(04) 2471-1223",
+    "brands": [
+      "DAHON",
+      "Tern",
+      "Birdy"
+    ],
+    "skills": [
+      "折疊扣迫緊塊調校",
+      "傳動齒比優化",
+      "走線重整",
+      "煞車升級"
+    ],
+    "badge": "⚙️ 中部老字號實力店",
+    "target": "中部主流折疊車主、通勤小折改裝升級",
+    "gmap": "https://maps.google.com/?q=台中市南屯區文心南路280號"
+  },
+  {
+    "id": "SHOP_C05",
+    "name": "崇越單車 (台中門市)",
+    "region": "中部",
+    "area": "台中市西區",
+    "address": "台中市西區英才路 456 號",
+    "phone": "(04) 2301-8866",
+    "brands": [
+      "CARACLE",
+      "Tyrell",
+      "Birdy"
+    ],
+    "skills": [
+      "小徑幾何設定",
+      "Shimano Di2 電變整合",
+      "空力套件升級"
+    ],
+    "badge": "⚡ 電變與競速專家",
+    "target": "競速小折玩家、小徑爬坡挑戰者",
+    "gmap": "https://maps.google.com/?q=台中市西區英才路456號"
+  },
+  {
+    "id": "SHOP_S01",
+    "name": "捷輪單車 (Jie Lun Bike)",
+    "region": "南部",
+    "area": "台南市東區",
+    "address": "台南市東區中華東路二段 78 號",
+    "phone": "(06) 268-9990",
+    "brands": [
+      "Birdy",
+      "Brompton",
+      "DAHON",
+      "Tern"
+    ],
+    "skills": [
+      "南台灣手工編輪第一把交椅",
+      "高框碳輪升級",
+      "花鼓順暢度調校"
+    ],
+    "badge": "🎯 手工編輪大師",
+    "target": "重度魔改玩家、輪組追求極致順暢者",
+    "gmap": "https://maps.google.com/?q=台南市東區中華東路二段78號"
+  },
+  {
+    "id": "SHOP_S02",
+    "name": "十全單車 (Shih Chuan)",
+    "region": "南部",
+    "area": "高雄市三民區",
+    "address": "高雄市三民區十全一路 325 號",
+    "phone": "(07) 311-6677",
+    "brands": [
+      "DAHON",
+      "Birdy",
+      "KHS",
+      "Tern"
+    ],
+    "skills": [
+      "老字號軍火庫",
+      "絕版零件齊全",
+      "扣具鉸鏈翻修",
+      "二手車況評估"
+    ],
+    "badge": "🏛️ 南台灣老字號軍火庫",
+    "target": "老小折翻新、絕版零件尋寶者、老字號信賴客群",
+    "gmap": "https://maps.google.com/?q=高雄市三民區十全一路325號"
+  },
+  {
+    "id": "SHOP_S03",
+    "name": "曜越單車直營旗艦 (高雄)",
+    "region": "南部",
+    "area": "高雄市前金區",
+    "address": "高雄市前金區五福三路 57 號",
+    "phone": "(07) 241-1188",
+    "brands": [
+      "Tyrell",
+      "Tern"
+    ],
+    "skills": [
+      "日本Tyrell原廠規格售後",
+      "Tern精品旗艦展售",
+      "精品保養洗車"
+    ],
+    "badge": "🎌 Tyrell/Tern 高雄旗艦",
+    "target": "南台灣Tyrell車主、Tern高階車款車主",
+    "gmap": "https://maps.google.com/?q=高雄市前金區五福三路57號"
+  },
+  {
+    "id": "SHOP_S04",
+    "name": "自由鳶單車",
+    "region": "南部",
+    "area": "高雄市苓雅區",
+    "address": "高雄市苓雅區青年一路 123 號",
+    "phone": "(07) 334-5566",
+    "brands": [
+      "Brompton",
+      "Birdy"
+    ],
+    "skills": [
+      "精品改裝",
+      "全車鈦螺絲輕量化",
+      "隱藏內走線",
+      "高階陽極色彩搭配"
+    ],
+    "badge": "✨ 鈦合金視覺系改裝",
+    "target": "高雄精品折疊車主、外觀視覺系改裝玩家",
+    "gmap": "https://maps.google.com/?q=高雄市苓雅區青年一路123號"
+  },
+  {
+    "id": "SHOP_S05",
+    "name": "悠客單車 (Yoke Bike)",
+    "region": "南部",
+    "area": "台南市北區",
+    "address": "台南市北區西門路四段 234 號",
+    "phone": "(06) 251-8877",
+    "brands": [
+      "DAHON",
+      "Tern",
+      "KHS",
+      "Fnhon"
+    ],
+    "skills": [
+      "鉸鏈銅襯套更換",
+      "車身扣具異音排除",
+      "二手健檢",
+      "安全自鎖調校"
+    ],
+    "badge": "🛡️ 扣具鉸鏈搶修健檢",
+    "target": "二手小折買家檢驗、老車鉸鏈鬆脫搶修",
+    "gmap": "https://maps.google.com/?q=台南市北區西門路四段234號"
+  }
+]
