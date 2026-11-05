@@ -14,7 +14,6 @@ Includes:
 """
 import os
 import json
-import series_data
 
 def generate_photo_html(series):
     sid = series["id"]
@@ -51,7 +50,12 @@ def generate_photo_html(series):
     return photo_html
 
 def build_app():
-    data = series_data.get_series_data()
+    data_file = os.path.join(os.path.dirname(__file__), "data", "series_data.json")
+    if os.path.exists(data_file):
+        with open(data_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    else:
+        raise FileNotFoundError(f"Missing series database: {data_file}")
     assert len(data) == 110, f"Expected 110 series, got {len(data)}"
     
     ebike_ids = {"S27", "S55", "S63", "S84", "S86", "S100", "S107", "S108"}
