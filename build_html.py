@@ -2,10 +2,17 @@
 """
 Builder Script for Taiwan Folding Bike Series Guide (110 Series Platforms SPWA)
 Modular Pipeline: Combines 6 frontend modules from src/ with data from build_data_helper.py.
-Outputs: dist/folding_bike_series_guide_tw.html
+Outputs:
+  - dist/folding_bike_series_guide_tw.html
+  - dist/index.html
+  - index.html (root directory)
 """
 import os
 import sys
+
+# Prevent bytecode caching (__pycache__)
+sys.dont_write_bytecode = True
+
 import json
 from build_data_helper import build_app as load_data
 
@@ -48,6 +55,25 @@ def load_template():
     else:
         raise FileNotFoundError("Could not find modular template in src/ nor monolithic template_guide.html")
 
+def ensure_images_symlink():
+    """Ensure project root has a relative symlink images -> dist/images."""
+    symlink_path = os.path.join(REPO_ROOT, "images")
+    target = os.path.join("dist", "images")
+    
+    if os.path.islink(symlink_path):
+        current_target = os.readlink(symlink_path)
+        if current_target != target and os.path.realpath(symlink_path) != os.path.realpath(os.path.join(REPO_ROOT, target)):
+            os.unlink(symlink_path)
+            os.symlink(target, symlink_path)
+            print(f"[SYMLINK] Replaced stale symlink: {symlink_path} -> {target}")
+        else:
+            print(f"[SYMLINK] Symlink verified: {symlink_path} -> {current_target}")
+    elif os.path.exists(symlink_path):
+        print(f"[SYMLINK WARNING] {symlink_path} exists and is not a symlink!")
+    else:
+        os.symlink(target, symlink_path)
+        print(f"[SYMLINK] Created symlink: {symlink_path} -> {target}")
+
 def build_html():
     print("=== BUILDING FOLDING BIKE GUIDE SPWA (110 SERIES - MODULAR) ===")
     data, json_data_str, shops_json_str = load_data()
@@ -75,15 +101,26 @@ def build_html():
     for placeholder, val in camp_counts.items():
         html = html.replace(placeholder, val)
         
-    output_dir = "dist"
+    output_dir = os.path.join(REPO_ROOT, "dist")
     os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(output_dir, "folding_bike_series_guide_tw.html")
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(html)
+    
+    # Ensure root symlink images -> dist/images
+    ensure_images_symlink()
+    
+    # Generate all three target locations
+    targets = [
+        os.path.join(output_dir, "folding_bike_series_guide_tw.html"),
+        os.path.join(output_dir, "index.html"),
+        os.path.join(REPO_ROOT, "index.html"),
+    ]
+    
+    for target_path in targets:
+        with open(target_path, "w", encoding="utf-8") as f:
+            f.write(html)
+        file_size_kb = os.path.getsize(target_path) / 1024
+        print(f"SUCCESS: Generated {os.path.relpath(target_path, REPO_ROOT)} ({file_size_kb:.2f} KB)")
         
-    file_size_kb = os.path.getsize(output_path) / 1024
-    print(f"SUCCESS: Generated {output_path} ({file_size_kb:.2f} KB)")
-    return output_path
+    return targets[0]
 
 if __name__ == "__main__":
     build_html()

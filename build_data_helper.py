@@ -13,6 +13,11 @@ Includes:
 - Two-Stage Batch & Lazy Drawer Hydration
 """
 import os
+import sys
+
+# Prevent bytecode caching (__pycache__)
+sys.dont_write_bytecode = True
+
 import json
 
 def generate_photo_html(series):
