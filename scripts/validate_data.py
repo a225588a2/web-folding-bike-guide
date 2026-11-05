@@ -60,6 +60,7 @@ def validate():
 
     tier1_violations = []
     tier2_violations = []
+    tier3_violations = []
 
     EBIKE_IDS = {"S27", "S55", "S63", "S84", "S86", "S100", "S107", "S108"}
 
@@ -140,9 +141,9 @@ def validate():
         # -------------------------------------------------------------
         # TIER 2: Business Semantic, Schema v2.0 & Logistics Channels
         # -------------------------------------------------------------
-        # 1. 5-Axis base scores in series item
+        # 1. 9-Key Dual-Track Schema Validation (ADR 20261105)
         scores = s.get("scores", {})
-        score_keys = ["sport", "commute", "portability", "rigidity", "moddability"]
+        score_keys = ["weight", "volume", "rigidity", "moddability", "resale", "cp", "portability", "commute", "sport"]
         for sk in score_keys:
             val = scores.get(sk)
             if val is None or not (1.0 <= val <= 10.0):
@@ -169,6 +170,24 @@ def validate():
         if not isinstance(aliases, list) or len(aliases) == 0:
             tier2_violations.append(f"{sid}: Aliases list is empty or missing")
 
+        # -------------------------------------------------------------
+        # TIER 3: Objective Rubric Derivation & Override Governance (ADR 20261105)
+        # -------------------------------------------------------------
+        w = weight if weight is not None else 11.5
+        expected_w = 10.0 if w <= 7.5 else (10.0 - ((w - 7.5) / 2.0) * 1.5 if w <= 9.5 else (8.5 - ((w - 9.5) / 2.5) * 2.0 if w <= 12.0 else (6.5 - ((w - 12.0) / 3.0) * 2.5 if w <= 15.0 else (4.0 - ((w - 15.0) / 5.0) * 2.5 if w <= 20.0 else max(1.0, 1.5 - ((w - 20.0) / 15.0) * 0.5)))))
+        expected_w = max(1.0, min(10.0, expected_w))
+
+        v = vol if vol is not None else 150.0
+        expected_v = 1.0 if (cat == "nonfold" or sid == "S80") else (10.0 if v <= 60.0 else (10.0 - ((v - 60.0) / 30.0) * 1.0 if v <= 90.0 else (9.0 - ((v - 90.0) / 50.0) * 2.0 if v <= 140.0 else (7.0 - ((v - 140.0) / 60.0) * 2.5 if v <= 200.0 else (4.5 - ((v - 200.0) / 100.0) * 2.5 if v <= 300.0 else max(1.0, 2.0 - ((v - 300.0) / 350.0) * 1.0))))))
+        expected_v = max(1.0, min(10.0, expected_v))
+
+        # Check deviations with override governance
+        for metric, actual, expected in [("weight", scores.get("weight"), expected_w), ("volume", scores.get("volume"), expected_v)]:
+            if actual is not None and abs(actual - expected) > 0.35:
+                reason = s.get("overrideReason")
+                if not reason or len(reason.strip()) < 10:
+                    tier3_violations.append(f"{sid}: {metric} score {actual} deviates from rubric {expected:.1f} without valid overrideReason (min 10 chars)")
+
     # Final verdict
     print("\n---------------- AUDIT RESULTS ----------------")
     print(f"Tier 1 (Physics & Math) Violations: {len(tier1_violations)}")
@@ -183,11 +202,17 @@ def validate():
     if len(tier2_violations) > 10:
         print(f"  ... and {len(tier2_violations) - 10} more.")
 
-    if tier1_violations or tier2_violations:
+    print(f"Tier 3 (Objective Rubric & Governance) Violations: {len(tier3_violations)}")
+    for v in tier3_violations[:10]:
+        print(f"  [T3-VIOLATION] {v}")
+    if len(tier3_violations) > 10:
+        print(f"  ... and {len(tier3_violations) - 10} more.")
+
+    if tier1_violations or tier2_violations or tier3_violations:
         print("\n[VERDICT: FAILED] Exit code 1.")
         sys.exit(1)
 
-    print("\n[VERDICT: 100% PASS] All 110 series strictly adhere to physics bounds and Schema v2.0 contracts!")
+    print("\n[VERDICT: 100% PASS] All 110 series strictly adhere to physics bounds, Schema v2.0 contracts, and Tier 3 Objective Rubric!")
     sys.exit(0)
 
 if __name__ == "__main__":

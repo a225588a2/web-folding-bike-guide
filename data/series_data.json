@@ -46,11 +46,15 @@
       "brakes": "專用長腿雙軸C夾"
     },
     "scores": {
-      "sport": 6.2,
-      "commute": 9.8,
-      "portability": 9.8,
+      "weight": 6.7,
+      "volume": 9.0,
       "rigidity": 7.5,
-      "moddability": 8.5
+      "moddability": 3.0,
+      "resale": 9.0,
+      "cp": 5.0,
+      "portability": 8.0,
+      "commute": 6.9,
+      "sport": 5.9
     },
     "keyFeatures": [
       "都會折疊車唯一信仰代名詞，89.2L 超方正收折幾何",
@@ -163,11 +167,15 @@
       "brakes": "超輕量雙軸C夾"
     },
     "scores": {
-      "sport": 7.5,
-      "commute": 9.8,
-      "portability": 10.0,
-      "rigidity": 8.5,
-      "moddability": 7.5
+      "weight": 9.0,
+      "volume": 9.0,
+      "rigidity": 7.5,
+      "moddability": 3.0,
+      "resale": 9.0,
+      "cp": 3.8,
+      "portability": 9.0,
+      "commute": 7.5,
+      "sport": 6.5
     },
     "keyFeatures": [
       "T Line 全鈦車架僅 7.45kg，刷新金屬三折世界紀錄",
@@ -281,11 +289,15 @@
       "brakes": "前後機械/油壓碟煞 (160mm)"
     },
     "scores": {
-      "sport": 9.0,
-      "commute": 8.0,
-      "portability": 7.5,
-      "rigidity": 9.5,
-      "moddability": 9.5
+      "weight": 7.6,
+      "volume": 5.8,
+      "rigidity": 9.0,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.9,
+      "portability": 6.6,
+      "commute": 7.1,
+      "sport": 8.0
     },
     "keyFeatures": [
       "車架主樑一體成型 Monocoque 無折疊鉸鏈，剛性媲美公路車",
@@ -397,11 +409,15 @@
       "brakes": "平裝式 / 國際六孔油壓碟煞"
     },
     "scores": {
-      "sport": 9.6,
-      "commute": 5.5,
-      "portability": 6.5,
+      "weight": 8.0,
+      "volume": 5.9,
       "rigidity": 9.5,
-      "moddability": 9.0
+      "moddability": 9.0,
+      "resale": 9.0,
+      "cp": 5.2,
+      "portability": 6.8,
+      "commute": 7.8,
+      "sport": 9.0
     },
     "keyFeatures": [
       "純血公路車幾何軸距 (1060mm)，巡航穩定度匹敵 700C 大車",
@@ -505,11 +521,15 @@
       "brakes": "前側拉夾器 + 後鼓煞/抱煞"
     },
     "scores": {
-      "sport": 2.5,
-      "commute": 10.0,
-      "portability": 10.0,
-      "rigidity": 5.5,
-      "moddability": 4.0
+      "weight": 9.3,
+      "volume": 9.6,
+      "rigidity": 4.0,
+      "moddability": 3.0,
+      "resale": 9.0,
+      "cp": 6.4,
+      "portability": 9.5,
+      "commute": 7.1,
+      "sport": 5.0
     },
     "keyFeatures": [
       "收折後底座投影僅 32×25cm，高鐵座位前方可完全塞入",
@@ -616,11 +636,15 @@
       "brakes": "專用單臂機械碟煞"
     },
     "scores": {
-      "sport": 7.0,
-      "commute": 8.5,
-      "portability": 8.0,
-      "rigidity": 8.0,
-      "moddability": 4.5
+      "weight": 6.8,
+      "volume": 7.4,
+      "rigidity": 5.5,
+      "moddability": 4.0,
+      "resale": 9.0,
+      "cp": 4.8,
+      "portability": 7.1,
+      "commute": 6.2,
+      "sport": 5.4
     },
     "keyFeatures": [
       "紅點設計大獎金獎，全世界折疊速度最快 (3秒) 的 20 吋折車",
@@ -718,11 +742,15 @@
       "brakes": "前後 Shimano 雙軸 V 煞夾器"
     },
     "scores": {
-      "sport": 8.0,
-      "commute": 8.5,
-      "portability": 8.0,
-      "rigidity": 8.8,
-      "moddability": 8.0
+      "weight": 7.2,
+      "volume": 6.0,
+      "rigidity": 8.0,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 5.5,
+      "portability": 6.5,
+      "commute": 6.9,
+      "sport": 7.5
     },
     "keyFeatures": [
       "日本香川縣 Tyrell 匠人精神，焊道公差與漆面細節堪稱藝術品",
@@ -822,11 +850,15 @@
       "brakes": "公路車長腿/短腿 C 夾"
     },
     "scores": {
-      "sport": 9.8,
-      "commute": 5.0,
-      "portability": 6.0,
-      "rigidity": 9.8,
-      "moddability": 9.5
+      "weight": 8.9,
+      "volume": 3.5,
+      "rigidity": 9.5,
+      "moddability": 9.0,
+      "resale": 9.0,
+      "cp": 4.6,
+      "portability": 5.9,
+      "commute": 7.2,
+      "sport": 9.2
     },
     "keyFeatures": [
       "品牌靈魂 Slant Design 雙斜交錯幾何，剛性幾何直追鑽石公路車架",
@@ -932,11 +964,15 @@
       "brakes": "短腿 V 煞 / 碟煞版本可選"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 8.0,
-      "portability": 9.0,
-      "rigidity": 8.8,
-      "moddability": 8.5
+      "weight": 8.3,
+      "volume": 8.5,
+      "rigidity": 8.5,
+      "moddability": 8.0,
+      "resale": 9.0,
+      "cp": 5.7,
+      "portability": 8.4,
+      "commute": 8.3,
+      "sport": 8.3
     },
     "keyFeatures": [
       "日本大阪精工研發，擁有 1060mm 超長軸距卻能收折進行李箱",
@@ -1041,11 +1077,15 @@
       "brakes": "公路車直裝C夾 / 平裝式油壓碟煞"
     },
     "scores": {
-      "sport": 10.0,
-      "commute": 4.5,
-      "portability": 7.0,
-      "rigidity": 9.6,
-      "moddability": 9.0
+      "weight": 10.0,
+      "volume": 4.0,
+      "rigidity": 9.5,
+      "moddability": 9.0,
+      "resale": 9.0,
+      "cp": 4.7,
+      "portability": 6.7,
+      "commute": 7.6,
+      "sport": 9.5
     },
     "keyFeatures": [
       "世界上最輕量的量產折疊公路車之一，成車僅 6.7kg ~ 7.5kg",
@@ -1149,11 +1189,15 @@
       "brakes": "專用機械碟煞 (140mm 碟盤)"
     },
     "scores": {
-      "sport": 3.0,
-      "commute": 9.5,
-      "portability": 8.5,
-      "rigidity": 6.0,
-      "moddability": 3.0
+      "weight": 7.4,
+      "volume": 7.3,
+      "rigidity": 4.0,
+      "moddability": 2.0,
+      "resale": 7.0,
+      "cp": 6.2,
+      "portability": 7.3,
+      "commute": 5.6,
+      "sport": 4.2
     },
     "keyFeatures": [
       "英國工程師 Mark Sanders 經典三角專利，永祺車業台灣製造",
@@ -1253,11 +1297,15 @@
       "brakes": "專用機械碟煞"
     },
     "scores": {
-      "sport": 4.5,
-      "commute": 9.0,
-      "portability": 8.0,
-      "rigidity": 6.5,
-      "moddability": 3.0
+      "weight": 6.0,
+      "volume": 6.7,
+      "rigidity": 4.0,
+      "moddability": 2.0,
+      "resale": 7.0,
+      "cp": 5.2,
+      "portability": 6.4,
+      "commute": 5.0,
+      "sport": 3.9
     },
     "keyFeatures": [
       "無任何外露變速線，只需腳踏板後踢即可在 3 個檔位間切換",
@@ -1357,11 +1405,15 @@
       "brakes": "前後平裝式 140mm 油壓/機械碟煞"
     },
     "scores": {
-      "sport": 7.8,
-      "commute": 9.8,
-      "portability": 9.8,
-      "rigidity": 8.5,
-      "moddability": 5.0
+      "weight": 9.9,
+      "volume": 8.8,
+      "rigidity": 7.0,
+      "moddability": 3.0,
+      "resale": 7.0,
+      "cp": 4.9,
+      "portability": 9.3,
+      "commute": 7.6,
+      "sport": 6.5
     },
     "keyFeatures": [
       "大行 EEZZ / JIFO 原創專利工程師獨立創立，獲 2025 台北展 d&i 金獎",
@@ -1474,11 +1526,15 @@
       "brakes": "前後 V 煞 / 線拉油壓碟煞"
     },
     "scores": {
-      "sport": 9.0,
-      "commute": 6.5,
-      "portability": 6.8,
-      "rigidity": 9.6,
-      "moddability": 10.0
+      "weight": 7.1,
+      "volume": 4.8,
+      "rigidity": 9.5,
+      "moddability": 9.6,
+      "resale": 7.0,
+      "cp": 4.8,
+      "portability": 5.8,
+      "commute": 7.3,
+      "sport": 8.9
     },
     "keyFeatures": [
       "美國俄勒岡尤金手工銲接，世界環球壯遊騎士第一首選神車",
@@ -1582,11 +1638,15 @@
       "brakes": "公路車標準 C 夾 / 碟煞可選"
     },
     "scores": {
-      "sport": 9.9,
-      "commute": 4.5,
-      "portability": 6.5,
+      "weight": 8.9,
+      "volume": 5.6,
       "rigidity": 9.5,
-      "moddability": 9.5
+      "moddability": 9.6,
+      "resale": 7.0,
+      "cp": 4.8,
+      "portability": 7.1,
+      "commute": 8.0,
+      "sport": 9.4
     },
     "keyFeatures": [
       "100% 複製專業競賽級公路車幾何與坐姿設定，速度感極致狂暴",
@@ -1684,11 +1744,15 @@
       "brakes": "短腿公路雙軸夾器"
     },
     "scores": {
-      "sport": 7.5,
-      "commute": 9.2,
-      "portability": 9.5,
-      "rigidity": 8.2,
-      "moddability": 7.5
+      "weight": 9.8,
+      "volume": 9.4,
+      "rigidity": 8.0,
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 5.3,
+      "portability": 9.6,
+      "commute": 8.9,
+      "sport": 8.5
     },
     "keyFeatures": [
       "能裝進專屬後背包的小折，外觀完全看不出是一台自行車",
@@ -1791,11 +1855,15 @@
       "brakes": "機械/油壓平裝/六孔碟煞"
     },
     "scores": {
-      "sport": 9.2,
-      "commute": 5.5,
-      "portability": 6.2,
+      "weight": 7.0,
+      "volume": 4.2,
       "rigidity": 9.5,
-      "moddability": 10.0
+      "moddability": 9.6,
+      "resale": 7.0,
+      "cp": 4.6,
+      "portability": 5.5,
+      "commute": 7.0,
+      "sport": 8.9
     },
     "keyFeatures": [
       "世界首款專為 Bikepacking 重裝礫石越野設計的 20 吋折疊鋼管車",
@@ -1893,11 +1961,15 @@
       "brakes": "前後鋁合金線性 V 煞"
     },
     "scores": {
-      "sport": 6.5,
-      "commute": 8.8,
-      "portability": 7.2,
-      "rigidity": 7.5,
-      "moddability": 8.5
+      "weight": 6.5,
+      "volume": 6.0,
+      "rigidity": 7.0,
+      "moddability": 8.4,
+      "resale": 8.0,
+      "cp": 7.4,
+      "portability": 6.2,
+      "commute": 6.8,
+      "sport": 7.3
     },
     "keyFeatures": [
       "《紐約時報》Wirecutter 連年評選全球最佳折疊自行車",
@@ -2003,11 +2075,15 @@
       "brakes": "前後 V 煞 (可改裝轉接碟煞)"
     },
     "scores": {
-      "sport": 7.5,
-      "commute": 8.5,
-      "portability": 7.2,
-      "rigidity": 8.2,
-      "moddability": 9.8
+      "weight": 6.2,
+      "volume": 6.0,
+      "rigidity": 7.0,
+      "moddability": 9.0,
+      "resale": 8.0,
+      "cp": 7.1,
+      "portability": 6.1,
+      "commute": 6.8,
+      "sport": 7.4
     },
     "keyFeatures": [
       "台灣小折改裝史上永恆的傳奇神車「Speed P8」，粉絲數萬人",
@@ -2113,11 +2189,15 @@
       "brakes": "前後 V 煞 (K3) / 前後機械碟煞 (K3 Plus/K9X)"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 9.5,
-      "portability": 9.2,
-      "rigidity": 7.8,
-      "moddability": 8.5
+      "weight": 9.1,
+      "volume": 8.1,
+      "rigidity": 5.5,
+      "moddability": 7.6,
+      "resale": 8.0,
+      "cp": 7.2,
+      "portability": 8.6,
+      "commute": 7.7,
+      "sport": 7.0
     },
     "keyFeatures": [
       "全車僅 7.9kg (K3)，都會捷運族與女性車主最暢銷微型小折",
@@ -2222,11 +2302,15 @@
       "brakes": "前後機械碟煞 (160mm)"
     },
     "scores": {
-      "sport": 8.0,
-      "commute": 8.0,
-      "portability": 7.0,
-      "rigidity": 9.0,
-      "moddability": 8.2
+      "weight": 6.2,
+      "volume": 5.5,
+      "rigidity": 7.0,
+      "moddability": 8.4,
+      "resale": 8.0,
+      "cp": 6.5,
+      "portability": 5.8,
+      "commute": 6.6,
+      "sport": 7.2
     },
     "keyFeatures": [
       "革命性 Jaws 隱形牙嵌咬合鉸鏈，外觀完全看不到傳統突兀快拆板手",
@@ -2319,11 +2403,15 @@
       "brakes": "前後加長公路 C 夾"
     },
     "scores": {
-      "sport": 6.5,
-      "commute": 9.2,
-      "portability": 9.5,
-      "rigidity": 7.8,
-      "moddability": 6.0
+      "weight": 5.8,
+      "volume": 9.2,
+      "rigidity": 7.0,
+      "moddability": 5.0,
+      "resale": 8.0,
+      "cp": 6.1,
+      "portability": 7.7,
+      "commute": 7.1,
+      "sport": 6.1
     },
     "keyFeatures": [
       "大行耗費十年心血專利對標小布的「S型捲曲三折」旗艦",
@@ -2430,11 +2518,15 @@
       "brakes": "前後 V 煞 / 機械碟煞"
     },
     "scores": {
-      "sport": 7.5,
-      "commute": 6.0,
-      "portability": 4.0,
-      "rigidity": 8.5,
-      "moddability": 8.5
+      "weight": 4.8,
+      "volume": 1.7,
+      "rigidity": 7.5,
+      "moddability": 9.6,
+      "resale": 8.0,
+      "cp": 6.6,
+      "portability": 3.1,
+      "commute": 5.2,
+      "sport": 7.5
     },
     "keyFeatures": [
       "全尺寸 26 吋登山輪徑，無懼任何路面坑洞，巡航極度平穩",
@@ -2534,11 +2626,15 @@
       "brakes": "Shimano 油壓碟煞 (160mm)"
     },
     "scores": {
-      "sport": 9.5,
-      "commute": 7.5,
-      "portability": 6.8,
-      "rigidity": 9.6,
-      "moddability": 8.8
+      "weight": 7.1,
+      "volume": 3.9,
+      "rigidity": 7.5,
+      "moddability": 9.0,
+      "resale": 9.0,
+      "cp": 5.7,
+      "portability": 5.3,
+      "commute": 6.4,
+      "sport": 7.8
     },
     "keyFeatures": [
       "燕騎 (Tern) 旗艦純血運動平台，451 大輪徑高速公路巡航猛獸",
@@ -2645,11 +2741,15 @@
       "brakes": "前後 V 煞 / 機械碟煞"
     },
     "scores": {
-      "sport": 6.5,
-      "commute": 9.0,
-      "portability": 7.0,
-      "rigidity": 8.2,
-      "moddability": 8.2
+      "weight": 6.2,
+      "volume": 4.1,
+      "rigidity": 7.0,
+      "moddability": 8.4,
+      "resale": 9.0,
+      "cp": 6.8,
+      "portability": 5.0,
+      "commute": 6.1,
+      "sport": 7.2
     },
     "keyFeatures": [
       "都會生活的萬能瑞士刀，專為日常接駁、市集買菜與週末野餐打造",
@@ -2755,11 +2855,15 @@
       "brakes": "前後加長公路 V 煞"
     },
     "scores": {
-      "sport": 7.8,
-      "commute": 9.2,
-      "portability": 8.5,
-      "rigidity": 9.0,
-      "moddability": 7.0
+      "weight": 5.5,
+      "volume": 6.7,
+      "rigidity": 8.5,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 5.6,
+      "portability": 6.2,
+      "commute": 6.8,
+      "sport": 7.3
     },
     "keyFeatures": [
       "「Bring Your Bike」理念，兼具 20 吋大車騎乘路感與行李箱般收折體積",
@@ -2860,11 +2964,15 @@
       "brakes": "Magura MT4 油壓碟煞 (180/160mm)"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 9.5,
-      "portability": 5.0,
-      "rigidity": 9.5,
-      "moddability": 6.0
+      "weight": 1.4,
+      "volume": 3.5,
+      "rigidity": 7.5,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 3.4,
+      "portability": 2.6,
+      "commute": 4.5,
+      "sport": 5.8
     },
     "keyFeatures": [
       "德國 Bosch 中置電機心臟，扭力輸出線性如絲，起步爬坡毫不費力",
@@ -2956,11 +3064,15 @@
       "brakes": "前後機械/油壓雙碟煞"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.5,
-      "portability": 7.0,
-      "rigidity": 8.2,
-      "moddability": 8.8
+      "weight": 7.3,
+      "volume": 4.7,
+      "rigidity": 7.0,
+      "moddability": 9.0,
+      "resale": 7.0,
+      "cp": 7.2,
+      "portability": 5.9,
+      "commute": 6.7,
+      "sport": 7.7
     },
     "keyFeatures": [
       "粗壯破風菱形鋁合金下管，外觀肌肉線條飽滿、運動跑格強烈",
@@ -3059,11 +3171,15 @@
       "brakes": "平裝式油壓碟煞"
     },
     "scores": {
-      "sport": 8.2,
-      "commute": 8.0,
-      "portability": 7.2,
-      "rigidity": 8.5,
-      "moddability": 8.2
+      "weight": 7.4,
+      "volume": 5.0,
+      "rigidity": 7.0,
+      "moddability": 8.4,
+      "resale": 7.0,
+      "cp": 7.0,
+      "portability": 6.1,
+      "commute": 6.7,
+      "sport": 7.5
     },
     "keyFeatures": [
       "跳脫傳統折疊車中間粗糙斷口鉸鏈，專利弧形一體流線車身",
@@ -3164,11 +3280,15 @@
       "brakes": "前後機械/油壓碟煞 (160mm)"
     },
     "scores": {
-      "sport": 8.8,
-      "commute": 5.5,
-      "portability": 5.0,
-      "rigidity": 9.8,
-      "moddability": 9.5
+      "weight": 4.9,
+      "volume": 4.8,
+      "rigidity": 8.8,
+      "moddability": 10.0,
+      "resale": 7.0,
+      "cp": 6.1,
+      "portability": 4.8,
+      "commute": 6.7,
+      "sport": 8.2
     },
     "keyFeatures": [
       "美軍五角大廈 DARPA 專案研發，正統空降傘兵專用折疊越野車",
@@ -3275,11 +3395,15 @@
       "brakes": "公路車 C 夾 / 機械/油壓碟煞"
     },
     "scores": {
-      "sport": 9.2,
-      "commute": 6.5,
-      "portability": 5.2,
-      "rigidity": 9.6,
-      "moddability": 9.5
+      "weight": 6.6,
+      "volume": 4.8,
+      "rigidity": 8.8,
+      "moddability": 10.0,
+      "resale": 7.0,
+      "cp": 6.3,
+      "portability": 5.6,
+      "commute": 7.1,
+      "sport": 8.6
     },
     "keyFeatures": [
       "標準 700C 大輪徑公路跑車幾何，高速巡航滾動阻力極小",
@@ -3386,11 +3510,15 @@
       "brakes": "Shimano 油壓雙碟煞"
     },
     "scores": {
-      "sport": 9.0,
-      "commute": 5.8,
-      "portability": 6.5,
-      "rigidity": 9.8,
-      "moddability": 9.5
+      "weight": 5.5,
+      "volume": 6.1,
+      "rigidity": 8.8,
+      "moddability": 10.0,
+      "resale": 7.0,
+      "cp": 6.1,
+      "portability": 5.8,
+      "commute": 7.3,
+      "sport": 8.3
     },
     "keyFeatures": [
       "台灣大甲製造之光！通過歐盟 ISO 4210 嚴苛登山車防撞安全認證",
@@ -3489,11 +3617,15 @@
       "brakes": "公路車平裝式碟煞 / 標準 C 夾"
     },
     "scores": {
-      "sport": 9.5,
-      "commute": 6.0,
-      "portability": 6.5,
-      "rigidity": 9.7,
-      "moddability": 9.5
+      "weight": 7.7,
+      "volume": 6.1,
+      "rigidity": 8.8,
+      "moddability": 10.0,
+      "resale": 7.0,
+      "cp": 6.3,
+      "portability": 6.8,
+      "commute": 7.8,
+      "sport": 8.9
     },
     "keyFeatures": [
       "台灣原創專利，全球少數能真正挑戰「一日雙塔」的全尺寸折疊公路車",
@@ -3592,11 +3724,15 @@
       "brakes": "Shimano 油壓雙碟煞"
     },
     "scores": {
-      "sport": 9.4,
-      "commute": 6.5,
-      "portability": 5.0,
-      "rigidity": 9.2,
-      "moddability": 8.5
+      "weight": 6.3,
+      "volume": 2.3,
+      "rigidity": 7.5,
+      "moddability": 9.0,
+      "resale": 9.0,
+      "cp": 4.9,
+      "portability": 4.1,
+      "commute": 5.7,
+      "sport": 7.7
     },
     "keyFeatures": [
       "26 吋大輪徑星芒編法輪組，高速下坡時速輕鬆破 50km/h",
@@ -3695,11 +3831,15 @@
       "brakes": "前後 V 煞 / 機械碟煞"
     },
     "scores": {
-      "sport": 7.2,
-      "commute": 8.2,
-      "portability": 5.8,
-      "rigidity": 8.5,
-      "moddability": 8.0
+      "weight": 5.2,
+      "volume": 2.5,
+      "rigidity": 7.5,
+      "moddability": 9.0,
+      "resale": 9.0,
+      "cp": 6.3,
+      "portability": 3.7,
+      "commute": 5.5,
+      "sport": 7.4
     },
     "keyFeatures": [
       "24 吋折疊車甜蜜點尺寸：坑洞吸收能力遠優於 20 吋，折疊又比 26 吋小",
@@ -3790,11 +3930,15 @@
       "brakes": "短腿公路夾器 / 碟煞版本"
     },
     "scores": {
-      "sport": 9.0,
-      "commute": 7.5,
-      "portability": 6.8,
-      "rigidity": 8.9,
-      "moddability": 9.5
+      "weight": 7.1,
+      "volume": 4.6,
+      "rigidity": 7.5,
+      "moddability": 9.6,
+      "resale": 8.0,
+      "cp": 6.5,
+      "portability": 5.7,
+      "commute": 6.8,
+      "sport": 8.0
     },
     "keyFeatures": [
       "功學社 (KHS) 獨步全球的「Softail 軟尾巴」橡膠後阻尼吸震系統",
@@ -3902,11 +4046,15 @@
       "brakes": "前後鋁合金 V 煞"
     },
     "scores": {
-      "sport": 5.5,
-      "commute": 9.0,
-      "portability": 7.8,
-      "rigidity": 7.5,
-      "moddability": 7.8
+      "weight": 6.9,
+      "volume": 6.2,
+      "rigidity": 6.0,
+      "moddability": 9.0,
+      "resale": 8.0,
+      "cp": 7.7,
+      "portability": 6.5,
+      "commute": 6.9,
+      "sport": 7.1
     },
     "keyFeatures": [
       "功學社入門國民通勤代表，親民萬元以內即可入手大廠品質",
@@ -4004,11 +4152,15 @@
       "brakes": "前後鋁合金線性 V 煞"
     },
     "scores": {
-      "sport": 7.2,
-      "commute": 8.5,
-      "portability": 7.2,
-      "rigidity": 8.0,
-      "moddability": 8.8
+      "weight": 6.8,
+      "volume": 5.1,
+      "rigidity": 7.0,
+      "moddability": 10.0,
+      "resale": 8.0,
+      "cp": 7.7,
+      "portability": 5.9,
+      "commute": 6.9,
+      "sport": 7.8
     },
     "keyFeatures": [
       "捷安特 ALUXX 輕量化鋁合金科技，管件抽管厚薄均勻，焊道強韌",
@@ -4110,11 +4262,15 @@
       "brakes": "前後機械碟煞 / V 煞"
     },
     "scores": {
-      "sport": 5.5,
-      "commute": 9.0,
-      "portability": 7.0,
-      "rigidity": 7.6,
-      "moddability": 7.5
+      "weight": 6.2,
+      "volume": 4.7,
+      "rigidity": 7.0,
+      "moddability": 9.6,
+      "resale": 8.0,
+      "cp": 7.9,
+      "portability": 5.4,
+      "commute": 6.5,
+      "sport": 7.6
     },
     "keyFeatures": [
       "捷安特旗下都會休閒副牌 Momentum，專為都市輕生活打造",
@@ -4213,11 +4369,15 @@
       "brakes": "前後鋼質線性 V 煞"
     },
     "scores": {
-      "sport": 5.0,
-      "commute": 9.5,
-      "portability": 7.0,
-      "rigidity": 7.2,
-      "moddability": 8.0
+      "weight": 6.1,
+      "volume": 4.8,
+      "rigidity": 7.0,
+      "moddability": 10.0,
+      "resale": 7.0,
+      "cp": 8.3,
+      "portability": 5.4,
+      "commute": 6.6,
+      "sport": 7.7
     },
     "keyFeatures": [
       "2008 台灣單車狂潮歷史銷量總冠軍，全台灣保有量超過數十萬輛",
@@ -4317,11 +4477,15 @@
       "brakes": "短腿公路雙軸夾器"
     },
     "scores": {
-      "sport": 9.5,
-      "commute": 6.0,
-      "portability": 7.5,
-      "rigidity": 9.2,
-      "moddability": 8.5
+      "weight": 8.0,
+      "volume": 6.4,
+      "rigidity": 9.5,
+      "moddability": 6.4,
+      "resale": 8.0,
+      "cp": 6.9,
+      "portability": 7.1,
+      "commute": 7.4,
+      "sport": 8.2
     },
     "keyFeatures": [
       "捷安特已停產的絕版神車！被譽為小徑車界的法拉利經典之作",
@@ -4421,11 +4585,15 @@
       "brakes": "前後 V 煞 / 機械碟煞"
     },
     "scores": {
-      "sport": 5.2,
-      "commute": 9.5,
-      "portability": 7.0,
-      "rigidity": 7.4,
-      "moddability": 8.0
+      "weight": 6.0,
+      "volume": 5.0,
+      "rigidity": 7.0,
+      "moddability": 10.0,
+      "resale": 8.0,
+      "cp": 8.2,
+      "portability": 5.5,
+      "commute": 6.7,
+      "sport": 7.7
     },
     "keyFeatures": [
       "台灣兩大本土巨頭之一美利達 (Merida) 之國民長青代表系列",
@@ -4534,11 +4702,15 @@
       "brakes": "前後鋁合金 V 煞 / 碟煞"
     },
     "scores": {
-      "sport": 7.8,
-      "commute": 8.2,
-      "portability": 7.0,
-      "rigidity": 8.5,
-      "moddability": 8.8
+      "weight": 6.6,
+      "volume": 4.9,
+      "rigidity": 7.0,
+      "moddability": 9.6,
+      "resale": 7.0,
+      "cp": 7.2,
+      "portability": 5.7,
+      "commute": 6.7,
+      "sport": 7.7
     },
     "keyFeatures": [
       "歐亞馬 (Oyama) 專利 360 度環抱扣具，徹底消除鉸鏈微幅搖晃虛位",
@@ -4638,11 +4810,15 @@
       "brakes": "前後公路 C 夾 / V 煞"
     },
     "scores": {
-      "sport": 8.2,
-      "commute": 8.0,
-      "portability": 7.0,
-      "rigidity": 8.6,
-      "moddability": 8.8
+      "weight": 6.9,
+      "volume": 4.6,
+      "rigidity": 7.0,
+      "moddability": 9.6,
+      "resale": 7.0,
+      "cp": 7.0,
+      "portability": 5.6,
+      "commute": 6.7,
+      "sport": 7.8
     },
     "keyFeatures": [
       "歐亞馬最負盛名的「海豚背 (Dolphin)」一體液壓抽管弧形車架",
@@ -4740,11 +4916,15 @@
       "brakes": "前後 V 煞 / 線拉油壓碟煞"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 9.0,
-      "portability": 8.6,
-      "rigidity": 8.5,
-      "moddability": 10.0
+      "weight": 8.7,
+      "volume": 6.9,
+      "rigidity": 7.0,
+      "moddability": 9.0,
+      "resale": 7.0,
+      "cp": 7.3,
+      "portability": 7.7,
+      "commute": 7.8,
+      "sport": 8.0
     },
     "keyFeatures": [
       "台灣改裝工作室與社群無人不知的第一鋼架神車「風行 Gust 349」",
@@ -4845,11 +5025,15 @@
       "brakes": "前後 V 煞 / 碟煞版本齊全"
     },
     "scores": {
-      "sport": 9.2,
-      "commute": 7.5,
-      "portability": 7.0,
-      "rigidity": 9.0,
-      "moddability": 10.0
+      "weight": 8.5,
+      "volume": 5.2,
+      "rigidity": 7.0,
+      "moddability": 9.0,
+      "resale": 7.0,
+      "cp": 7.2,
+      "portability": 6.7,
+      "commute": 7.1,
+      "sport": 8.0
     },
     "keyFeatures": [
       "刀鋒水滴造型破風下管，空氣力學視覺張力極具戰鬥氣息",
@@ -4953,11 +5137,15 @@
       "brakes": "前後輕量化 V 煞"
     },
     "scores": {
-      "sport": 4.5,
-      "commute": 9.8,
-      "portability": 9.8,
-      "rigidity": 7.0,
-      "moddability": 9.0
+      "weight": 10.0,
+      "volume": 8.7,
+      "rigidity": 5.5,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 7.6,
+      "portability": 9.3,
+      "commute": 8.0,
+      "sport": 7.1
     },
     "keyFeatures": [
       "極致偷輕自組黨的夢幻畫布！全車成車隨手就能做進 6.5kg",
@@ -5057,11 +5245,15 @@
       "brakes": "超輕 CNC V 煞 / 線拉油壓碟煞"
     },
     "scores": {
-      "sport": 9.0,
-      "commute": 8.0,
-      "portability": 7.2,
-      "rigidity": 9.2,
-      "moddability": 9.5
+      "weight": 8.8,
+      "volume": 5.7,
+      "rigidity": 7.0,
+      "moddability": 9.0,
+      "resale": 7.0,
+      "cp": 6.9,
+      "portability": 7.1,
+      "commute": 7.4,
+      "sport": 8.0
     },
     "keyFeatures": [
       "克魯斯 (Crius) 旗艦車架，鍛造鉸鏈由高精度 CNC 銑削加工而成",
@@ -5161,11 +5353,15 @@
       "brakes": "前後超輕 V 煞"
     },
     "scores": {
-      "sport": 7.2,
-      "commute": 9.5,
-      "portability": 9.2,
-      "rigidity": 8.0,
-      "moddability": 9.0
+      "weight": 9.8,
+      "volume": 8.0,
+      "rigidity": 5.5,
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 7.2,
+      "portability": 8.8,
+      "commute": 7.9,
+      "sport": 7.3
     },
     "keyFeatures": [
       "Smart 349 成功將 16 吋 349 輪徑融入微型折疊架構，速度感大幅超越 14 吋",
@@ -5265,11 +5461,15 @@
       "brakes": "前後加長公路 C 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 9.2,
-      "portability": 9.5,
-      "rigidity": 7.8,
-      "moddability": 9.0
+      "weight": 8.3,
+      "volume": 8.8,
+      "rigidity": 7.5,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 7.1,
+      "portability": 8.6,
+      "commute": 8.1,
+      "sport": 7.6
     },
     "keyFeatures": [
       "解決正版 Brompton 重量偏重與特規內變不易維護的痛點",
@@ -5368,11 +5568,15 @@
       "brakes": "前後短腿 V 煞"
     },
     "scores": {
-      "sport": 4.0,
-      "commute": 9.8,
-      "portability": 9.8,
-      "rigidity": 6.8,
-      "moddability": 9.8
+      "weight": 9.8,
+      "volume": 8.6,
+      "rigidity": 5.5,
+      "moddability": 7.0,
+      "resale": 8.0,
+      "cp": 7.7,
+      "portability": 9.1,
+      "commute": 8.0,
+      "sport": 7.0
     },
     "keyFeatures": [
       "華人改裝折疊車文化始祖「412」，開啟無數單車玩家的改裝啟蒙",
@@ -5472,11 +5676,15 @@
       "brakes": "前後長腿 C 夾"
     },
     "scores": {
-      "sport": 8.2,
-      "commute": 8.8,
-      "portability": 9.0,
-      "rigidity": 8.8,
-      "moddability": 8.5
+      "weight": 8.5,
+      "volume": 8.3,
+      "rigidity": 7.0,
+      "moddability": 8.4,
+      "resale": 7.0,
+      "cp": 6.5,
+      "portability": 8.4,
+      "commute": 8.1,
+      "sport": 7.8
     },
     "keyFeatures": [
       "兼備三折車的方正收折體積與標準公路車的 130mm 後開檔外變系統",
@@ -5574,11 +5782,15 @@
       "brakes": "前後輕量 V 煞"
     },
     "scores": {
-      "sport": 7.5,
-      "commute": 8.5,
-      "portability": 7.8,
-      "rigidity": 8.0,
-      "moddability": 8.0
+      "weight": 8.3,
+      "volume": 6.4,
+      "rigidity": 8.3,
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 7.2,
+      "portability": 7.3,
+      "commute": 7.6,
+      "sport": 8.2
     },
     "keyFeatures": [
       "革命性旋轉隱藏鎖扣機制，全車外觀看不到任何外凸快拆板手",
@@ -5676,11 +5888,15 @@
       "brakes": "前後 V 煞 (鋁合金制動臂配耐磨膠塊)"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 9.3,
-      "portability": 8.2,
-      "rigidity": 8.5,
-      "moddability": 8.0
+      "weight": 5.8,
+      "volume": 3.8,
+      "rigidity": 7.0,
+      "moddability": 9.0,
+      "resale": 7.0,
+      "cp": 7.8,
+      "portability": 4.7,
+      "commute": 6.0,
+      "sport": 7.3
     },
     "keyFeatures": [
       "全台實體門市與電商通路市佔率第一，終身車架與前叉保固售後無憂",
@@ -5798,11 +6014,15 @@
       "brakes": "前後 Promax 線拉機械碟煞 (160mm碟盤)"
     },
     "scores": {
-      "sport": 7.8,
-      "commute": 9.8,
-      "portability": 7.2,
-      "rigidity": 9.2,
-      "moddability": 6.5
+      "weight": 2.3,
+      "volume": 4.0,
+      "rigidity": 9.5,
+      "moddability": 5.0,
+      "resale": 7.0,
+      "cp": 4.4,
+      "portability": 3.2,
+      "commute": 4.9,
+      "sport": 6.4
     },
     "keyFeatures": [
       "榮獲台灣精品金質獎，主車架無斷點一體成型極致抗扭剛性",
@@ -5904,11 +6124,15 @@
       "brakes": "前後鋁合金 V 煞 / 機械碟煞"
     },
     "scores": {
-      "sport": 7.2,
-      "commute": 8.8,
-      "portability": 7.5,
-      "rigidity": 7.8,
-      "moddability": 9.0
+      "weight": 5.0,
+      "volume": 4.9,
+      "rigidity": 7.0,
+      "moddability": 9.6,
+      "resale": 5.0,
+      "cp": 8.7,
+      "portability": 4.9,
+      "commute": 6.3,
+      "sport": 7.3
     },
     "keyFeatures": [
       "台灣網購賣場（momo、PChome、Yahoo）連續十餘年長青熱銷榜首小折",
@@ -6020,11 +6244,15 @@
       "brakes": "前後機械碟煞 / 跑車 C 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 8.4,
-      "portability": 7.8,
-      "rigidity": 8.2,
-      "moddability": 9.0
+      "weight": 6.7,
+      "volume": 4.4,
+      "rigidity": 7.0,
+      "moddability": 9.0,
+      "resale": 7.0,
+      "cp": 8.2,
+      "portability": 5.4,
+      "commute": 6.4,
+      "sport": 7.5
     },
     "keyFeatures": [
       "台灣中台灣車業組裝製造，露天、蝦皮與單車論壇口耳相傳的平民跑折神話",
@@ -6134,11 +6362,15 @@
       "brakes": "前後機械碟煞 / 超輕量短臂 V 煞"
     },
     "scores": {
-      "sport": 8.6,
-      "commute": 8.8,
-      "portability": 8.2,
-      "rigidity": 8.8,
-      "moddability": 8.8
+      "weight": 6.9,
+      "volume": 4.8,
+      "rigidity": 7.0,
+      "moddability": 9.6,
+      "resale": 7.0,
+      "cp": 7.5,
+      "portability": 5.7,
+      "commute": 6.7,
+      "sport": 7.8
     },
     "keyFeatures": [
       "台灣恆豐車業（HENG FENG）精工自產成車品牌，工藝品管直逼一線歐美大牌",
@@ -6247,11 +6479,15 @@
       "brakes": "前後油壓碟煞 / 機械碟煞"
     },
     "scores": {
-      "sport": 7.5,
-      "commute": 9.0,
-      "portability": 8.0,
-      "rigidity": 8.4,
-      "moddability": 8.2
+      "weight": 6.1,
+      "volume": 4.7,
+      "rigidity": 7.0,
+      "moddability": 9.2,
+      "resale": 7.0,
+      "cp": 7.6,
+      "portability": 5.3,
+      "commute": 6.4,
+      "sport": 7.4
     },
     "keyFeatures": [
       "源自加拿大都會單車設計，曾為好市多（Costco）熱賣常駐進口小折名牌",
@@ -6358,11 +6594,15 @@
       "brakes": "前 C 夾 / 後鼓式煞車 (或前後 V 煞)"
     },
     "scores": {
-      "sport": 5.8,
-      "commute": 9.1,
-      "portability": 7.0,
-      "rigidity": 7.2,
-      "moddability": 7.8
+      "weight": 3.9,
+      "volume": 4.1,
+      "rigidity": 7.0,
+      "moddability": 8.4,
+      "resale": 7.0,
+      "cp": 8.3,
+      "portability": 4.0,
+      "commute": 5.5,
+      "sport": 6.6
     },
     "keyFeatures": [
       "日本 OTOMO 經典 Raychell 授權血統，全台電商女大生與文青通勤人氣款",
@@ -6465,11 +6705,15 @@
       "brakes": "前後 V 煞 / 鼓煞"
     },
     "scores": {
-      "sport": 6.0,
-      "commute": 8.5,
-      "portability": 7.2,
+      "weight": 4.4,
+      "volume": 5.1,
       "rigidity": 7.0,
-      "moddability": 8.5
+      "moddability": 9.6,
+      "resale": 7.0,
+      "cp": 8.6,
+      "portability": 4.8,
+      "commute": 6.2,
+      "sport": 7.1
     },
     "keyFeatures": [
       "台灣電商與批發市集最暢銷的 NT$3,000~4,000 元級國民入門代步折疊車",
@@ -6576,11 +6820,15 @@
       "brakes": "DAHON 專屬調校鋁合金高制動 V 煞"
     },
     "scores": {
-      "sport": 7.2,
-      "commute": 9.2,
-      "portability": 8.6,
-      "rigidity": 8.4,
-      "moddability": 9.0
+      "weight": 5.0,
+      "volume": 6.8,
+      "rigidity": 7.0,
+      "moddability": 8.0,
+      "resale": 8.0,
+      "cp": 8.0,
+      "portability": 6.0,
+      "commute": 6.6,
+      "sport": 6.8
     },
     "keyFeatures": [
       "台灣各大電商現貨最齊全、最容易一鍵下單直送到府的 DAHON 官方入門車系",
@@ -6686,11 +6934,15 @@
       "brakes": "前夾器 (雙軸C夾) / 後 Shimano 羅拉滾柱煞車 (Roller Brake)"
     },
     "scores": {
-      "sport": 7.0,
-      "commute": 9.6,
-      "portability": 7.8,
-      "rigidity": 8.6,
-      "moddability": 6.8
+      "weight": 3.8,
+      "volume": 2.2,
+      "rigidity": 8.0,
+      "moddability": 5.6,
+      "resale": 7.0,
+      "cp": 6.4,
+      "portability": 2.9,
+      "commute": 4.4,
+      "sport": 6.2
     },
     "keyFeatures": [
       "小米生態鏈標竿電輔小折，內置五通雙邊力矩傳感器，踩踏動力隨傳隨到",
@@ -6778,11 +7030,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 7.3,
+      "volume": 4.2,
+      "rigidity": 8.3,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.5,
+      "portability": 5.6,
+      "commute": 6.4,
+      "sport": 7.7
     },
     "keyFeatures": [
       "Moulton 代表性底盤幾何設計",
@@ -6882,11 +7138,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 7.7,
+      "volume": 5.1,
+      "rigidity": 8.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.2,
+      "portability": 6.3,
+      "commute": 6.7,
+      "sport": 7.6
     },
     "keyFeatures": [
       "Ori 代表性底盤幾何設計",
@@ -6987,11 +7247,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 7.7,
+      "volume": 3.8,
+      "rigidity": 9.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 4.6,
+      "portability": 5.6,
+      "commute": 6.5,
+      "sport": 8.1
     },
     "keyFeatures": [
       "Airnimal 代表性底盤幾何設計",
@@ -7090,11 +7354,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 9.2,
+      "weight": 7.9,
+      "volume": 8.2,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 4.8,
+      "portability": 8.1,
+      "commute": 7.6,
+      "sport": 7.2
     },
     "keyFeatures": [
       "Flamingo 代表性底盤幾何設計",
@@ -7192,11 +7460,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 8.5,
+      "volume": 9.1,
+      "rigidity": 4.5,
+      "moddability": 7.0,
+      "resale": 5.0,
+      "cp": 4.7,
+      "portability": 8.8,
+      "commute": 7.6,
+      "sport": 6.2
     },
     "keyFeatures": [
       "Jango 代表性底盤幾何設計",
@@ -7295,11 +7567,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 8.3,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 6.0,
+      "cp": 6.6,
+      "portability": 6.4,
+      "commute": 6.6,
+      "sport": 7.3
     },
     "keyFeatures": [
       "SAVA 代表性底盤幾何設計",
@@ -7399,11 +7675,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 8.3,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 6.0,
+      "cp": 6.6,
+      "portability": 6.4,
+      "commute": 6.6,
+      "sport": 7.3
     },
     "keyFeatures": [
       "Twitter 代表性底盤幾何設計",
@@ -7500,11 +7780,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 8.5,
+      "volume": 9.1,
+      "rigidity": 4.5,
+      "moddability": 7.0,
+      "resale": 5.0,
+      "cp": 6.8,
+      "portability": 8.8,
+      "commute": 7.6,
+      "sport": 6.2
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -7602,11 +7886,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 6.9,
+      "volume": 4.9,
+      "rigidity": 7.0,
+      "moddability": 7.0,
+      "resale": 8.0,
+      "cp": 4.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -7704,11 +7992,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 7.3,
+      "volume": 4.2,
+      "rigidity": 8.3,
+      "moddability": 7.0,
+      "resale": 10.0,
+      "cp": 6.5,
+      "portability": 5.6,
+      "commute": 6.4,
+      "sport": 7.7
     },
     "keyFeatures": [
       "Slingshot 代表性底盤幾何設計",
@@ -7807,11 +8099,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 7.7,
+      "volume": 5.1,
+      "rigidity": 8.0,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 5.6,
+      "portability": 6.3,
+      "commute": 6.7,
+      "sport": 7.6
     },
     "keyFeatures": [
       "Pacific Cycles 代表性底盤幾何設計",
@@ -7910,11 +8206,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 8.5,
+      "volume": 9.1,
+      "rigidity": 4.5,
+      "moddability": 7.0,
+      "resale": 4.0,
+      "cp": 6.8,
+      "portability": 8.8,
+      "commute": 7.6,
+      "sport": 6.2
     },
     "keyFeatures": [
       "Mobiky 代表性底盤幾何設計",
@@ -8011,11 +8311,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 5.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "Doppelganger 代表性底盤幾何設計",
@@ -8113,11 +8417,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 6.9,
+      "volume": 4.9,
+      "rigidity": 6.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.3,
+      "portability": 5.8,
+      "commute": 6.0,
+      "sport": 6.5
     },
     "keyFeatures": [
       "Oyama 代表性底盤幾何設計",
@@ -8213,11 +8521,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 7.3,
+      "volume": 4.2,
+      "rigidity": 8.3,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.5,
+      "portability": 5.6,
+      "commute": 6.4,
+      "sport": 7.7
     },
     "keyFeatures": [
       "Montague 代表性底盤幾何設計",
@@ -8315,11 +8627,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 4.1,
+      "volume": 5.3,
+      "rigidity": 5.5,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.0,
+      "portability": 4.8,
+      "commute": 5.4,
+      "sport": 5.6
     },
     "keyFeatures": [
       "Pacific Cycles 代表性底盤幾何設計",
@@ -8417,11 +8733,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 10.0,
+      "volume": 1.0,
+      "rigidity": 10.0,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.6,
+      "portability": 5.0,
+      "commute": 6.2,
+      "sport": 9.1
     },
     "keyFeatures": [
       "Tyrell 代表性底盤幾何設計",
@@ -8520,11 +8840,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 6.9,
+      "volume": 4.9,
+      "rigidity": 7.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "Oyama 代表性底盤幾何設計",
@@ -8622,11 +8946,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -8724,11 +9052,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 10.0,
+      "volume": 7.9,
+      "rigidity": 8.0,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 5.1,
+      "portability": 8.8,
+      "commute": 8.3,
+      "sport": 8.2
     },
     "keyFeatures": [
       "Hummingbird 代表性底盤幾何設計",
@@ -8826,11 +9158,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 7.7,
+      "volume": 7.4,
+      "rigidity": 9.0,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.9,
+      "portability": 7.5,
+      "commute": 7.7,
+      "sport": 8.1
     },
     "keyFeatures": [
       "Vello Bike 代表性底盤幾何設計",
@@ -8928,11 +9264,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 7.3,
+      "volume": 7.8,
+      "rigidity": 8.3,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.9,
+      "portability": 7.6,
+      "commute": 7.6,
+      "sport": 7.7
     },
     "keyFeatures": [
       "Helix 代表性底盤幾何設計",
@@ -9029,11 +9369,15 @@
       "brakes": "前後線控機械碟煞"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 8.5,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 3.2,
+      "volume": 4.2,
+      "rigidity": 5.5,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 3.8,
+      "portability": 3.8,
+      "commute": 4.8,
+      "sport": 5.4
     },
     "keyFeatures": [
       "Gocycle 代表性底盤幾何設計",
@@ -9132,11 +9476,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 10.0,
+      "volume": 10.0,
+      "rigidity": 4.5,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 5.0,
+      "portability": 10.0,
+      "commute": 8.3,
+      "sport": 6.6
     },
     "keyFeatures": [
       "Sinclair 代表性底盤幾何設計",
@@ -9234,11 +9582,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 9.2,
+      "volume": 10.0,
+      "rigidity": 5.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 4.9,
+      "portability": 9.6,
+      "commute": 8.2,
+      "sport": 6.7
     },
     "keyFeatures": [
       "Kwiggle 代表性底盤幾何設計",
@@ -9334,11 +9686,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 4.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "Bickerton 代表性底盤幾何設計",
@@ -9436,11 +9792,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 7.7,
+      "volume": 9.1,
+      "rigidity": 8.5,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 5.0,
+      "portability": 8.5,
+      "commute": 8.2,
+      "sport": 7.8
     },
     "keyFeatures": [
       "Riese & Müller 代表性底盤幾何設計",
@@ -9540,11 +9900,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 7.7,
+      "volume": 5.1,
+      "rigidity": 9.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 4.7,
+      "portability": 6.3,
+      "commute": 6.9,
+      "sport": 8.1
     },
     "keyFeatures": [
       "Tartaruga 代表性底盤幾何設計",
@@ -9643,11 +10007,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 7.7,
+      "volume": 5.1,
+      "rigidity": 9.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 4.7,
+      "portability": 6.3,
+      "commute": 6.9,
+      "sport": 8.1
     },
     "keyFeatures": [
       "Bernds 代表性底盤幾何設計",
@@ -9745,11 +10113,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -9850,11 +10222,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 6.9,
+      "volume": 6.8,
+      "rigidity": 6.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.5,
+      "portability": 6.8,
+      "commute": 6.7,
+      "sport": 6.5
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -9954,11 +10330,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 6.9,
+      "volume": 4.9,
+      "rigidity": 7.0,
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -10058,11 +10438,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 9.5
+      "weight": 9.6,
+      "volume": 7.0,
+      "rigidity": 6.0,
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 6.6,
+      "portability": 8.2,
+      "commute": 7.7,
+      "sport": 7.5
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -10161,11 +10545,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 7.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "DAHON 代表性底盤幾何設計",
@@ -10265,11 +10653,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 5.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "GIANT 代表性底盤幾何設計",
@@ -10369,11 +10761,15 @@
       "brakes": "前後線控機械碟煞"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 7.5
+      "weight": 6.9,
+      "volume": 4.9,
+      "rigidity": 7.0,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 4.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "Tern 代表性底盤幾何設計",
@@ -10473,11 +10869,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 6.5,
-      "rigidity": 7.0,
-      "moddability": 7.5
+      "weight": 1.1,
+      "volume": 1.0,
+      "rigidity": 5.5,
+      "moddability": 7.0,
+      "resale": 9.0,
+      "cp": 2.1,
+      "portability": 1.0,
+      "commute": 3.1,
+      "sport": 4.8
     },
     "keyFeatures": [
       "Tern 代表性底盤幾何設計",
@@ -10578,11 +10978,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 8.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "KHS 代表性底盤幾何設計",
@@ -10680,11 +11084,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 8.0,
-      "rigidity": 7.0,
-      "moddability": 9.5
+      "weight": 6.9,
+      "volume": 4.9,
+      "rigidity": 6.0,
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 6.2,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 6.8
     },
     "keyFeatures": [
       "Fnhon 代表性底盤幾何設計",
@@ -10783,11 +11191,15 @@
       "brakes": "前後線控機械碟煞"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
-      "rigidity": 8.8,
-      "moddability": 9.5
+      "weight": 6.9,
+      "volume": 4.9,
+      "rigidity": 7.0,
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 6.3,
+      "portability": 5.8,
+      "commute": 6.4,
+      "sport": 7.3
     },
     "keyFeatures": [
       "Fnhon 代表性底盤幾何設計",
@@ -10885,11 +11297,15 @@
       "brakes": "前後線控機械碟煞"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 9.5
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 6.3,
+      "portability": 5.8,
+      "commute": 6.4,
+      "sport": 7.3
     },
     "keyFeatures": [
       "Crius 代表性底盤幾何設計",
@@ -10987,11 +11403,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 8.5,
-      "portability": 9.2,
+      "weight": 7.9,
+      "volume": 8.2,
       "rigidity": 7.0,
-      "moddability": 9.5
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 6.7,
+      "portability": 8.1,
+      "commute": 7.8,
+      "sport": 7.5
     },
     "keyFeatures": [
       "Banian 代表性底盤幾何設計",
@@ -11090,11 +11510,15 @@
       "brakes": "前後線控機械碟煞"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 8.0,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 6.0,
+      "cp": 6.4,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "Java 代表性底盤幾何設計",
@@ -11194,11 +11618,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 2.8,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 6.0,
+      "cp": 5.7,
+      "portability": 4.0,
+      "commute": 5.2,
+      "sport": 5.9
     },
     "keyFeatures": [
       "Fiido 代表性底盤幾何設計",
@@ -11297,11 +11725,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 6.8,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 1.4,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 6.0,
+      "cp": 6.3,
+      "portability": 3.3,
+      "commute": 4.9,
+      "sport": 5.6
     },
     "keyFeatures": [
       "HIMO 代表性底盤幾何設計",
@@ -11401,11 +11833,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 8.0,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 7.5
+      "moddability": 7.0,
+      "resale": 6.0,
+      "cp": 8.5,
+      "portability": 5.8,
+      "commute": 6.2,
+      "sport": 7.0
     },
     "keyFeatures": [
       "Trinx 代表性底盤幾何設計",
@@ -11504,11 +11940,15 @@
       "brakes": "輕量 CNC 雙軸 V 夾"
     },
     "scores": {
-      "sport": 8.5,
-      "commute": 7.2,
-      "portability": 6.5,
+      "weight": 6.9,
+      "volume": 4.9,
       "rigidity": 7.0,
-      "moddability": 9.5
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 6.3,
+      "portability": 5.8,
+      "commute": 6.4,
+      "sport": 7.3
     },
     "keyFeatures": [
       "Windspeed 代表性底盤幾何設計",

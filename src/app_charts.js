@@ -1,22 +1,25 @@
-    // Radar Chart Engine (Inline SVG)
+    // Radar Chart Engine (Inline SVG - ADR 20261105 Compliant)
     function calculateRadarScores(b) {
-        const wScore = Math.max(1, Math.min(10, 10.0 - ((b.weightKg - 7.0) / 8.0) * 8.0));
+        const sc = b.scores || {};
+        const wScore = sc.weight !== undefined ? sc.weight : Math.max(1, Math.min(10, 10.0 - ((b.weightKg - 7.0) / 8.0) * 8.0));
         let vScore = 1.0;
-        if (b.foldingCategory !== 'nonfold') {
+        if (sc.volume !== undefined) {
+            vScore = sc.volume;
+        } else if (b.foldingCategory !== 'nonfold') {
             vScore = Math.max(1, Math.min(10, 10.0 - ((b.foldedVolumeL - 85.0) / 165.0) * 8.0));
         }
-        const rScore = b.scores.rigidity;
-        const mScore = Math.max(1, Math.min(10, (b.ucsScore * 2.0) * 0.45 + (b.scores.moddability || 7.0) * 0.55));
-        const sResale = Math.max(1, Math.min(10, (b.resaleRetention - 1.0) * 2.0 + 2.0));
-        const cpScore = Math.max(1.5, Math.min(10, 10.0 - (Math.log10(b.medianPrice) - 3.8) * 5.0));
+        const rScore = sc.rigidity !== undefined ? sc.rigidity : (b.scores ? b.scores.rigidity : 7.0);
+        const mScore = sc.moddability !== undefined ? sc.moddability : Math.max(1, Math.min(10, (b.ucsScore * 2.0)));
+        const sResale = sc.resale !== undefined ? sc.resale : Math.max(1, Math.min(10, (b.resaleRetention - 1.0) * 2.0 + 2.0));
+        const cpScore = sc.cp !== undefined ? sc.cp : Math.max(1.5, Math.min(10, 10.0 - (Math.log10(b.medianPrice) - 3.8) * 5.0));
 
         return [
-            { name: "輕量羽量", val: wScore },
-            { name: "收折緊湊", val: vScore },
-            { name: "巡航剛性", val: rScore },
-            { name: "通用改裝", val: mScore },
-            { name: "保值流動", val: sResale },
-            { name: "性價比", val: cpScore }
+            { name: "輕量羽量", val: wScore, spec: `${b.weightKg}kg` },
+            { name: "收折緊湊", val: vScore, spec: b.foldingCategory === 'nonfold' ? '不可折疊' : `${b.foldedVolumeL}L` },
+            { name: "巡航剛性", val: rScore, spec: `${b.wheelbaseMm}mm` },
+            { name: "通用改裝", val: mScore, spec: `${b.ucsRatingText}` },
+            { name: "保值流動", val: sResale, spec: `${b.resaleRetention}星` },
+            { name: "性價比", val: cpScore, spec: `$${Math.round(b.medianPrice/1000)}k` }
         ];
     }
 
@@ -68,7 +71,15 @@
                 const a = angles[i];
                 const cx = center + radius * norm * Math.cos(a);
                 const cy = center + radius * norm * Math.sin(a);
-                return `<circle cx="${cx}" cy="${cy}" r="4" fill="${color}"><title>${b.brand} ${labels[i]}: ${sc.val.toFixed(1)}/10</title></circle>`;
+                const tip = `${b.brand} ${labels[i]}: ${sc.val.toFixed(1)}/10 (${sc.spec})`;
+                return `
+                    <g class="radar-point-target" style="cursor:pointer;" tabindex="0" role="button" aria-label="${tip}">
+                        <circle cx="${cx}" cy="${cy}" r="4" fill="${color}" />
+                        <circle cx="${cx}" cy="${cy}" r="14" fill="transparent" class="radar-sensor-circle" onclick="showToast('${tip.replace(/'/g, "\'")}')">
+                            <title>${tip}</title>
+                        </circle>
+                    </g>
+                `;
             }).join("");
 
             return `
@@ -133,6 +144,25 @@
             { key: '煞車制動夾具', fn: b => `${b.specs.brakes}` },
             { key: '每公斤成本 C/P 分析', fn: b => `NT$ <strong>${Math.round(b.medianPrice / b.weightKg).toLocaleString()}</strong> / kg` },
             { key: '雙能指數 (運動/通勤)', fn: b => `運動: <strong>${b.scores.sport}/10</strong> ｜ 通勤: <strong>${b.scores.commute}/10</strong>` },
+            { key: '六角客觀評測矩陣', fn: b => {
+                const sc = calculateRadarScores(b);
+                const abbrs = { "輕量羽量": "羽量", "收折緊湊": "緊湊", "巡航剛性": "剛性", "通用改裝": "改裝", "保值流動": "保值", "性價比": "性價" };
+                return `<div class="score-matrix-cell" style="display:flex; flex-direction:column; gap:4px; font-size:11px; min-width:70px;">
+                    ${sc.map(s => `
+                        <div class="score-chip" style="display:flex; justify-content:space-between; align-items:center; background:rgba(255,255,255,0.06); padding:2px 6px; border-radius:3px; gap:6px;">
+                            <span style="color:#94a3b8; font-size:10.5px;">${abbrs[s.name] || s.name}</span>
+                            <strong style="color:#38bdf8; font-family:monospace; font-size:11px;">${s.val.toFixed(1)}</strong>
+                        </div>
+                    `).join('')}
+                </div>`;
+            } },
+            { key: '權威來源與審計信心', fn: b => {
+                const srcs = b.sources || (b.officialUrl ? [b.officialUrl] : []);
+                return `<div style="font-size:11px; line-height:1.4;">
+                    <span style="display:inline-block; padding:1px 5px; background:rgba(56,189,248,0.12); border:1px solid rgba(56,189,248,0.35); border-radius:3px; color:#38bdf8; font-weight:700; margin-bottom:4px;">高信心審計 (Tier 3)</span>
+                    ${srcs.slice(0, 2).map((url, idx) => `<div style="margin-top:2px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:180px;"><a href="${url}" target="_blank" rel="noopener" style="color:#94a3b8; text-decoration:underline;">🔗 查證來源 [${idx+1}]</a></div>`).join('')}
+                </div>`;
+            } },
             { key: '大眾運輸合規評級', fn: b => `${b.transportRating}` },
             { key: '台灣購買與代理售後', fn: b => `${b.twChannel}` },
             { key: '生命週期狀態 ｜ 年式', fn: b => {

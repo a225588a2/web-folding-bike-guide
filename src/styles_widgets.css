@@ -308,3 +308,43 @@
             transform: translateX(-50%) translateY(0);
             opacity: 1;
         }
+
+/* Radar Touch Sensor & Vertical Chips (ADR 20261105) */
+.radar-sensor-circle {
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
+.radar-point-target:focus circle:first-child,
+.radar-point-target:hover circle:first-child {
+    r: 6;
+    stroke: #fff;
+    stroke-width: 2;
+}
+.score-matrix-cell {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.score-chip {
+    transition: background 0.15s ease;
+}
+.score-chip:hover {
+    background: rgba(255, 255, 255, 0.12) !important;
+}
+@media (max-width: 480px) {
+    .compare-table th.sticky-col {
+        width: 110px !important;
+        font-size: 11.5px !important;
+        padding: 8px 6px !important;
+    }
+    .compare-table th.bike-col,
+    .compare-table td {
+        min-width: 70px !important;
+        padding: 8px 6px !important;
+        font-size: 11px !important;
+    }
+    .score-chip {
+        padding: 1px 3px !important;
+        font-size: 10px !important;
+    }
+}

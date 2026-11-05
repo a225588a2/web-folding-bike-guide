@@ -595,9 +595,10 @@
             if (item.ucsScore < currentFilter.minUcs) {
                 return false;
             }
-            if (currentFilter.orientation === 'commute' && item.scores.commute < 8.5) return false;
-            if (currentFilter.orientation === 'sport' && item.scores.sport < 8.5) return false;
-            if (currentFilter.orientation === 'balanced' && (item.scores.commute < 7.0 || item.scores.sport < 7.0)) return false;
+            // Calibrated thresholds for de-inflated objective scores (ADR 20261105)
+            if (currentFilter.orientation === 'commute' && item.scores.commute < 7.5) return false;
+            if (currentFilter.orientation === 'sport' && item.scores.sport < 7.5) return false;
+            if (currentFilter.orientation === 'balanced' && (item.scores.commute < 6.2 || item.scores.sport < 6.2)) return false;
 
             if (currentFilter.search) {
                 const q = currentFilter.search.toLowerCase();
@@ -733,3 +734,13 @@
         applyFilters();
     }
 
+
+    // Rubric Explanation Modal
+    function openRubricModal() {
+        const modal = document.getElementById("rubricModal");
+        if (modal) modal.classList.add("open");
+    }
+    function closeRubricModal() {
+        const modal = document.getElementById("rubricModal");
+        if (modal) modal.classList.remove("open");
+    }
