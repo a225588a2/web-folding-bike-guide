@@ -293,7 +293,7 @@
 
     function toggleAllLadder() {
         showAllLadder = !showAllLadder;
-        document.getElementById("btnToggleAllLadder").innerText = showAllLadder ? "收合排行榜 (前 15 名) ▴" : "展開全 110 車系完整排行 ▾";
+        document.getElementById("btnToggleAllLadder").innerText = showAllLadder ? "收合排行榜 (前 15 名) ▴" : "展開全 108 車系完整排行 ▾";
         renderLadder();
     }
 
@@ -313,12 +313,7 @@
                 isReverse = true;
                 break;
             case 'volume':
-                // Exclude nonfold S80 from top volume rank
-                sorted.sort((a, b) => {
-                    if (a.foldingCategory === 'nonfold') return 1;
-                    if (b.foldingCategory === 'nonfold') return -1;
-                    return a.foldedVolumeL - b.foldedVolumeL;
-                });
+                sorted.sort((a, b) => a.foldedVolumeL - b.foldedVolumeL);
                 valExtractor = d => d.foldedVolumeL;
                 valFormatter = v => v.toFixed(1) + " L";
                 maxVal = 320.0;

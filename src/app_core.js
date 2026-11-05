@@ -278,6 +278,12 @@
         };
         const stObj = statusMap[item.productionStatus] || { label: item.productionStatus, class: 'status-active' };
         const statusBadgeHtml = `<span class="status-badge ${stObj.class}">${stObj.label}</span><span class="year-badge">(${item.firstReleaseYear}~${item.latestModelYear})</span>`;
+        const agencyClosedBadge = item.channelStatus === 'AGENCY_CLOSED'
+            ? `<span class="status-badge status-agency-closed">⚠️ 實體代理已歇業</span>`
+            : '';
+        const distributorDisplay = item.channelStatus === 'AGENCY_CLOSED'
+            ? `${item.twDistributor} (實體代理已歇業)`
+            : item.twDistributor;
         const stars = '★'.repeat(item.resaleRetention || 3) + '☆'.repeat(5 - (item.resaleRetention || 3));
 
         return `
@@ -288,6 +294,7 @@
                         <span class="card-id-badge">${item.id}</span>
                         <span style="font-size: 11px; font-weight: 700; color: ${badgeColor};">● ${item.camp}</span>
                         ${statusBadgeHtml}
+                        ${agencyClosedBadge}
                     </div>
                     <h3>${item.brand} ${item.seriesName}</h3>
                     <div class="en-title">${item.englishName}</div>
@@ -302,6 +309,17 @@
             </div>
 
             <div class="card-body">
+                <div class="card-index-bar" aria-label="車款綜合表現雙能指數：運動指數 ${item.scores.sport.toFixed(1)} 分，通勤指數 ${item.scores.commute.toFixed(1)} 分">
+                    <div class="index-badge index-sport" aria-label="運動指數: ${item.scores.sport.toFixed(1)} 分 (滿分 10)">
+                        <span class="index-lbl">⚡ 運動指數</span>
+                        <strong class="index-val">${item.scores.sport.toFixed(1)} <span class="index-max">/ 10</span></strong>
+                    </div>
+                    <div class="index-badge index-commute" aria-label="通勤指數: ${item.scores.commute.toFixed(1)} 分 (滿分 10)">
+                        <span class="index-lbl">🚇 通勤指數</span>
+                        <strong class="index-val">${item.scores.commute.toFixed(1)} <span class="index-max">/ 10</span></strong>
+                    </div>
+                </div>
+
                 <div class="metrics-grid">
                     <div class="metric-cell">
                         <div class="meta-lbl">💰 價格與成本分析</div>
@@ -323,6 +341,7 @@
                         <div class="sub-val" style="color:#e2e8f0; margin-top:2px;">
                             收折: <strong style="color:#38bdf8;">${item.foldedSizeCm[0]}×${item.foldedSizeCm[1]}×${item.foldedSizeCm[2]} cm (${item.foldedVolumeL}L)</strong>
                         </div>
+                        ${item.foldedVolumeNote ? `<div class="sub-val" style="color:#fbbf24; font-size:11px; margin-top:1px;">⚠️ ${item.foldedVolumeNote}</div>` : ''}
                         <div class="sub-val" style="color:#34d399; font-weight:700;">
                             體積縮減率: ${reductionPct}% (壓縮至 ${compressRatio}%)
                         </div>
@@ -352,7 +371,7 @@
                     <div class="logistics-cell">
                         <span class="logistics-lbl">🛡️ 代理通路授權</span>
                         <span class="logistics-val" style="color:#38bdf8;">${item.twChannelAuthority}</span>
-                        <span class="logistics-sub" title="${item.twDistributor}">${item.twDistributor}</span>
+                        <span class="logistics-sub" title="${distributorDisplay}">${distributorDisplay}</span>
                     </div>
                     <div class="logistics-cell">
                         <span class="logistics-lbl">🔧 耗材取得摩擦度</span>

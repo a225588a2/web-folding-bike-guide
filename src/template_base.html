@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>台灣市場折疊自行車 110 大車系平台全景指南 ｜ Taiwan Folding Bike Platform Guide</title>
+    <title>台灣市場折疊自行車 108 大車系平台全景指南 ｜ Taiwan Folding Bike Platform Guide</title>
     <style>
 /* __STYLES_CORE_CSS__ */
 /* __STYLES_WIDGETS_CSS__ */
@@ -17,8 +17,8 @@
     <header class="hero-banner">
         <div class="hero-header">
             <div class="hero-title">
-                <h1>🚲 台灣市場折疊自行車 110 大車系平台全景指南</h1>
-                <p>涵蓋 S01~S110 全景獨立底盤 ｜ 數據審計38項導正 ｜ Inline SVG 六角多維雷達 ｜ 齒比踏頻與汽車後廂3D模擬 ｜ 智能選車精靈 ｜ 18家名店導覽</p>
+                <h1>🚲 台灣市場折疊自行車 108 大車系平台全景指南</h1>
+                <p>涵蓋 S01~S109 (共 108 款) 全景獨立底盤 ｜ 數據審計38項導正 ｜ Inline SVG 六角多維雷達 ｜ 齒比踏頻與汽車後廂3D模擬 ｜ 智能選車精靈 ｜ 18家名店導覽</p>
             </div>
             <div class="hero-actions">
                 <button class="hero-quick-btn accent-amber" onclick="openQuizModal()">
@@ -44,7 +44,7 @@
         
         <div class="hero-stats-row">
             <div class="stat-pill">
-                <div class="num">110</div>
+                <div class="num">108</div>
                 <div class="label">獨立底盤車系平台</div>
             </div>
             <div class="stat-pill">
@@ -74,7 +74,7 @@
                 <div>
                     <h2 style="font-size: 15.5px; font-weight: 800; color: #fff;">台灣折疊車市場：價格金字塔與整備重量梯度宏觀分析 (Market Analytics)</h2>
                     <p style="font-size: 12px; color: var(--text-muted); margin-top: 2px;">
-                        全案 110 車系價格帶橫跨 NT$ 2,900 ~ 245,000 ｜ 重量橫跨 5.7kg ~ 33.5kg ｜ 點擊展開/收合宏觀購車導航
+                        全案 108 車系價格帶橫跨 NT$ 2,900 ~ 245,000 ｜ 重量橫跨 5.7kg ~ 33.5kg ｜ 點擊展開/收合宏觀購車導航
                     </p>
                 </div>
             </div>
@@ -205,7 +205,7 @@
                 <div class="legend-box">
                     <div class="legend-title">
                         <span>陣營分類圖例 (點擊高亮)</span>
-                        <span style="font-size: 11px; color: var(--text-muted);">共 110 車系</span>
+                        <span style="font-size: 11px; color: var(--text-muted);">共 108 車系</span>
                     </div>
                     <div class="legend-item" onclick="filterByCamp('all')">
                         <span class="legend-dot" style="background: #94a3b8;"></span>
@@ -261,7 +261,7 @@
                     <button class="ladder-tab-btn" data-ladder-cat="price" onclick="switchLadderCategory('price', this)">💰 經濟親民性價比天梯 (TWD)</button>
                 </div>
                 <button class="hero-quick-btn" id="btnToggleAllLadder" onclick="toggleAllLadder()">
-                    展開全 110 車系完整排行 ▾
+                    展開全 108 車系完整排行 ▾
                 </button>
             </div>
             
@@ -280,7 +280,7 @@
             </div>
             
             <select id="sortSelect" class="sort-select" onchange="applyFilters()">
-                <option value="id_asc">排序：車系編號 (S01 → S110)</option>
+                <option value="id_asc">排序：車系編號 (S01 → S109)</option>
                 <option value="price_asc">價格：由低至高 (親民優先)</option>
                 <option value="price_desc">價格：由高至低 (旗艦頂規)</option>
                 <option value="weight_asc">重量：由輕至重 (羽量優先)</option>
@@ -338,20 +338,19 @@
             <div class="filter-group">
                 <label for="foldingFilter">折疊機構型態 (Folding Type)</label>
                 <select id="foldingFilter" class="pill-select" onchange="applyFilters()">
-                    <option value="all">全部折疊型態 (110款)</option>
-                    <option value="midfold">水平橫向中折 (Mid-Fold) [58款]</option>
+                    <option value="all">全部折疊型態 (108款)</option>
+                    <option value="midfold">水平橫向中折 (Mid-Fold) [56款]</option>
                     <option value="vertical">一體前後叉/縱向下折 (Vertical) [20款]</option>
                     <option value="slide_special">垂直滑軌/立體幾何 (Slide & Swivel) [12款]</option>
-                    <option value="trifold">經典/捲折三折 (Trifold) [10款]</option>
+                    <option value="trifold">經典/捲折三折 (Trifold) [11款]</option>
                     <option value="coaxial">同軸旋轉/菱形大折 (Coaxial) [9款]</option>
-                    <option value="nonfold">不可折疊/小徑跑車 (Non-fold) [1款]</option>
                 </select>
             </div>
 
             <div class="filter-group">
                 <label for="lifecycleFilter">車系生命週期 (Lifecycle)</label>
                 <select id="lifecycleFilter" class="pill-select" onchange="applyFilters()">
-                    <option value="all">全部生命週期 (110款)</option>
+                    <option value="all">全部生命週期 (108款)</option>
                     <option value="ACTIVE_IN_PRODUCTION">🟢 現役量產 (Active) [69款]</option>
                     <option value="DISCONTINUED_CLASSIC">🟠 停產名駒 (Discontinued) [22款]</option>
                     <option value="ACTIVE_IN_STOCK">🟡 庫存在售 (In Stock) [15款]</option>
@@ -363,7 +362,7 @@
             <div class="filter-group">
                 <label for="channelFilter">代理通路層級 (Authority)</label>
                 <select id="channelFilter" class="pill-select" onchange="applyFilters()">
-                    <option value="all">全部授權層級 (110款)</option>
+                    <option value="all">全部授權層級 (108款)</option>
                     <option value="總代理公司貨">總代理公司貨 [38款]</option>
                     <option value="純二手交流">純二手交流 [22款]</option>
                     <option value="原廠授權經銷">原廠授權經銷 [21款]</option>
@@ -402,7 +401,7 @@
     <!-- Active Filters & Result Count -->
     <div class="filter-status-bar">
         <div>
-            目前條件共篩選出 <span class="filter-count-highlight" id="filteredCount">110</span> 款獨立車系平台
+            目前條件共篩選出 <span class="filter-count-highlight" id="filteredCount">108</span> 款獨立車系平台
             <span id="activeFilterDesc" style="margin-left: 8px;"></span>
         </div>
         <div style="font-size: 11.5px; color: var(--text-muted);">
@@ -688,7 +687,7 @@
             <div class="modal-body" style="line-height: 1.6; font-size: 13.5px; color: #cbd5e1;">
                 <div style="background: rgba(56, 189, 248, 0.08); border-left: 4px solid #38bdf8; padding: 12px 16px; border-radius: 4px; margin-bottom: 20px;">
                     <strong style="color: #38bdf8; font-size: 14.5px;">議會決策 (ADR 20261105-bike-scoring-rubric) 核心原則：</strong><br>
-                    全面廢除主觀手動打分引發之通膨缺陷。全站 110 款車系評分 100% 由客觀物理規格（整備重量、收折體積、車身幾何、零件通用度、實售價與保值率）透過閉式解析方程式推導而成。
+                    全面廢除主觀手動打分引發之通膨缺陷。全站 108 款車系評分 100% 由客觀物理規格（整備重量、收折體積、車身幾何、零件通用度、實售價與保值率）透過閉式解析方程式推導而成。
                 </div>
 
                 <h3 style="color: #fff; font-size: 15px; margin: 16px 0 8px 0;">六角客觀物理樣條 (6-Axis Objective Splines)</h3>
@@ -710,7 +709,7 @@
 
                 <h3 style="color: #fff; font-size: 15px; margin: 20px 0 8px 0;">資料來源與 Tier 3 自動化 CI 卡控合約</h3>
                 <p>
-                    全站 110 款車系規格皆經由官方官方型錄、台灣總代理規格表與權威車媒實測核對，每款車系均附帶 <code>sources</code> 查證連結。代碼庫 CI 嚴格執行 <code>python scripts/validate_data.py</code>，客觀樣條演算偏差超過 $\pm 0.3$ 且無有效繁中理由者，直接中斷建置退出。
+                    全站 108 款車系規格皆經由官方官方型錄、台灣總代理規格表與權威車媒實測核對，每款車系均附帶 <code>sources</code> 查證連結。代碼庫 CI 嚴格執行 <code>python scripts/validate_data.py</code>，客觀樣條演算偏差超過 $\pm 0.3$ 且無有效繁中理由者，直接中斷建置退出。
                 </p>
                 <div style="text-align: right; margin-top: 16px;">
                     <button class="compare-launch-btn" onclick="closeRubricModal()" style="padding: 6px 16px; font-size: 12.5px;">
