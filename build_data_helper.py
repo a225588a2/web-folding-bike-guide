@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Builder Script for Taiwan Folding Bike Series Guide (108 Series Platforms SPWA)
+Builder Script for Taiwan Folding Bike Series Guide (109 Series Platforms SPWA)
 Includes:
-- Audited 108 Series Platforms
+- Audited 109 Series Platforms
 - Inline SVG 6-Axis Multi-Series Radar Chart
 - Gear-Inch / Cadence / Speed Calculator
 - Trunk Fit 3D Simulator
@@ -61,7 +61,7 @@ def build_app():
             data = json.load(f)
     else:
         raise FileNotFoundError(f"Missing series database: {data_file}")
-    assert len(data) == 108, f"Expected 108 series, got {len(data)}"
+    assert len(data) == 109, f"Expected 109 series, got {len(data)}"
     
     ebike_ids = {"S27", "S55", "S63", "S84", "S86", "S100", "S107", "S108"}
     for item in data:

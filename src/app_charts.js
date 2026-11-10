@@ -293,7 +293,7 @@
 
     function toggleAllLadder() {
         showAllLadder = !showAllLadder;
-        document.getElementById("btnToggleAllLadder").innerText = showAllLadder ? "收合排行榜 (前 15 名) ▴" : "展開全 108 車系完整排行 ▾";
+        document.getElementById("btnToggleAllLadder").innerText = showAllLadder ? "收合排行榜 (前 15 名) ▴" : "展開全 109 車系完整排行 ▾";
         renderLadder();
     }
 

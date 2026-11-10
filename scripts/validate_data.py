@@ -5,7 +5,7 @@ Enforces ADR 20261104-folding-bike-slimming-rebuild-plan Contracts:
 - Tier 1: Strict Physical Envelope & Volumetric Math Verification
 - Tier 2: Business Semantic, Schema v2.0 & Taiwan Distribution Channel Contracts
 Exit Code Contract:
-- 0: All 108 series 100% compliant with physics, schema and ground truth anchors.
+- 0: All 109 series 100% compliant with physics, schema and ground truth anchors.
 - 1: Verification failed with violation details.
 """
 import sys
@@ -28,17 +28,17 @@ def validate():
     with open(target_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Rule 0: Exactly 108 series with strict sequential IDs S01~S110 (excluding S80, S110)
-    if len(data) != 108:
-        print(f"[FAIL] Expected exactly 108 series, got {len(data)}")
+    # Rule 0: Exactly 109 series with strict sequential IDs S01~S111 (excluding S80, S110)
+    if len(data) != 109:
+        print(f"[FAIL] Expected exactly 109 series, got {len(data)}")
         sys.exit(1)
 
-    expected_ids = [f"S{i:02d}" if i < 100 else f"S{i}" for i in range(1, 111) if i not in (80, 110)]
+    expected_ids = [f"S{i:02d}" if i < 100 else f"S{i}" for i in range(1, 112) if i not in (80, 110)]
     actual_ids = [d.get("id") for d in data]
     if expected_ids != actual_ids:
         print(f"[FAIL] Series ID mismatch. Diff: {set(expected_ids) ^ set(actual_ids)}")
         sys.exit(1)
-    print(f"[PASS] Rule 0: 108 Series sequential IDs (S01~S110 excluding S80, S110) strictly verified.")
+    print(f"[PASS] Rule 0: 109 Series sequential IDs (S01~S111 excluding S80, S110) strictly verified.")
 
     # 8 Core Anchor Truth Targets
     ANCHOR_TRUTHS = {
@@ -212,7 +212,7 @@ def validate():
         print("\n[VERDICT: FAILED] Exit code 1.")
         sys.exit(1)
 
-    print("\n[VERDICT: 100% PASS] All 108 series strictly adhere to physics bounds, Schema v2.0 contracts, and Tier 3 Objective Rubric!")
+    print("\n[VERDICT: 100% PASS] All 109 series strictly adhere to physics bounds, Schema v2.0 contracts, and Tier 3 Objective Rubric!")
     sys.exit(0)
 
 if __name__ == "__main__":

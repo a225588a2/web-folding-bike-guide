@@ -5,7 +5,7 @@ Implements Council Decision 20261105-bike-scoring-rubric:
 - 6 Closed-form continuous rubric splines (weight, volume, rigidity, moddability, resale, cp)
 - 3 Dual-track backward-compatible closed-form derivations (portability, commute, sport)
 - Override governance support (scoreOverrides + overrideReason min 10 chars)
-- Outputs 9-key unified scores object for all 108 series
+- Outputs 9-key unified scores object for all 109 series
 """
 import os
 import sys
@@ -163,7 +163,7 @@ def main():
 
     updated_data = derive_scores(data)
 
-    # Compute statistics across all 108 series
+    # Compute statistics across all 109 series
     keys = ["weight", "volume", "rigidity", "moddability", "resale", "cp", "portability", "commute", "sport"]
     stats = {}
     for k in keys:

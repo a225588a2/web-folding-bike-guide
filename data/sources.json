@@ -934,11 +934,11 @@
   },
   "S103": {
     "brand": "Fnhon",
-    "seriesName": "Tornado / Monsoon 20吋破風粗水滴管跑折系列",
+    "seriesName": "Tornado 20吋破風水滴管跑折系列",
     "specConfidence": "HIGH",
     "sources": [
       "http://www.fnhon.com/",
-      "https://fnhon.asia/"
+      "https://fnhon.sg/"
     ]
   },
   "S104": {
@@ -997,6 +997,15 @@
       "http://www.trinx.com/",
       "https://strigabikes.com/products/trinx-dolphin-4-0-folding-bike",
       "https://www.youtube.com/watch?v=8Vz9X_9pG1U"
+    ]
+  },
+  "S111": {
+    "brand": "Fnhon",
+    "seriesName": "Monsoon 20吋雙樑高剛性跑折系列",
+    "specConfidence": "HIGH",
+    "sources": [
+      "http://www.fnhon.com/",
+      "https://fnhon.sg/"
     ]
   }
 }

@@ -3,7 +3,7 @@ const path = require('path');
 const vm = require('vm');
 const assert = require('assert');
 
-console.log('=== STARTING DEEP SYSTEMATIC VERIFICATION SUITE (108 SERIES ARCHITECTURE) ===');
+console.log('=== STARTING DEEP SYSTEMATIC VERIFICATION SUITE (109 SERIES ARCHITECTURE) ===');
 
 // 1. Read HTML
 const htmlPath = path.join('dist', 'folding_bike_series_guide_tw.html');
@@ -221,12 +221,12 @@ if (domMock._domReady) {
 }
 console.log('[PASS] Script loaded and initialized without errors in VM');
 
-// Test 1: Check all 108 series exist in SERIES_DATA
+// Test 1: Check all 109 series exist in SERIES_DATA
 const seriesData = evalInCtx('SERIES_DATA');
-assert.strictEqual(seriesData.length, 108, `Expected 108 series, got ${seriesData.length}`);
-console.log('[PASS] Test 1: Exactly 108 series present in database');
+assert.strictEqual(seriesData.length, 109, `Expected 109 series, got ${seriesData.length}`);
+console.log('[PASS] Test 1: Exactly 109 series present in database');
 
-// Test 2: Check canonical folding categories sum to 108
+// Test 2: Check canonical folding categories sum to 109
 const foldCats = ['trifold', 'vertical', 'midfold', 'coaxial', 'slide_special'];
 let totalFoldCount = 0;
 const foldCounts = {};
@@ -239,8 +239,8 @@ foldCats.forEach(cat => {
 });
 evalInCtx("currentFilter.folding = 'all';");
 console.log('Folding category distribution:', foldCounts);
-assert.strictEqual(totalFoldCount, 108, `Total bikes across folding categories (${totalFoldCount}) != 108`);
-console.log('[PASS] Test 2: 100% of 108 series match canonical folding categories (Trifold: 11, Vertical: 20, Mid-Fold: 56, Coaxial: 9, Slide: 12)');
+assert.strictEqual(totalFoldCount, 109, `Total bikes across folding categories (${totalFoldCount}) != 109`);
+console.log('[PASS] Test 2: 100% of 109 series match canonical folding categories (Trifold: 11, Vertical: 20, Mid-Fold: 57, Coaxial: 9, Slide: 12)');
 
 // Test 3: Test Keyword Searches (including new platforms S83~S109)
 const testQueries = [
@@ -291,7 +291,8 @@ const testQueries = [
     { q: 'Aria', expectedMin: 1, mustInclude: ['S106'] },
     { q: 'Fiido', expectedMin: 1, mustInclude: ['S107'] },
     { q: 'Himo', expectedMin: 1, mustInclude: ['S108'] },
-    { q: 'Trinx', expectedMin: 1, mustInclude: ['S109'] }
+    { q: 'Trinx', expectedMin: 1, mustInclude: ['S109'] },
+    { q: 'Monsoon', expectedMin: 1, mustInclude: ['S111'] }
 ];
 
 testQueries.forEach(t => {
@@ -322,7 +323,7 @@ evalInCtx('toggleAllLadder()');
 assert.strictEqual(evalInCtx('showAllLadder'), true);
 evalInCtx('toggleAllLadder()');
 assert.strictEqual(evalInCtx('showAllLadder'), false);
-console.log('[PASS] Test 5: toggleAllLadder toggles between 15 items and full 108 items');
+console.log('[PASS] Test 5: toggleAllLadder toggles between 15 items and full 109 items');
 
 // Test 6: Verify focusCard auto-resets filters when card is hidden
 evalInCtx('resetAllFilters()');
@@ -440,10 +441,10 @@ assert.strictEqual(extCss.length, 0, `Found external CSS: ${extCss.join(', ')}`)
 assert.strictEqual(extJs.length, 0, `Found external JS: ${extJs.join(', ')}`);
 console.log('[PASS] Test 11: 100% Zero-CDN and zero external network dependency confirmed (Pure offline SPWA)');
 
-// Test 12: Verify Hero Stat Pill displays exactly 108 platforms
-assert(html.includes('<div class="num">108</div>'), 'Hero stats must show 108 platforms');
-assert(!html.includes('<div class="num">110</div>') && !html.includes('<div class="num">82</div>') && !html.includes('<div class="num">63</div>') && !html.includes('<div class="num">53</div>'), 'Hero stats contains outdated numbers!');
-console.log('[PASS] Test 12: Hero banner stats correctly show 108 platforms (zero stale "110", "82", "63", "53")');
+// Test 12: Verify Hero Stat Pill displays exactly 109 platforms
+assert(html.includes('<div class="num">109</div>'), 'Hero stats must show 109 platforms');
+assert(!html.includes('<div class="num">110</div>') && !html.includes('<div class="num">108</div>') && !html.includes('<div class="num">82</div>') && !html.includes('<div class="num">63</div>') && !html.includes('<div class="num">53</div>'), 'Hero stats contains outdated numbers!');
+console.log('[PASS] Test 12: Hero banner stats correctly show 109 platforms (zero stale "110", "108", "82", "63", "53")');
 
 // Test 13: Verify Canvas Interactive Quadrant Plot
 const canvasModes = ['sport_commute', 'portability_rigidity', 'price_weight'];
@@ -451,15 +452,15 @@ canvasModes.forEach(m => {
     evalInCtx(`document.getElementById('quadrantViewMode').value = '${m}';`);
     evalInCtx('renderQuadrant()');
     const pts = evalInCtx('canvasPoints');
-    assert.strictEqual(pts.length, 108, `Mode ${m} expected 108 canvas points, got ${pts.length}`);
+    assert.strictEqual(pts.length, 109, `Mode ${m} expected 109 canvas points, got ${pts.length}`);
     pts.forEach(pt => {
         assert(pt.x >= 54 && pt.x <= 776, `Mode ${m} Series ${pt.data.id} x=${pt.x} out of canvas bounds`);
         assert(pt.y >= 24 && pt.y <= 436, `Mode ${m} Series ${pt.data.id} y=${pt.y} out of canvas bounds`);
     });
 });
-console.log('[PASS] Test 13: All 108 series data points in all 3 canvas quadrant views stay strictly within plot boundaries');
+console.log('[PASS] Test 13: All 109 series data points in all 3 canvas quadrant views stay strictly within plot boundaries');
 
-// Test 14: Verify Schema v2.0 fields in all 108 series
+// Test 14: Verify Schema v2.0 fields in all 109 series
 const v2Keys = [
     'productionStatus', 'firstReleaseYear', 'latestModelYear', 'twDistributor',
     'twChannelAuthority', 'twWarrantyCoverage', 'partsFriction', 'resaleRetention',
@@ -473,9 +474,9 @@ seriesData.forEach(s => {
     assert(typeof s.latestModelYear === 'number' && s.latestModelYear >= s.firstReleaseYear && s.latestModelYear <= 2026, `Series ${s.id} invalid latestModelYear: ${s.latestModelYear}`);
     assert(typeof s.resaleRetention === 'number' && s.resaleRetention >= 1 && s.resaleRetention <= 5, `Series ${s.id} invalid resaleRetention: ${s.resaleRetention}`);
 });
-console.log('[PASS] Test 14: All 108 series have complete, non-null, valid Schema v2.0 lifecycle & logistics dimensions');
+console.log('[PASS] Test 14: All 109 series have complete, non-null, valid Schema v2.0 lifecycle & logistics dimensions');
 
-// Test 15: Verify Lifecycle filter works across all categories and sums to 108
+// Test 15: Verify Lifecycle filter works across all categories and sums to 109
 const lifeStatuses = ['ACTIVE_IN_PRODUCTION', 'ACTIVE_IN_STOCK', 'DISCONTINUED_CLASSIC', 'COLLECTIBLE_VINTAGE', 'DORMANT_DEFUNCT'];
 let totalLifeCount = 0;
 const lifeCounts = {};
@@ -494,10 +495,10 @@ assert.strictEqual(evalInCtx('getFilteredData().length'), lifeCounts['DORMANT_DE
 
 evalInCtx('resetAllFilters()');
 console.log('Lifecycle distribution:', lifeCounts);
-assert.strictEqual(totalLifeCount, 108, `Total bikes across lifecycle categories (${totalLifeCount}) != 108`);
-console.log('[PASS] Test 15: Lifecycle filter accurately categorizes all 108 series (sum = 108)');
+assert.strictEqual(totalLifeCount, 109, `Total bikes across lifecycle categories (${totalLifeCount}) != 109`);
+console.log('[PASS] Test 15: Lifecycle filter accurately categorizes all 109 series (sum = 109)');
 
-// Test 16: Verify Channel Authority filter works across all tiers and sums to 108
+// Test 16: Verify Channel Authority filter works across all tiers and sums to 109
 const channelTiers = ['總代理公司貨', '原廠授權經銷', '專門小徑工作室', '平行輸入水貨', '純二手交流'];
 let totalChannelCount = 0;
 const channelCounts = {};
@@ -511,8 +512,8 @@ channelTiers.forEach(ch => {
 });
 evalInCtx('resetAllFilters()');
 console.log('Channel tier distribution:', channelCounts);
-assert.strictEqual(totalChannelCount, 108, `Total bikes across channel tiers (${totalChannelCount}) != 108`);
-console.log('[PASS] Test 16: Channel Authority filter accurately categorizes all 108 series (sum = 108)');
+assert.strictEqual(totalChannelCount, 109, `Total bikes across channel tiers (${totalChannelCount}) != 109`);
+console.log('[PASS] Test 16: Channel Authority filter accurately categorizes all 109 series (sum = 109)');
 
 // Test 17: Verify Compare Modal properly translates COLLECTIBLE_VINTAGE and DORMANT_DEFUNCT
 evalInCtx('clearAllPinned()');
@@ -603,8 +604,8 @@ assert(drawerS01.innerHTML.includes('代表子型號與參考價格'), 'Hydrated
 assert(drawerS01.innerHTML.includes('二手選購避坑指南與通病檢查要點'), 'Hydrated drawer must contain buying traps');
 console.log('[PASS] Test 24: Card drawer lazy hydration and two-stage rendering verified');
 
-// Test 25: Verify all 108 series local image assets exist and are non-empty (>5KB)
-console.log('=== VERIFYING ALL 108 SERIES LOCAL IMAGES ON DISK ===');
+// Test 25: Verify all 109 series local image assets exist and are non-empty (>5KB)
+console.log('=== VERIFYING ALL 109 SERIES LOCAL IMAGES ON DISK ===');
 const imgDir = path.join('dist', 'images');
 assert(fs.existsSync(imgDir), 'dist/images directory does not exist');
 seriesData.forEach(s => {
@@ -615,7 +616,7 @@ seriesData.forEach(s => {
     const stat = fs.statSync(diskPath);
     assert(stat.size > 5000, `Series ${s.id} image too small (${stat.size} bytes): ${diskPath}`);
 });
-console.log('[PASS] Test 25: All 108 series have verified, decoupled, decodable local image files on disk (>5KB each)');
+console.log('[PASS] Test 25: All 109 series have verified, decoupled, decodable local image files on disk (>5KB each)');
 
 // Test 26: URL Hash State Sync, History Navigation, & Print Hydration
 domMock.window.location.hash = '#compare=S01,S05,S09&sort=weight_asc&wheel=16_349&priceMax=80000&search=Brompton';

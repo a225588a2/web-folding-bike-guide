@@ -7751,7 +7751,7 @@
       "seatpost": "31.8mm 輕量座管",
       "headsetStem": "快拆一體式鍛造立管",
       "drivetrain": "Shimano / S-Ride 9~11速跑格傳動",
-      "brakes": "輕量 CNC 雙軸 V 夾"
+      "brakes": "前後線控/油壓碟煞 (160mm)"
     },
     "scores": {
       "weight": 8.3,
@@ -7784,7 +7784,7 @@
       }
     ],
     "twChannel": "Twitter 台灣授權經銷通路",
-    "officialUrl": "https://www.foldingbike.guide",
+    "officialUrl": "https://www.twitter-bikes.com/",
     "svgType": "midfold",
     "aliases": [
       "追風",
@@ -7792,7 +7792,10 @@
       "破風小折",
       "碳纖維碟煞",
       "451碳折",
-      "超輕跑折"
+      "超輕跑折",
+      "Twitter F451",
+      "骓特",
+      "F451"
     ],
     "imageUrl": "images/S70.jpg",
     "priceRange": [
@@ -11167,74 +11170,74 @@
   {
     "id": "S103",
     "brand": "Fnhon",
-    "seriesName": "Tornado / Monsoon 20吋破風粗水滴管跑折系列",
-    "englishName": "Fnhon Tornado / Monsoon 20\" Aero & Long-Wheelbase Custom Platform",
+    "seriesName": "Tornado 20吋破風水滴管跑折系列",
+    "englishName": "Fnhon Tornado 20\" Aero Custom Platform",
     "camp": "個性改裝與模組自組",
     "campCode": "custom",
     "wheelSize": "20\" (406 / 451 兼容)",
     "wheelSizeCat": "20",
-    "tireClearance": "相容 1.25 ~ 1.75 寬胎",
-    "wheelbaseMm": 1020,
+    "tireClearance": "相容 1.25 ~ 1.75 跑胎 (支援 406/451 刀圈跑胎)",
+    "wheelbaseMm": 1025,
     "unfoldedSizeCm": [
       150,
       56,
       105
     ],
     "transportRating": "大眾運輸攜車袋合規",
-    "foldingType": "水平鍛造粗管中折 (Midfold)",
+    "foldingType": "水平鍛造水滴粗管中折 (Midfold)",
     "foldingCategory": "midfold",
     "foldSeconds": 15,
     "ucsScore": 4.0,
     "ucsRatingText": "4.0★ 公規改裝自由度高",
     "specs": {
       "frontOld": "100mm",
-      "rearOld": "130mm",
+      "rearOld": "135mm (碟煞)",
       "seatpost": "33.9mm 鋁合金輕量座管",
       "headsetStem": "快拆一體式鍛造立管",
-      "drivetrain": "Shimano / S-Ride 9~11速跑格傳動",
-      "brakes": "前後線控機械碟煞"
+      "drivetrain": "Shimano 9~11速跑格傳動 / 支援無線電變",
+      "brakes": "前後線控機械碟煞 / 支援油壓碟煞"
     },
     "scores": {
-      "weight": 6.9,
-      "volume": 4.9,
+      "weight": 7.7,
+      "volume": 5.4,
       "rigidity": 7.0,
       "moddability": 8.0,
       "resale": 7.0,
-      "cp": 6.3,
-      "portability": 5.8,
-      "commute": 6.4,
-      "sport": 7.3
+      "cp": 6.4,
+      "portability": 6.4,
+      "commute": 6.8,
+      "sport": 7.5
     },
     "keyFeatures": [
-      "Fnhon 代表性底盤幾何設計",
-      "水平鍛造粗管中折 (Midfold) 獨家收折機構",
-      "全方位都會通勤與運動跑旅雙棲設定"
+      "流線破風水滴管型與海豚仿生競速幾何",
+      "水平鍛造粗管中折機構搭配高剛性折疊扣",
+      "公路跑格定位，支援 406/451 高速輪組"
     ],
     "subModels": [
       {
-        "name": "Fnhon Standard",
-        "spec": "9速公路傳動",
+        "name": "Tornado 9S 跑格版",
+        "spec": "Shimano 9速公路傳動 / 機械碟煞",
         "weight": "10.5kg",
-        "price": "NT$ 32,800"
+        "price": "NT$ 26,800"
       },
       {
-        "name": "Fnhon Pro Edition",
-        "spec": "11速碳輪旗艦",
-        "weight": "9.2kg",
-        "price": "NT$ 56,800"
+        "name": "Tornado 11S 旗艦版",
+        "spec": "Shimano 11速碳輪跑折 / 油壓碟煞",
+        "weight": "9.8kg",
+        "price": "NT$ 42,800"
       }
     ],
-    "twChannel": "Fnhon 台灣授權經銷通路",
-    "officialUrl": "https://www.foldingbike.guide",
+    "twChannel": "風行工作室自組交流通路",
+    "officialUrl": "https://fnhon.sg/",
     "svgType": "midfold",
     "aliases": [
       "Fnhon Tornado",
-      "Fnhon Monsoon",
       "風行龍捲風",
-      "風行季風",
       "破風水滴管",
-      "長軸旅行小折",
-      "20吋碟煞跑折"
+      "海豚架小折",
+      "20吋碟煞跑折",
+      "Tornado 20",
+      "風行Tornado"
     ],
     "imageUrl": "images/S103.jpg",
     "priceRange": [
@@ -11244,29 +11247,29 @@
     "medianPrice": 29800,
     "tcoEstimate": 35800,
     "foldedSizeCm": [
-      80.0,
-      36.0,
-      66.0
+      78.0,
+      35.0,
+      65.0
     ],
-    "weightKg": 11.5,
-    "foldedVolumeL": 190.1,
+    "weightKg": 10.5,
+    "foldedVolumeL": 177.5,
     "weightRange": [
-      11.0,
-      12.1
+      9.8,
+      11.2
     ],
     "productionStatus": "ACTIVE_IN_STOCK",
-    "firstReleaseYear": 2000,
+    "firstReleaseYear": 2018,
     "latestModelYear": 2026,
     "twDistributor": "風行/克魯斯/黑岩改裝工作室",
     "twChannelAuthority": "專門小徑工作室",
     "twWarrantyCoverage": "車架經銷商 1 年保固",
-    "partsFriction": "特規零件需由代理商或改裝工作室提供",
+    "partsFriction": "公規零件通用性極高，特規折疊扣由工作室常備支援",
     "resaleRetention": 3.5,
     "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
     "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙",
     "sources": [
       "http://www.fnhon.com/",
-      "https://fnhon.asia/"
+      "https://fnhon.sg/"
     ],
     "specConfidence": "HIGH",
     "channelStatus": "ACTIVE"
@@ -11916,6 +11919,114 @@
       "http://www.trinx.com/",
       "https://strigabikes.com/products/trinx-dolphin-4-0-folding-bike",
       "https://www.youtube.com/watch?v=8Vz9X_9pG1U"
+    ],
+    "specConfidence": "HIGH",
+    "channelStatus": "ACTIVE"
+  },
+  {
+    "id": "S111",
+    "brand": "Fnhon",
+    "seriesName": "Monsoon 20吋雙樑高剛性跑折系列",
+    "englishName": "Fnhon Monsoon 20\" Dual-Tube High-Rigidity Platform",
+    "camp": "個性改裝與模組自組",
+    "campCode": "custom",
+    "wheelSize": "20\" (406 / 451 兼容)",
+    "wheelSizeCat": "20",
+    "tireClearance": "相容 1.35 ~ 2.0 巡航防刺胎",
+    "wheelbaseMm": 1030,
+    "unfoldedSizeCm": [
+      151,
+      56,
+      105
+    ],
+    "transportRating": "大眾運輸攜車袋合規",
+    "foldingType": "水平鍛造雙樑桁架中折 (Midfold)",
+    "foldingCategory": "midfold",
+    "foldSeconds": 15,
+    "ucsScore": 4.0,
+    "ucsRatingText": "4.0★ 公規改裝自由度高",
+    "specs": {
+      "frontOld": "100mm",
+      "rearOld": "135mm (碟煞)",
+      "seatpost": "33.9mm 鋁合金輕量座管",
+      "headsetStem": "快拆一體式鍛造立管",
+      "drivetrain": "Shimano Sora/Tiagra 9~10速 / 雙盤跑旅傳動",
+      "brakes": "前後線控機械碟煞 / 支援油壓碟煞"
+    },
+    "scores": {
+      "weight": 7.4,
+      "volume": 5.2,
+      "rigidity": 7.5,
+      "moddability": 8.0,
+      "resale": 7.0,
+      "cp": 6.4,
+      "portability": 6.2,
+      "commute": 6.8,
+      "sport": 7.6
+    },
+    "keyFeatures": [
+      "獨家雙管 Y-Frame 桁架強化高剛性幾何",
+      "抗踩踏扭曲衰減，適合長途巡航與載重騎乘",
+      "雙樑結構整合水壺架鎖點與多元配件擴充"
+    ],
+    "subModels": [
+      {
+        "name": "Monsoon 9S 巡航版",
+        "spec": "Shimano 9速都會巡航 / 機械碟煞",
+        "weight": "10.9kg",
+        "price": "NT$ 25,800"
+      },
+      {
+        "name": "Monsoon 20S 雙盤跑旅版",
+        "spec": "Shimano Tiagra 20速長途跑旅 / 油壓碟煞",
+        "weight": "10.4kg",
+        "price": "NT$ 39,800"
+      }
+    ],
+    "twChannel": "風行工作室自組交流通路",
+    "officialUrl": "https://fnhon.sg/",
+    "svgType": "midfold",
+    "aliases": [
+      "Fnhon Monsoon",
+      "風行季風",
+      "雙樑小折",
+      "雙管折疊車",
+      "Y型架小折",
+      "長軸巡航小折",
+      "Monsoon 20",
+      "風行Monsoon"
+    ],
+    "imageUrl": "images/S111.jpg",
+    "priceRange": [
+      18000,
+      46000
+    ],
+    "medianPrice": 28800,
+    "tcoEstimate": 34800,
+    "foldedSizeCm": [
+      78.0,
+      36.0,
+      65.0
+    ],
+    "weightKg": 10.9,
+    "foldedVolumeL": 182.5,
+    "weightRange": [
+      10.2,
+      11.8
+    ],
+    "productionStatus": "ACTIVE_IN_STOCK",
+    "firstReleaseYear": 2019,
+    "latestModelYear": 2026,
+    "twDistributor": "風行/克魯斯/黑岩改裝工作室",
+    "twChannelAuthority": "專門小徑工作室",
+    "twWarrantyCoverage": "車架經銷商 1 年保固",
+    "partsFriction": "公規零件通用性極高，特規折疊扣由工作室常備支援",
+    "resaleRetention": 3.5,
+    "publicTransitFit": "折疊後符合大眾運輸尺寸規範，需攜車袋進站",
+    "buyingTraps": "自組車需注意輪組偏擺、煞車線走線順暢度與折疊咬合間隙",
+    "sources": [
+      "http://www.fnhon.com/",
+      "https://fnhon.sg/"
     ],
     "specConfidence": "HIGH",
     "channelStatus": "ACTIVE"

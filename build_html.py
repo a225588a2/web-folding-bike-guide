@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Builder Script for Taiwan Folding Bike Series Guide (108 Series Platforms SPWA)
+Builder Script for Taiwan Folding Bike Series Guide (109 Series Platforms SPWA)
 Modular Pipeline: Combines 6 frontend modules from src/ with data from build_data_helper.py.
 Outputs:
   - dist/folding_bike_series_guide_tw.html
@@ -75,9 +75,9 @@ def ensure_images_symlink():
         print(f"[SYMLINK] Created symlink: {symlink_path} -> {target}")
 
 def build_html():
-    print("=== BUILDING FOLDING BIKE GUIDE SPWA (108 SERIES - MODULAR) ===")
+    print("=== BUILDING FOLDING BIKE GUIDE SPWA (109 SERIES - MODULAR) ===")
     data, json_data_str, shops_json_str = load_data()
-    assert len(data) == 108, f"Expected 108 series, got {len(data)}"
+    assert len(data) == 109, f"Expected 109 series, got {len(data)}"
     
     # Calculate camp counts
     camp_counts = {
